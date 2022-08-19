@@ -1,0 +1,1361 @@
+MATCH_ID,MAP,TOURNAMENT,TEAM,SIDE,SCORE,RESULT,DURATION,HERO_1,HERO_2,HERO_3,HERO_4,HERO_5
+1,1,DPC 2022 Summer Tour - China Division 1,Royal Never Give Up,dire,23,WIN,24:20,Ember Spirit,Ursa,Winter Wyvern,Nature's Prophet,Nyx Assassin
+1,1,DPC 2022 Summer Tour - China Division 1,Vici Gaming,radiant,8,LOSE,24:20,Phantom Assassin,Void Spirit,Warlock,Lion,Dawnbreaker
+1,2,DPC 2022 Summer Tour - China Division 1,Royal Never Give Up,dire,36,WIN,38:48,Lycan,Ogre Magi,Bloodseeker,Zeus,Tiny
+1,2,DPC 2022 Summer Tour - China Division 1,Vici Gaming,radiant,29,LOSE,38:48,Tidehunter,Spectre,Warlock,Razor,Marci
+2,1,DPC 2022 Summer Tour - China Division 1,Team Aster,dire,30,WIN,42:57,Spectre,Enigma,Dazzle,Razor,Tiny
+2,1,DPC 2022 Summer Tour - China Division 1,PSG.LGD,radiant,18,LOSE,42:57,Queen of Pain,Shadow Shaman,Dawnbreaker,Faceless Void,Warlock
+3,1,DPC 2022 Summer Tour - China Division 1,Vici Gaming,dire,23,LOSE,42:51,Spectre,Mars,Pugna,Ember Spirit,Monkey King
+3,1,DPC 2022 Summer Tour - China Division 1,EHOME,radiant,40,WIN,42:51,Alchemist,Pangolier,Snapfire,Marci,Puck
+3,2,DPC 2022 Summer Tour - China Division 1,Vici Gaming,radiant,12,LOSE,26:28,Templar Assassin,Earth Spirit,Razor,Warlock,Puck
+3,2,DPC 2022 Summer Tour - China Division 1,EHOME,dire,24,WIN,26:28,Enigma,Nature's Prophet,Nyx Assassin,Void Spirit,Tiny
+4,1,DPC 2022 Summer Tour - China Division 1,PSG.LGD,dire,27,WIN,37:38,Tinker,Bristleback,Earth Spirit,Razor,Warlock
+4,1,DPC 2022 Summer Tour - China Division 1,Royal Never Give Up,radiant,21,LOSE,37:38,Terrorblade,Ogre Magi,Ember Spirit,Keeper of the Light,Tiny
+4,2,DPC 2022 Summer Tour - China Division 1,PSG.LGD,radiant,29,WIN,41:01,Death Prophet,Rubick,Mars,Faceless Void,Warlock
+4,2,DPC 2022 Summer Tour - China Division 1,Royal Never Give Up,dire,23,LOSE,41:01,Spectre,Winter Wyvern,Razor,Keeper of the Light,Clockwerk
+5,1,DPC 2022 Summer Tour - China Division 1,Royal Never Give Up,radiant,30,WIN,29:14,Keeper of the Light,Juggernaut,Winter Wyvern,Zeus,Tiny
+5,1,DPC 2022 Summer Tour - China Division 1,Xtreme Gaming,dire,10,LOSE,29:14,Disruptor,Ursa,Visage,Dawnbreaker,Puck
+5,2,DPC 2022 Summer Tour - China Division 1,Royal Never Give Up,dire,36,WIN,36:55,Lina,Ursa,Marci,Razor,Nyx Assassin
+5,2,DPC 2022 Summer Tour - China Division 1,Xtreme Gaming,radiant,12,LOSE,36:55,Winter Wyvern,Weaver,Alchemist,Zeus,Warlock
+6,1,DPC 2022 Summer Tour - China Division 1,PSG.LGD,radiant,9,LOSE,32:50,Terrorblade,Mirana,Beastmaster,Void Spirit,Warlock
+6,1,DPC 2022 Summer Tour - China Division 1,Xtreme Gaming,dire,31,WIN,32:50,Huskar,Weaver,Enigma,Treant Protector,Tiny
+6,2,DPC 2022 Summer Tour - China Division 1,PSG.LGD,dire,27,LOSE,45:35,Earthshaker,Zeus,Spectre,Weaver,Treant Protector
+6,2,DPC 2022 Summer Tour - China Division 1,Xtreme Gaming,radiant,39,WIN,45:35,Earth Spirit,Ember Spirit,Terrorblade,Enigma,Warlock
+7,1,DPC 2022 Summer Tour - China Division 1,Royal Never Give Up,dire,31,WIN,29:23,Ursa,Nature's Prophet,Nyx Assassin,Dragon Knight,Marci
+7,1,DPC 2022 Summer Tour - China Division 1,EHOME,radiant,6,LOSE,29:23,Troll Warlord,Rubick,Phoenix,Puck,Tiny
+7,2,DPC 2022 Summer Tour - China Division 1,Royal Never Give Up,dire,15,LOSE,29:08,Centaur Warrunner,Shadow Shaman,Juggernaut,Death Prophet,Marci
+7,2,DPC 2022 Summer Tour - China Division 1,EHOME,radiant,27,WIN,29:08,Pangolier,Chaos Knight,Nature's Prophet,Windranger,Tiny
+7,3,DPC 2022 Summer Tour - China Division 1,Royal Never Give Up,dire,25,WIN,32:47,Queen of Pain,Kunkka,Earth Spirit,Nature's Prophet,Marci
+7,3,DPC 2022 Summer Tour - China Division 1,EHOME,radiant,13,LOSE,32:47,Brewmaster,Lycan,Windranger,Keeper of the Light,Tiny
+8,1,DPC 2022 Summer Tour - China Division 1,PSG.LGD,dire,28,WIN,32:15,Templar Assassin,Treant Protector,Razor,Bane,Tiny
+8,1,DPC 2022 Summer Tour - China Division 1,EHOME,radiant,18,LOSE,32:15,Earthshaker,Morphling,Visage,Crystal Maiden,Pangolier
+8,2,DPC 2022 Summer Tour - China Division 1,PSG.LGD,dire,20,LOSE,33:50,Phantom Assassin,Crystal Maiden,Phoenix,Ember Spirit,Doom
+8,2,DPC 2022 Summer Tour - China Division 1,EHOME,radiant,26,WIN,33:50,Windranger,Juggernaut,Monkey King,Visage,Pangolier
+8,3,DPC 2022 Summer Tour - China Division 1,PSG.LGD,dire,27,LOSE,41:19,Mars,Faceless Void,Jakiro,Treant Protector,Death Prophet
+8,3,DPC 2022 Summer Tour - China Division 1,EHOME,radiant,39,WIN,41:19,Beastmaster,Puck,Pugna,Visage,Tiny
+9,1,DPC 2022 Summer Tour - China Division 1,Team Aster,radiant,25,WIN,36:11,Visage,Faceless Void,Pudge,Dazzle,Tiny
+9,1,DPC 2022 Summer Tour - China Division 1,Xtreme Gaming,dire,11,LOSE,36:11,Lion,Underlord,Phoenix,Razor,Monkey King
+10,1,DPC 2022 Summer Tour - China Division 1,Xtreme Gaming,dire,30,WIN,29:04,Snapfire,Monkey King,Puck,Visage,Tiny
+10,1,DPC 2022 Summer Tour - China Division 1,Vici Gaming,radiant,9,LOSE,29:04,Grimstroke,Juggernaut,Void Spirit,Winter Wyvern,Doom
+10,2,DPC 2022 Summer Tour - China Division 1,Xtreme Gaming,radiant,21,WIN,32:51,Elder Titan,Templar Assassin,Puck,Doom,Visage
+10,2,DPC 2022 Summer Tour - China Division 1,Vici Gaming,dire,11,LOSE,32:51,Terrorblade,Snapfire,Mars,Monkey King,Tiny
+11,1,DPC 2022 Summer Tour - China Division 1,Xtreme Gaming,dire,30,WIN,36:19,Snapfire,Ember Spirit,Treant Protector,Visage,Monkey King
+11,1,DPC 2022 Summer Tour - China Division 1,EHOME,radiant,19,LOSE,36:19,Leshrac,Marci,Phoenix,Nature's Prophet,Pangolier
+11,2,DPC 2022 Summer Tour - China Division 1,Xtreme Gaming,dire,30,WIN,30:27,Underlord,Keeper of the Light,Enchantress,Pangolier,Monkey King
+11,2,DPC 2022 Summer Tour - China Division 1,EHOME,radiant,20,LOSE,30:27,Templar Assassin,Lion,Crystal Maiden,Void Spirit,Dawnbreaker
+12,1,DPC 2022 Summer Tour - China Division 1,PSG.LGD,radiant,23,WIN,24:06,Naga Siren,Shadow Shaman,Ember Spirit,Enchantress,Dawnbreaker
+12,1,DPC 2022 Summer Tour - China Division 1,Team Aster,dire,8,LOSE,24:06,Chaos Knight,Treant Protector,Visage,Puck,Tiny
+12,2,DPC 2022 Summer Tour - China Division 1,PSG.LGD,radiant,23,WIN,24:13,Bristleback,Marci,Io,Razor,Tiny
+12,2,DPC 2022 Summer Tour - China Division 1,Team Aster,dire,6,LOSE,24:13,Timbersaw,Morphling,Phoenix,Puck,Monkey King
+13,1,DPC 2022 Summer Tour - China Division 1,Team Aster,dire,25,WIN,43:05,Bristleback,Treant Protector,Puck,Razor,Tiny
+13,1,DPC 2022 Summer Tour - China Division 1,EHOME,radiant,14,LOSE,43:05,Spectre,Rubick,Beastmaster,Pangolier,Warlock
+13,2,DPC 2022 Summer Tour - China Division 1,Team Aster,dire,34,WIN,37:24,Chaos Knight,Beastmaster,Enchantress,Pudge,Winter Wyvern
+13,2,DPC 2022 Summer Tour - China Division 1,EHOME,radiant,19,LOSE,37:24,Medusa,Mars,Grimstroke,Visage,Void Spirit
+14,1,DPC 2022 Summer Tour - China Division 1,Vici Gaming,dire,24,WIN,32:17,Razor,Bristleback,Warlock,Dawnbreaker,Puck
+14,1,DPC 2022 Summer Tour - China Division 1,EHOME,radiant,15,LOSE,32:17,Sniper,Pangolier,Earth Spirit,Keeper of the Light,Marci
+14,2,DPC 2022 Summer Tour - China Division 1,Vici Gaming,radiant,29,LOSE,45:41,Brewmaster,Terrorblade,Winter Wyvern,Death Prophet,Nyx Assassin
+14,2,DPC 2022 Summer Tour - China Division 1,EHOME,dire,40,WIN,45:41,Chaos Knight,Monkey King,Enigma,Lina,Dawnbreaker
+14,3,DPC 2022 Summer Tour - China Division 1,Vici Gaming,radiant,8,LOSE,24:44,Void Spirit,Spectre,Snapfire,Death Prophet,Nyx Assassin
+14,3,DPC 2022 Summer Tour - China Division 1,EHOME,dire,22,WIN,24:44,Juggernaut,Visage,Marci,Lina,Dawnbreaker
+15,1,DPC 2022 Summer Tour - China Division 1,Team Aster,dire,24,LOSE,38:06,Brewmaster,Viper,Sven,Pudge,Winter Wyvern
+15,1,DPC 2022 Summer Tour - China Division 1,Royal Never Give Up,radiant,20,WIN,38:06,Lifestealer,Puck,Marci,Nature's Prophet,Nyx Assassin
+15,2,DPC 2022 Summer Tour - China Division 1,Team Aster,radiant,19,LOSE,50:55,Lycan,Weaver,Earth Spirit,Alchemist,Viper
+15,2,DPC 2022 Summer Tour - China Division 1,Royal Never Give Up,dire,19,WIN,50:55,Juggernaut,Razor,Abaddon,Puck,Tiny
+16,1,DPC 2022 Spring Tour - China Finals,Xtreme Gaming,dire,26,WIN,33:21,Witch Doctor,Lion,Wraith King,Lina,Pangolier
+16,1,DPC 2022 Spring Tour - China Finals,Team Aster,radiant,7,LOSE,33:21,Phantom Assassin,Timbersaw,Shadow Shaman,Ember Spirit,Keeper of the Light
+16,2,DPC 2022 Spring Tour - China Finals,Xtreme Gaming,radiant,9,LOSE,34:22,Morphling,Elder Titan,Lion,Lina,Pangolier
+16,2,DPC 2022 Spring Tour - China Finals,Team Aster,dire,21,WIN,34:22,Brewmaster,Dragon Knight,Treant Protector,Ember Spirit,Keeper of the Light
+16,3,DPC 2022 Spring Tour - China Finals,Xtreme Gaming,radiant,14,LOSE,34:38,Morphling,Puck,Undying,Dragon Knight,Shadow Shaman
+16,3,DPC 2022 Spring Tour - China Finals,Team Aster,dire,30,WIN,34:38,Lion,Grimstroke,Terrorblade,Brewmaster,Keeper of the Light
+17,1,DPC 2022 Spring Tour - China Finals,Royal Never Give Up,dire,30,WIN,42:07,Lifestealer,Necrophos,Lion,Grimstroke,Dragon Knight
+17,1,DPC 2022 Spring Tour - China Finals,Xtreme Gaming,radiant,19,LOSE,42:07,Batrider,Wraith King,Rubick,Abaddon,Pangolier
+17,2,DPC 2022 Spring Tour - China Finals,Royal Never Give Up,radiant,20,LOSE,43:26,Tusk,Bane,Phoenix,Medusa,Dragon Knight
+17,2,DPC 2022 Spring Tour - China Finals,Xtreme Gaming,dire,30,WIN,43:26,Huskar,Underlord,Nyx Assassin,Abaddon,Templar Assassin
+17,3,DPC 2022 Spring Tour - China Finals,Royal Never Give Up,dire,19,LOSE,46:05,Ursa,Brewmaster,Lion,Abaddon,Keeper of the Light
+17,3,DPC 2022 Spring Tour - China Finals,Xtreme Gaming,radiant,32,WIN,46:05,Weaver,Juggernaut,Pangolier,Grimstroke,Dragon Knight
+18,1,DPC 2022 Spring Tour - China Finals,PSG.LGD,radiant,24,WIN,24:09,Templar Assassin,Monkey King,Doom,Abaddon,Keeper of the Light
+18,1,DPC 2022 Spring Tour - China Finals,Royal Never Give Up,dire,8,LOSE,24:09,Juggernaut,Night Stalker,Hoodwink,Grimstroke,Ember Spirit
+18,2,DPC 2022 Spring Tour - China Finals,PSG.LGD,dire,37,WIN,34:12,Queen of Pain,Faceless Void,Dragon Knight,Doom,Grimstroke
+18,2,DPC 2022 Spring Tour - China Finals,Royal Never Give Up,radiant,25,LOSE,34:12,Razor,Ogre Magi,Templar Assassin,Mars,Shadow Shaman
+19,1,DPC 2022 Spring Tour - China Finals,Team Aster,dire,9,LOSE,34:03,Mars,Faceless Void,Hoodwink,Dragon Knight,Abaddon
+19,1,DPC 2022 Spring Tour - China Finals,PSG.LGD,radiant,24,WIN,34:03,Leshrac,Brewmaster,Omniknight,Monkey King,Shadow Shaman
+19,2,DPC 2022 Spring Tour - China Finals,Team Aster,dire,14,LOSE,34:05,Tiny,Mars,Shadow Demon,Pangolier,Pugna
+19,2,DPC 2022 Spring Tour - China Finals,PSG.LGD,radiant,23,WIN,34:05,Phoenix,Chaos Knight,Omniknight,Dragon Knight,Snapfire
+19,3,DPC 2022 Spring Tour - China Finals,Team Aster,dire,24,LOSE,40:07,Lifestealer,Templar Assassin,Dragon Knight,Brewmaster,Pugna
+19,3,DPC 2022 Spring Tour - China Finals,PSG.LGD,radiant,22,WIN,40:07,Underlord,Kunkka,Witch Doctor,Anti-Mage,Shadow Shaman
+20,1,DPC 2022 Spring Tour - China Finals,PSG.LGD,radiant,19,LOSE,40:09,Phantom Lancer,Puck,Phoenix,Doom,Bane
+20,1,DPC 2022 Spring Tour - China Finals,Xtreme Gaming,dire,31,WIN,40:09,Clinkz,Lina,Treant Protector,Shadow Shaman,Dragon Knight
+20,2,DPC 2022 Spring Tour - China Finals,PSG.LGD,radiant,35,WIN,29:30,Monkey King,Brewmaster,Death Prophet,Pangolier,Shadow Shaman
+20,2,DPC 2022 Spring Tour - China Finals,Xtreme Gaming,dire,15,LOSE,29:30,Juggernaut,Phoenix,Chaos Knight,Grimstroke,Dragon Knight
+20,3,DPC 2022 Spring Tour - China Finals,PSG.LGD,radiant,31,WIN,27:29,Monkey King,Shadow Demon,Lina,Brewmaster,Shadow Shaman
+20,3,DPC 2022 Spring Tour - China Finals,Xtreme Gaming,dire,13,LOSE,27:29,Centaur Warrunner,Templar Assassin,Death Prophet,Grimstroke,Dragon Knight
+21,1,DPC 2022 Spring Tour - China Finals,PSG.LGD,radiant,13,LOSE,28:13,Ursa,Silencer,Mars,Storm Spirit,Io
+21,1,DPC 2022 Spring Tour - China Finals,Team Aster,dire,31,WIN,28:13,Death Prophet,Chaos Knight,Phoenix,Dragon Knight,Shadow Shaman
+21,2,DPC 2022 Spring Tour - China Finals,PSG.LGD,radiant,15,LOSE,38:01,Ember Spirit,Lina,Undying,Mars,Io
+21,2,DPC 2022 Spring Tour - China Finals,Team Aster,dire,26,WIN,38:01,Medusa,Brewmaster,Bane,Phoenix,Dragon Knight
+22,1,DPC 2022 Spring Tour - Eastern Europe Division 1,Team Spirit,radiant,31,LOSE,55:05,Faceless Void,Hoodwink,Shadow Demon,Chaos Knight,Storm Spirit
+22,1,DPC 2022 Spring Tour - Eastern Europe Division 1,BetBoom Team,dire,46,WIN,55:05,Snapfire,Spirit Breaker,Grimstroke,Bane,Nature's Prophet
+22,2,DPC 2022 Spring Tour - Eastern Europe Division 1,Team Spirit,dire,29,WIN,31:54,Night Stalker,Tiny,Clockwerk,Keeper of the Light,Storm Spirit
+22,2,DPC 2022 Spring Tour - Eastern Europe Division 1,BetBoom Team,radiant,10,LOSE,31:54,Leshrac,Necrophos,Pugna,Grimstroke,Dragon Knight
+22,3,DPC 2022 Spring Tour - Eastern Europe Division 1,Team Spirit,radiant,17,LOSE,54:59,Magnus,Lina,Hoodwink,Chaos Knight,Bane
+22,3,DPC 2022 Spring Tour - Eastern Europe Division 1,BetBoom Team,dire,15,WIN,54:59,Terrorblade,Chen,Pangolier,Leshrac,Io
+23,1,DPC 2022 Spring Tour - Eastern Europe Division 1,Team Spirit,radiant,41,WIN,51:19,Underlord,Templar Assassin,Clockwerk,Storm Spirit,Keeper of the Light
+23,1,DPC 2022 Spring Tour - Eastern Europe Division 1,Natus Vincere,dire,28,LOSE,51:19,Phantom Assassin,Ember Spirit,Skywrath Mage,Enchantress,Sand King
+23,2,DPC 2022 Spring Tour - Eastern Europe Division 1,Team Spirit,dire,33,WIN,41:18,Beastmaster,Tiny,Shadow Shaman,Storm Spirit,Keeper of the Light
+23,2,DPC 2022 Spring Tour - Eastern Europe Division 1,Natus Vincere,radiant,14,LOSE,41:18,Templar Assassin,Death Prophet,Hoodwink,Puck,Dragon Knight
+24,1,DPC 2022 Spring Tour - Eastern Europe Division 1,BetBoom Team,dire,20,LOSE,44:33,Undying,Jakiro,Mars,Visage,Storm Spirit
+24,1,DPC 2022 Spring Tour - Eastern Europe Division 1,Natus Vincere,radiant,25,WIN,44:33,Leshrac,Medusa,Treant Protector,Pugna,Dragon Knight
+24,2,DPC 2022 Spring Tour - Eastern Europe Division 1,BetBoom Team,dire,32,WIN,33:03,Chen,Pangolier,Grimstroke,Visage,Mars
+24,2,DPC 2022 Spring Tour - Eastern Europe Division 1,Natus Vincere,radiant,14,LOSE,33:03,Wraith King,Disruptor,Chaos Knight,Storm Spirit,Pugna
+24,3,DPC 2022 Spring Tour - Eastern Europe Division 1,BetBoom Team,radiant,24,WIN,44:50,Windranger,Bane,Shadow Demon,Visage,Mars
+24,3,DPC 2022 Spring Tour - Eastern Europe Division 1,Natus Vincere,dire,17,LOSE,44:50,Abaddon,Medusa,Storm Spirit,Dragon Knight,Pugna
+25,1,DPC 2022 Spring Tour - Eastern Europe Division 1,Natus Vincere,dire,29,WIN,30:06,Phantom Assassin,Timbersaw,Shadow Shaman,Pangolier,Keeper of the Light
+25,1,DPC 2022 Spring Tour - Eastern Europe Division 1,CIS Rejects,radiant,12,LOSE,30:06,Storm Spirit,Medusa,Skywrath Mage,Sand King,Death Prophet
+25,2,DPC 2022 Spring Tour - Eastern Europe Division 1,Natus Vincere,radiant,15,LOSE,39:00,Puck,Terrorblade,Shadow Shaman,Pangolier,Keeper of the Light
+25,2,DPC 2022 Spring Tour - Eastern Europe Division 1,CIS Rejects,dire,20,WIN,39:00,Faceless Void,Lina,Grimstroke,Mars,Death Prophet
+25,3,DPC 2022 Spring Tour - Eastern Europe Division 1,Natus Vincere,radiant,41,WIN,48:19,Oracle,Lina,Bloodseeker,Timbersaw,Enchantress
+25,3,DPC 2022 Spring Tour - Eastern Europe Division 1,CIS Rejects,dire,30,LOSE,48:19,Nature's Prophet,Ember Spirit,Mirana,Sand King,Death Prophet
+26,1,ESL One Stockholm 2022,BetBoom Team,radiant,15,LOSE,36:24,Pangolier,Disruptor,Chaos Knight,Io,Mars
+26,1,ESL One Stockholm 2022,BOOM Esports,dire,36,WIN,36:24,Bloodseeker,Kunkka,Mirana,Sand King,Grimstroke
+26,2,ESL One Stockholm 2022,BetBoom Team,radiant,29,WIN,28:47,Leshrac,Chaos Knight,Pugna,Mirana,Mars
+26,2,ESL One Stockholm 2022,BOOM Esports,dire,4,LOSE,28:47,Tusk,Terrorblade,Death Prophet,Sand King,Grimstroke
+27,1,ESL One Stockholm 2022,BetBoom Team,dire,10,LOSE,28:28,Tidehunter,Necrophos,Hoodwink,Keeper of the Light,Storm Spirit
+27,1,ESL One Stockholm 2022,Tundra Esports,radiant,25,WIN,28:28,Death Prophet,Shadow Shaman,Void Spirit,Pugna,Chaos Knight
+27,2,ESL One Stockholm 2022,BetBoom Team,radiant,42,WIN,41:31,Ursa,Death Prophet,Shadow Shaman,Io,Chaos Knight
+27,2,ESL One Stockholm 2022,Tundra Esports,dire,18,LOSE,41:31,Skywrath Mage,Snapfire,Dragon Knight,Doom,Pugna
+28,1,ESL One Stockholm 2022,BOOM Esports,radiant,17,LOSE,31:55,Chaos Knight,Dragon Knight,Death Prophet,Monkey King,Pugna
+28,1,ESL One Stockholm 2022,beastcoast,dire,22,WIN,31:55,Troll Warlord,Venomancer,Earth Spirit,Enchantress,Mars
+28,2,ESL One Stockholm 2022,BOOM Esports,dire,43,WIN,35:26,Void Spirit,Grimstroke,Brewmaster,Pugna,Monkey King
+28,2,ESL One Stockholm 2022,beastcoast,radiant,25,LOSE,35:26,Disruptor,Juggernaut,Phoenix,Earth Spirit,Mars
+29,1,ESL One Stockholm 2022,BOOM Esports,dire,12,LOSE,36:40,Weaver,Queen of Pain,Treant Protector,Hoodwink,Dragon Knight
+29,1,ESL One Stockholm 2022,Evil Geniuses,radiant,33,WIN,36:40,Templar Assassin,Witch Doctor,Razor,Io,Storm Spirit
+29,2,ESL One Stockholm 2022,BOOM Esports,radiant,27,WIN,48:17,Underlord,Abaddon,Kunkka,Razor,Pugna
+29,2,ESL One Stockholm 2022,Evil Geniuses,dire,25,LOSE,48:17,Ursa,Ember Spirit,Chen,Dragon Knight,Grimstroke
+30,1,ESL One Stockholm 2022,BOOM Esports,radiant,33,WIN,44:27,Riki,Templar Assassin,Treant Protector,Mars,Keeper of the Light
+30,1,ESL One Stockholm 2022,OG,dire,10,LOSE,44:27,Sand King,Kunkka,Winter Wyvern,Razor,Nyx Assassin
+30,2,ESL One Stockholm 2022,BOOM Esports,dire,18,LOSE,36:30,Phantom Assassin,Ember Spirit,Bane,Shadow Shaman,Mars
+30,2,ESL One Stockholm 2022,OG,radiant,50,WIN,36:30,Spectre,Jakiro,Clockwerk,Razor,Storm Spirit
+31,1,ESL One Stockholm 2022,beastcoast,radiant,16,LOSE,30:15,Lifestealer,Lina,Clockwerk,Shadow Demon,Mars
+31,1,ESL One Stockholm 2022,OG,dire,33,WIN,30:15,Slardar,Void Spirit,Grimstroke,Pugna,Tiny
+31,2,ESL One Stockholm 2022,beastcoast,dire,35,LOSE,52:27,Sand King,Bloodseeker,Spirit Breaker,Timbersaw,Winter Wyvern
+31,2,ESL One Stockholm 2022,OG,radiant,41,WIN,52:27,Keeper of the Light,Monkey King,Mars,Pugna,Enigma
+32,1,ESL One Stockholm 2022,beastcoast,radiant,40,WIN,56:43,Templar Assassin,Rubick,Bloodseeker,Mars,Pugna
+32,1,ESL One Stockholm 2022,T1,dire,37,LOSE,56:43,Chaos Knight,Dragon Knight,Mirana,Tiny,Grimstroke
+32,2,ESL One Stockholm 2022,beastcoast,dire,20,LOSE,52:14,Luna,Death Prophet,Undying,Shadow Demon,Mars
+32,2,ESL One Stockholm 2022,T1,radiant,51,WIN,52:14,Queen of Pain,Batrider,Treant Protector,Grimstroke,Dragon Knight
+33,1,ESL One Stockholm 2022,Evil Geniuses,radiant,9,LOSE,31:23,Medusa,Shadow Shaman,Abaddon,Timbersaw,Storm Spirit
+33,1,ESL One Stockholm 2022,T1,dire,30,WIN,31:23,Nature's Prophet,Treant Protector,Void Spirit,Dragon Knight,Grimstroke
+33,2,ESL One Stockholm 2022,Evil Geniuses,dire,25,LOSE,48:23,Naga Siren,Kunkka,Snapfire,Tiny,Viper
+33,2,ESL One Stockholm 2022,T1,radiant,28,WIN,48:23,Vengeful Spirit,Windranger,Treant Protector,Lina,Pugna
+34,1,ESL One Stockholm 2022,Evil Geniuses,radiant,8,LOSE,33:02,Sand King,Jakiro,Nature's Prophet,Terrorblade,Storm Spirit
+34,1,ESL One Stockholm 2022,Tundra Esports,dire,33,WIN,33:02,Wraith King,Void Spirit,Visage,Doom,Grimstroke
+34,2,ESL One Stockholm 2022,Evil Geniuses,dire,20,LOSE,44:53,Tidehunter,Bloodseeker,Tiny,Storm Spirit,Enchantress
+34,2,ESL One Stockholm 2022,Tundra Esports,radiant,32,WIN,44:53,Dragon Knight,Hoodwink,Beastmaster,Pangolier,Pugna
+35,1,ESL One Stockholm 2022,OG,dire,28,LOSE,43:07,Slardar,Chaos Knight,Io,Grimstroke,Storm Spirit
+35,1,ESL One Stockholm 2022,T1,radiant,34,WIN,43:07,Brewmaster,Undying,Shadow Shaman,Lina,Dragon Knight
+35,2,ESL One Stockholm 2022,OG,radiant,17,LOSE,34:40,Templar Assassin,Phoenix,Clockwerk,Mars,Storm Spirit
+35,2,ESL One Stockholm 2022,T1,dire,35,WIN,34:40,Viper,Lifestealer,Puck,Treant Protector,Shadow Shaman
+36,1,ESL One Stockholm 2022,OG,radiant,7,LOSE,25:55,Treant Protector,Leshrac,Io,Viper,Dragon Knight
+36,1,ESL One Stockholm 2022,Tundra Esports,dire,24,WIN,25:55,Keeper of the Light,Juggernaut,Doom,Grimstroke,Visage
+36,2,ESL One Stockholm 2022,OG,dire,16,LOSE,31:01,Nature's Prophet,Underlord,Clockwerk,Grimstroke,Tiny
+36,2,ESL One Stockholm 2022,Tundra Esports,radiant,43,WIN,31:01,Phoenix,Wraith King,Pangolier,Visage,Pugna
+37,1,ESL One Stockholm 2022,Fnatic,radiant,22,WIN,32:58,Magnus,Wraith King,Death Prophet,Treant Protector,Shadow Shaman
+37,1,ESL One Stockholm 2022,Team Liquid,dire,9,LOSE,32:58,Troll Warlord,Visage,Doom,Tiny,Grimstroke
+37,2,ESL One Stockholm 2022,Fnatic,radiant,9,LOSE,47:52,Pangolier,Magnus,Terrorblade,Abaddon,Shadow Shaman
+37,2,ESL One Stockholm 2022,Team Liquid,dire,32,WIN,47:52,Keeper of the Light,Spectre,Undying,Hoodwink,Dragon Knight
+38,1,ESL One Stockholm 2022,Fnatic,dire,44,WIN,44:11,Grimstroke,Lifestealer,Hoodwink,Dragon Knight,Keeper of the Light
+38,1,ESL One Stockholm 2022,Team SoloMid,radiant,22,LOSE,44:11,Shadow Shaman,Monkey King,Viper,Phoenix,Mars
+38,2,ESL One Stockholm 2022,Fnatic,radiant,15,WIN,49:48,Beastmaster,Tidehunter,Abaddon,Medusa,Shadow Shaman
+38,2,ESL One Stockholm 2022,Team SoloMid,dire,16,LOSE,49:48,Lina,Razor,Nyx Assassin,Phoenix,Dragon Knight
+39,1,ESL One Stockholm 2022,Fnatic,radiant,16,LOSE,32:11,Timbersaw,Chaos Knight,Winter Wyvern,Monkey King,Keeper of the Light
+39,1,ESL One Stockholm 2022,Team Spirit,dire,32,WIN,32:11,Anti-Mage,Sand King,Kunkka,Io,Bane
+39,2,ESL One Stockholm 2022,Fnatic,radiant,26,LOSE,43:33,Wraith King,Dragon Knight,Hoodwink,Pugna,Storm Spirit
+39,2,ESL One Stockholm 2022,Team Spirit,dire,33,WIN,43:33,Troll Warlord,Grimstroke,Tiny,Keeper of the Light,Mars
+40,1,ESL One Stockholm 2022,Gaimin Gladiators,radiant,22,LOSE,48:48,Broodmother,Hoodwink,Bloodseeker,Bane,Dragon Knight
+40,1,ESL One Stockholm 2022,Team Liquid,dire,40,WIN,48:48,Sand King,Enigma,Clockwerk,Razor,Io
+40,2,ESL One Stockholm 2022,Gaimin Gladiators,radiant,10,LOSE,22:10,Phantom Assassin,Void Spirit,Bane,Lycan,Chen
+40,2,ESL One Stockholm 2022,Team Liquid,dire,17,WIN,22:10,Visage,Bristleback,Keeper of the Light,Pangolier,Grimstroke
+41,1,ESL One Stockholm 2022,Gaimin Gladiators,dire,21,LOSE,45:12,Sven,Keeper of the Light,Pangolier,Lycan,Chen
+41,1,ESL One Stockholm 2022,Team SoloMid,radiant,28,WIN,45:12,Enchantress,Underlord,Leshrac,Kunkka,Io
+41,2,ESL One Stockholm 2022,Gaimin Gladiators,radiant,27,WIN,29:20,Bloodseeker,Crystal Maiden,Dragon Knight,Shadow Shaman,Storm Spirit
+41,2,ESL One Stockholm 2022,Team SoloMid,dire,9,LOSE,29:20,Legion Commander,Tiny,Enchantress,Ember Spirit,Keeper of the Light
+42,1,ESL One Stockholm 2022,Gaimin Gladiators,radiant,29,WIN,37:19,Enchantress,Mirana,Dragon Knight,Monkey King,Storm Spirit
+42,1,ESL One Stockholm 2022,Team Spirit,dire,12,LOSE,37:19,Windranger,Tiny,Grimstroke,Keeper of the Light,Mars
+42,2,ESL One Stockholm 2022,Gaimin Gladiators,radiant,35,WIN,31:21,Bloodseeker,Mirana,Ember Spirit,Io,Mars
+42,2,ESL One Stockholm 2022,Team Spirit,dire,8,LOSE,31:21,Doom,Templar Assassin,Winter Wyvern,Sand King,Keeper of the Light
+43,1,ESL One Stockholm 2022,Team Liquid,dire,27,LOSE,50:54,Necrophos,Grimstroke,Wraith King,Io,Mars
+43,1,ESL One Stockholm 2022,Thunder Awaken,radiant,44,WIN,50:54,Batrider,Spectre,Bane,Snapfire,Tiny
+43,2,ESL One Stockholm 2022,Team Liquid,dire,18,LOSE,38:50,Chaos Knight,Ember Spirit,Undying,Nature's Prophet,Brewmaster
+43,2,ESL One Stockholm 2022,Thunder Awaken,radiant,35,WIN,38:50,Doom,Tiny,Weaver,Spectre,Pugna
+44,1,ESL One Stockholm 2022,Team SoloMid,radiant,31,WIN,34:32,Enchantress,Death Prophet,Underlord,Chaos Knight,Io
+44,1,ESL One Stockholm 2022,Team Spirit,dire,11,LOSE,34:32,Viper,Monkey King,Shadow Shaman,Techies,Dragon Knight
+44,2,ESL One Stockholm 2022,Team SoloMid,radiant,10,LOSE,29:59,Huskar,Necrophos,Abaddon,Monkey King,Storm Spirit
+44,2,ESL One Stockholm 2022,Team Spirit,dire,23,WIN,29:59,Templar Assassin,Phoenix,Chaos Knight,Ember Spirit,Keeper of the Light
+45,1,ESL One Stockholm 2022,Thunder Awaken,dire,20,LOSE,36:25,Snapfire,Spectre,Lich,Nyx Assassin,Tiny
+45,1,ESL One Stockholm 2022,Team Spirit,radiant,35,WIN,36:25,Underlord,Anti-Mage,Shadow Shaman,Io,Storm Spirit
+45,2,ESL One Stockholm 2022,Thunder Awaken,radiant,24,LOSE,45:47,Tiny,Terrorblade,Abaddon,Mirana,Sand King
+45,2,ESL One Stockholm 2022,Team Spirit,dire,40,WIN,45:47,Pangolier,Medusa,Rubick,Io,Mars
+46,1,ESL One Stockholm 2022,Tundra Esports,dire,33,WIN,33:21,Naga Siren,Lycan,Phoenix,Snapfire,Pangolier
+46,1,ESL One Stockholm 2022,Team Spirit,radiant,13,LOSE,33:21,Ursa,Grimstroke,Puck,Bane,Chaos Knight
+46,2,ESL One Stockholm 2022,Tundra Esports,radiant,45,LOSE,59:01,Tiny,Shadow Demon,Doom,Grimstroke,Chaos Knight
+46,2,ESL One Stockholm 2022,Team Spirit,dire,36,WIN,59:01,Phantom Assassin,Pangolier,Hoodwink,Snapfire,Dragon Knight
+46,3,ESL One Stockholm 2022,Tundra Esports,dire,33,WIN,44:22,Keeper of the Light,Beastmaster,Bane,Doom,Chaos Knight
+46,3,ESL One Stockholm 2022,Team Spirit,radiant,11,LOSE,44:22,Puck,Rubick,Luna,Dragon Knight,Pugna
+47,1,ESL One Stockholm 2022,Thunder Awaken,dire,26,WIN,40:39,Tidehunter,Templar Assassin,Kunkka,Pugna,Snapfire
+47,1,ESL One Stockholm 2022,BetBoom Team,radiant,21,LOSE,40:39,Leshrac,Bane,Mirana,Nature's Prophet,Mars
+47,2,ESL One Stockholm 2022,Thunder Awaken,radiant,40,LOSE,48:03,Faceless Void,Windranger,Tidehunter,Storm Spirit,Pugna
+47,2,ESL One Stockholm 2022,BetBoom Team,dire,17,WIN,48:03,Nature's Prophet,Templar Assassin,Nyx Assassin,Mars,Io
+47,3,ESL One Stockholm 2022,Thunder Awaken,dire,30,WIN,43:34,Templar Assassin,Batrider,Kunkka,Tiny,Pugna
+47,3,ESL One Stockholm 2022,BetBoom Team,radiant,23,LOSE,43:34,Abaddon,Bane,Death Prophet,Nature's Prophet,Mars
+48,1,ESL One Stockholm 2022,OG,radiant,27,LOSE,55:48,Invoker,Shadow Shaman,Monkey King,Razor,Io
+48,1,ESL One Stockholm 2022,Team SoloMid,dire,43,WIN,55:48,Void Spirit,Mirana,Bane,Chaos Knight,Underlord
+48,2,ESL One Stockholm 2022,OG,dire,17,LOSE,39:28,Phantom Assassin,Ember Spirit,Bane,Earthshaker,Timbersaw
+48,2,ESL One Stockholm 2022,Team SoloMid,radiant,38,WIN,39:28,Night Stalker,Silencer,Pangolier,Monkey King,Keeper of the Light
+49,1,ESL One Stockholm 2022,Gaimin Gladiators,radiant,34,WIN,33:28,Tiny,Lycan,Bane,Enchantress,Storm Spirit
+49,1,ESL One Stockholm 2022,T1,dire,11,LOSE,33:28,Phoenix,Bristleback,Lina,Shadow Shaman,Pugna
+49,2,ESL One Stockholm 2022,Gaimin Gladiators,dire,28,WIN,21:35,Beastmaster,Grimstroke,Chaos Knight,Enchantress,Storm Spirit
+49,2,ESL One Stockholm 2022,T1,radiant,6,LOSE,21:35,Leshrac,Tiny,Brewmaster,Mirana,Bane
+50,1,ESL One Stockholm 2022,Tundra Esports,dire,40,WIN,64:24,Wraith King,Mars,Phoenix,Beastmaster,Snapfire
+50,1,ESL One Stockholm 2022,Thunder Awaken,radiant,30,LOSE,64:24,Rubick,Brewmaster,Lich,Kunkka,Chaos Knight
+50,2,ESL One Stockholm 2022,Tundra Esports,radiant,32,WIN,47:42,Luna,Monkey King,Lycan,Pangolier,Snapfire
+50,2,ESL One Stockholm 2022,Thunder Awaken,dire,30,LOSE,47:42,Magnus,Tiny,Bane,Mirana,Sand King
+51,1,ESL One Stockholm 2022,Team SoloMid,radiant,39,WIN,44:44,Pugna,Nature's Prophet,Kunkka,Phoenix,Mars
+51,1,ESL One Stockholm 2022,Gaimin Gladiators,dire,21,LOSE,44:44,Tiny,Timbersaw,Grimstroke,Monkey King,Enchantress
+51,2,ESL One Stockholm 2022,Team SoloMid,dire,37,WIN,45:12,Abaddon,Nature's Prophet,Pangolier,Phoenix,Mars
+51,2,ESL One Stockholm 2022,Gaimin Gladiators,radiant,17,LOSE,45:12,Beastmaster,Puck,Shadow Shaman,Monkey King,Enchantress
+52,1,ESL One Stockholm 2022,Tundra Esports,dire,38,WIN,45:06,Batrider,Rubick,Medusa,Grimstroke,Doom
+52,1,ESL One Stockholm 2022,Team SoloMid,radiant,13,LOSE,45:06,Drow Ranger,Elder Titan,Lina,Underlord,Shadow Shaman
+52,2,ESL One Stockholm 2022,Tundra Esports,dire,23,LOSE,44:29,Necrophos,Medusa,Shadow Shaman,Grimstroke,Pangolier
+52,2,ESL One Stockholm 2022,Team SoloMid,radiant,51,WIN,44:29,Night Stalker,Templar Assassin,Enchantress,Puck,Doom
+52,3,ESL One Stockholm 2022,Tundra Esports,dire,14,LOSE,31:04,Gyrocopter,Viper,Mars,Monkey King,Io
+52,3,ESL One Stockholm 2022,Team SoloMid,radiant,35,WIN,31:04,Enigma,Enchantress,Templar Assassin,Pangolier,Doom
+53,1,ESL One Stockholm 2022,BetBoom Team,radiant,13,LOSE,26:16,Necrophos,Disruptor,Grimstroke,Puck,Mars
+53,1,ESL One Stockholm 2022,Team Liquid,dire,23,WIN,26:16,Batrider,Lone Druid,Mirana,Pugna,Storm Spirit
+53,2,ESL One Stockholm 2022,BetBoom Team,radiant,24,WIN,46:33,Windranger,Winter Wyvern,Skywrath Mage,Nature's Prophet,Mars
+53,2,ESL One Stockholm 2022,Team Liquid,dire,15,LOSE,46:33,Sand King,Batrider,Snapfire,Io,Razor
+53,3,ESL One Stockholm 2022,BetBoom Team,dire,37,WIN,58:47,Underlord,Doom,Void Spirit,Grimstroke,Chaos Knight
+53,3,ESL One Stockholm 2022,Team Liquid,radiant,19,LOSE,58:47,Rubick,Lone Druid,Winter Wyvern,Pangolier,Snapfire
+54,1,ESL One Stockholm 2022,OG,radiant,42,WIN,52:12,Ember Spirit,Chaos Knight,Windranger,Timbersaw,Pugna
+54,1,ESL One Stockholm 2022,BOOM Esports,dire,30,LOSE,52:12,Void Spirit,Phoenix,Mars,Monkey King,Snapfire
+54,2,ESL One Stockholm 2022,OG,dire,35,WIN,41:29,Morphling,Puck,Earthshaker,Windranger,Timbersaw
+54,2,ESL One Stockholm 2022,BOOM Esports,radiant,20,LOSE,41:29,Rubick,Storm Spirit,Keeper of the Light,Chaos Knight,Mars
+55,1,ESL One Stockholm 2022,OG,dire,34,WIN,44:58,Mars,Juggernaut,Windranger,Pangolier,Enigma
+55,1,ESL One Stockholm 2022,Fnatic,radiant,16,LOSE,44:58,Wraith King,Ember Spirit,Keeper of the Light,Visage,Doom
+55,2,ESL One Stockholm 2022,OG,radiant,12,LOSE,36:21,Centaur Warrunner,Ember Spirit,Pugna,Enigma,Chaos Knight
+55,2,ESL One Stockholm 2022,Fnatic,dire,27,WIN,36:21,Earth Spirit,Medusa,Elder Titan,Mirana,Kunkka
+55,3,ESL One Stockholm 2022,OG,dire,26,WIN,64:06,Morphling,Tidehunter,Jakiro,Pangolier,Enigma
+55,3,ESL One Stockholm 2022,Fnatic,radiant,40,LOSE,64:06,Hoodwink,Ember Spirit,Keeper of the Light,Treant Protector,Chaos Knight
+56,1,ESL One Stockholm 2022,Gaimin Gladiators,radiant,43,WIN,30:33,Legion Commander,Ember Spirit,Grimstroke,Enchantress,Chaos Knight
+56,1,ESL One Stockholm 2022,beastcoast,dire,12,LOSE,30:33,Bristleback,Bloodseeker,Spirit Breaker,Batrider,Pugna
+56,2,ESL One Stockholm 2022,Gaimin Gladiators,dire,27,WIN,31:59,Monkey King,Bane,Keeper of the Light,Ember Spirit,Chaos Knight
+56,2,ESL One Stockholm 2022,beastcoast,radiant,19,LOSE,31:59,Gyrocopter,Kunkka,Rubick,Io,Mars
+57,1,ESL One Stockholm 2022,Thunder Awaken,dire,9,LOSE,27:38,Faceless Void,Snapfire,Tusk,Mars,Pugna
+57,1,ESL One Stockholm 2022,OG,radiant,26,WIN,27:38,Void Spirit,Phoenix,Windranger,Razor,Chaos Knight
+57,2,ESL One Stockholm 2022,Thunder Awaken,radiant,14,LOSE,32:27,Terrorblade,Sand King,Mirana,Storm Spirit,Pugna
+57,2,ESL One Stockholm 2022,OG,dire,34,WIN,32:27,Faceless Void,Kunkka,Nyx Assassin,Viper,Monkey King
+58,1,ESL One Stockholm 2022,Gaimin Gladiators,radiant,10,LOSE,32:37,Keeper of the Light,Bane,Monkey King,Enchantress,Chaos Knight
+58,1,ESL One Stockholm 2022,OG,dire,27,WIN,32:37,Tiny,Troll Warlord,Doom,Windranger,Timbersaw
+58,2,ESL One Stockholm 2022,Gaimin Gladiators,dire,16,LOSE,35:24,Anti-Mage,Tiny,Grimstroke,Enchantress,Mars
+58,2,ESL One Stockholm 2022,OG,radiant,36,WIN,35:24,Wraith King,Clockwerk,Void Spirit,Razor,Windranger
+59,1,ESL One Stockholm 2022,Tundra Esports,radiant,12,LOSE,27:28,Invoker,Juggernaut,Lich,Visage,Doom
+59,1,ESL One Stockholm 2022,OG,dire,31,WIN,27:28,Puck,Razor,Windranger,Viper,Monkey King
+59,2,ESL One Stockholm 2022,Tundra Esports,dire,15,LOSE,35:10,Troll Warlord,Hoodwink,Doom,Pangolier,Pugna
+59,2,ESL One Stockholm 2022,OG,radiant,33,WIN,35:10,Bloodseeker,Io,Monkey King,Puck,Chaos Knight
+60,1,ESL One Stockholm 2022,Team SoloMid,radiant,31,WIN,33:47,Death Prophet,Wraith King,Pugna,Pangolier,Enigma
+60,1,ESL One Stockholm 2022,OG,dire,9,LOSE,33:47,Lina,Underlord,Rubick,Windranger,Kunkka
+60,2,ESL One Stockholm 2022,Team SoloMid,radiant,14,LOSE,38:03,Dark Seer,Doom,Nature's Prophet,Puck,Pugna
+60,2,ESL One Stockholm 2022,OG,dire,45,WIN,38:03,Monkey King,Night Stalker,Windranger,Snapfire,Storm Spirit
+60,3,ESL One Stockholm 2022,Team SoloMid,radiant,27,LOSE,41:58,Night Stalker,Wraith King,Leshrac,Monkey King,Pugna
+60,3,ESL One Stockholm 2022,OG,dire,31,WIN,41:58,Templar Assassin,Invoker,Mirana,Dragon Knight,Snapfire
+60,4,ESL One Stockholm 2022,Team SoloMid,radiant,4,LOSE,33:41,Silencer,Wraith King,Leshrac,Dragon Knight,Snapfire
+60,4,ESL One Stockholm 2022,OG,dire,37,WIN,33:41,Bloodseeker,Mars,Grimstroke,Windranger,Storm Spirit
+61,1,ESL One Stockholm 2022,BetBoom Team,radiant,36,WIN,32:24,Puck,Ancient Apparition,Grimstroke,Chaos Knight,Mars
+61,1,ESL One Stockholm 2022,Evil Geniuses,dire,12,LOSE,32:24,Void Spirit,Wraith King,Timbersaw,Tusk,Viper
+61,2,ESL One Stockholm 2022,BetBoom Team,radiant,36,WIN,36:59,Snapfire,Ancient Apparition,Necrophos,Io,Mars
+61,2,ESL One Stockholm 2022,Evil Geniuses,dire,14,LOSE,36:59,Tiny,Beastmaster,Grimstroke,Chaos Knight,Pugna
+62,1,ESL One Stockholm 2022,BetBoom Team,radiant,33,LOSE,42:37,Puck,Skywrath Mage,Shadow Shaman,Visage,Mars
+62,1,ESL One Stockholm 2022,OG,dire,23,WIN,42:37,Ember Spirit,Wraith King,Winter Wyvern,Razor,Nyx Assassin
+62,2,ESL One Stockholm 2022,BetBoom Team,dire,29,LOSE,44:42,Shadow Shaman,Pangolier,Ancient Apparition,Mars,Nature's Prophet
+62,2,ESL One Stockholm 2022,OG,radiant,46,WIN,44:42,Razor,Puck,Windranger,Underlord,Io
+63,1,ESL One Stockholm 2022,BetBoom Team,dire,28,WIN,33:21,Clockwerk,Skywrath Mage,Puck,Nature's Prophet,Chaos Knight
+63,1,ESL One Stockholm 2022,T1,radiant,12,LOSE,33:21,Tiny,Templar Assassin,Phoenix,Shadow Shaman,Brewmaster
+63,2,ESL One Stockholm 2022,BetBoom Team,dire,37,WIN,42:13,Viper,Winter Wyvern,Puck,Visage,Mars
+63,2,ESL One Stockholm 2022,T1,radiant,27,LOSE,42:13,Leshrac,Spectre,Jakiro,Io,Pangolier
+64,1,ESL One Stockholm 2022,BOOM Esports,dire,30,WIN,33:16,Juggernaut,Puck,Phoenix,Shadow Shaman,Mars
+64,1,ESL One Stockholm 2022,T1,radiant,11,LOSE,33:16,Vengeful Spirit,Storm Spirit,Io,Chaos Knight,Treant Protector
+64,2,ESL One Stockholm 2022,BOOM Esports,dire,19,LOSE,47:19,Faceless Void,Void Spirit,Grimstroke,Brewmaster,Shadow Shaman
+64,2,ESL One Stockholm 2022,T1,radiant,36,WIN,47:19,Death Prophet,Jakiro,Spectre,Razor,Treant Protector
+65,1,ESL One Stockholm 2022,BOOM Esports,radiant,13,LOSE,37:13,Ursa,Kunkka,Mirana,Timbersaw,Pugna
+65,1,ESL One Stockholm 2022,Tundra Esports,dire,39,WIN,37:13,Shadow Demon,Snapfire,Bane,Pangolier,Chaos Knight
+65,2,ESL One Stockholm 2022,BOOM Esports,dire,14,LOSE,30:56,Razor,Templar Assassin,Weaver,Mirana,Dragon Knight
+65,2,ESL One Stockholm 2022,Tundra Esports,radiant,20,WIN,30:56,Luna,Void Spirit,Treant Protector,Visage,Pugna
+66,1,ESL One Stockholm 2022,beastcoast,dire,12,LOSE,41:18,Faceless Void,Venomancer,Jakiro,Rubick,Mars
+66,1,ESL One Stockholm 2022,Evil Geniuses,radiant,27,WIN,41:18,Tidehunter,Queen of Pain,Death Prophet,Shadow Shaman,Chaos Knight
+66,2,ESL One Stockholm 2022,beastcoast,dire,30,WIN,31:31,Templar Assassin,Batrider,Bloodseeker,Snapfire,Tusk
+66,2,ESL One Stockholm 2022,Evil Geniuses,radiant,22,LOSE,31:31,Lina,Dark Willow,Shadow Demon,Mars,Chaos Knight
+67,1,ESL One Stockholm 2022,beastcoast,radiant,26,LOSE,51:12,Keeper of the Light,Winter Wyvern,Rubick,Void Spirit,Chaos Knight
+67,1,ESL One Stockholm 2022,Tundra Esports,dire,56,WIN,51:12,Spectre,Necrophos,Doom,Pangolier,Grimstroke
+67,2,ESL One Stockholm 2022,beastcoast,dire,20,LOSE,35:08,Venomancer,Lifestealer,Enchantress,Tiny,Grimstroke
+67,2,ESL One Stockholm 2022,Tundra Esports,radiant,45,WIN,35:08,Shadow Shaman,Snapfire,Doom,Pugna,Chaos Knight
+68,1,ESL One Stockholm 2022,Evil Geniuses,radiant,12,LOSE,37:12,Templar Assassin,Winter Wyvern,Bloodseeker,Io,Mars
+68,1,ESL One Stockholm 2022,OG,dire,37,WIN,37:12,Underlord,Kunkka,Windranger,Pangolier,Enigma
+68,2,ESL One Stockholm 2022,Evil Geniuses,dire,22,LOSE,42:30,Void Spirit,Nature's Prophet,Phoenix,Dragon Knight,Grimstroke
+68,2,ESL One Stockholm 2022,OG,radiant,38,WIN,42:30,Invoker,Bloodseeker,Windranger,Mars,Enigma
+69,1,ESL One Stockholm 2022,T1,radiant,10,LOSE,22:55,Viper,Bristleback,Keeper of the Light,Pangolier,Pugna
+69,1,ESL One Stockholm 2022,Tundra Esports,dire,25,WIN,22:55,Juggernaut,Mars,Bane,Doom,Visage
+69,2,ESL One Stockholm 2022,T1,dire,27,LOSE,29:33,Bloodseeker,Puck,Crystal Maiden,Phoenix,Doom
+69,2,ESL One Stockholm 2022,Tundra Esports,radiant,22,WIN,29:33,Medusa,Void Spirit,Weaver,Grimstroke,Beastmaster
+70,1,ESL One Stockholm 2022,Fnatic,radiant,14,LOSE,39:01,Necrophos,Brewmaster,Phoenix,Treant Protector,Templar Assassin
+70,1,ESL One Stockholm 2022,Gaimin Gladiators,dire,26,WIN,39:01,Ember Spirit,Snapfire,Dragon Knight,Chaos Knight,Io
+70,2,ESL One Stockholm 2022,Fnatic,dire,12,LOSE,32:12,Tidehunter,Weaver,Hoodwink,Chaos Knight,Storm Spirit
+70,2,ESL One Stockholm 2022,Gaimin Gladiators,radiant,23,WIN,32:12,Monkey King,Ember Spirit,Enchantress,Bane,Mars
+71,1,ESL One Stockholm 2022,Fnatic,dire,27,WIN,22:18,Beastmaster,Hoodwink,Chaos Knight,Storm Spirit,Pugna
+71,1,ESL One Stockholm 2022,Thunder Awaken,radiant,6,LOSE,22:18,Phantom Assassin,Pangolier,Doom,Bane,Mars
+71,2,ESL One Stockholm 2022,Fnatic,dire,18,LOSE,35:50,Lich,Dark Willow,Lifestealer,Dragon Knight,Keeper of the Light
+71,2,ESL One Stockholm 2022,Thunder Awaken,radiant,33,WIN,35:50,Death Prophet,Morphling,Viper,Mirana,Mars
+72,1,ESL One Stockholm 2022,Gaimin Gladiators,radiant,35,WIN,46:17,Enchantress,Monkey King,Bane,Mars,Storm Spirit
+72,1,ESL One Stockholm 2022,Thunder Awaken,dire,48,LOSE,46:17,Luna,Mirana,Kunkka,Timbersaw,Pugna
+72,2,ESL One Stockholm 2022,Gaimin Gladiators,dire,5,LOSE,27:17,Bloodseeker,Keeper of the Light,Void Spirit,Grimstroke,Mars
+72,2,ESL One Stockholm 2022,Thunder Awaken,radiant,43,WIN,27:17,Templar Assassin,Storm Spirit,Ogre Magi,Sand King,Mirana
+73,1,ESL One Stockholm 2022,Team Liquid,radiant,35,LOSE,59:51,Razor,Clockwerk,Enigma,Grimstroke,Mars
+73,1,ESL One Stockholm 2022,Team SoloMid,dire,46,WIN,59:51,Rubick,Enchantress,Underlord,Chaos Knight,Keeper of the Light
+73,2,ESL One Stockholm 2022,Team Liquid,dire,24,LOSE,39:19,Spectre,Tiny,Undying,Phoenix,Mars
+73,2,ESL One Stockholm 2022,Team SoloMid,radiant,43,WIN,39:19,Treant Protector,Brewmaster,Snapfire,Chaos Knight,Shadow Shaman
+74,1,ESL One Stockholm 2022,Team SoloMid,radiant,11,LOSE,29:12,Ogre Magi,Mars,Medusa,Leshrac,Io
+74,1,ESL One Stockholm 2022,Thunder Awaken,dire,31,WIN,29:12,Ursa,Timbersaw,Tiny,Bane,Storm Spirit
+74,2,ESL One Stockholm 2022,Team SoloMid,dire,40,WIN,42:07,Enigma,Pangolier,Abaddon,Snapfire,Chaos Knight
+74,2,ESL One Stockholm 2022,Thunder Awaken,radiant,13,LOSE,42:07,Luna,Death Prophet,Shadow Demon,Batrider,Tiny
+75,1,ESL One Stockholm 2022,Team Spirit,dire,29,LOSE,48:06,Invoker,Bane,Spectre,Mirana,Sand King
+75,1,ESL One Stockholm 2022,Thunder Awaken,radiant,54,WIN,48:06,Chaos Knight,Venomancer,Abaddon,Snapfire,Tiny
+76,1,ESL One Stockholm 2022,Team Liquid,radiant,9,LOSE,30:35,Lifestealer,Visage,Grimstroke,Io,Mars
+76,1,ESL One Stockholm 2022,Team SoloMid,dire,23,WIN,30:35,Monkey King,Hoodwink,Underlord,Storm Spirit,Pugna
+77,1,ESL One Stockholm 2022,Team Spirit,radiant,35,WIN,26:14,Luna,Kunkka,Shadow Demon,Mirana,Sand King
+77,1,ESL One Stockholm 2022,Team Liquid,dire,7,LOSE,26:14,Lich,Keeper of the Light,Lone Druid,Hoodwink,Dragon Knight
+78,1,ESL One Stockholm 2022,Thunder Awaken,dire,32,WIN,34:56,Alchemist,Kunkka,Abaddon,Mirana,Sand King
+78,1,ESL One Stockholm 2022,Team SoloMid,radiant,10,LOSE,34:56,Omniknight,Spectre,Enigma,Pangolier,Shadow Shaman
+79,1,ESL One Stockholm 2022,Team Liquid,dire,15,LOSE,35:43,Skywrath Mage,Clinkz,Enigma,Abaddon,Dragon Knight
+79,1,ESL One Stockholm 2022,Thunder Awaken,radiant,38,WIN,35:43,Kunkka,Timbersaw,Snapfire,Viper,Mars
+80,1,ESL One Stockholm 2022,Team Spirit,radiant,26,LOSE,55:06,Bloodseeker,Anti-Mage,Snapfire,Storm Spirit,Bane
+80,1,ESL One Stockholm 2022,Team SoloMid,dire,42,WIN,55:06,Night Stalker,Dragon Knight,Pugna,Leshrac,Io
+81,1,DPC 2022 Summer Tour - Western Europe Division 1,Team Liquid,dire,44,WIN,45:27,Naga Siren,Void Spirit,Jakiro,Razor,Nyx Assassin
+81,1,DPC 2022 Summer Tour - Western Europe Division 1,Entity Gaming,radiant,25,LOSE,45:27,Doom,Puck,Tiny,Enigma,Dawnbreaker
+81,2,DPC 2022 Summer Tour - Western Europe Division 1,Team Liquid,dire,30,WIN,27:33,Magnus,Skywrath Mage,Vengeful Spirit,Bristleback,Tiny
+81,2,DPC 2022 Summer Tour - Western Europe Division 1,Entity Gaming,radiant,7,LOSE,27:33,Bloodseeker,Batrider,Bane,Enigma,Dawnbreaker
+82,1,DPC 2022 Summer Tour - Western Europe Division 1,Gaimin Gladiators,radiant,10,LOSE,31:39,Night Stalker,Crystal Maiden,Bristleback,Puck,Dawnbreaker
+82,1,DPC 2022 Summer Tour - Western Europe Division 1,Tundra Esports,dire,37,WIN,31:39,Bloodseeker,Death Prophet,Winter Wyvern,Zeus,Tiny
+82,2,DPC 2022 Summer Tour - Western Europe Division 1,Gaimin Gladiators,radiant,13,LOSE,32:01,Wraith King,Bane,Batrider,Puck,Dawnbreaker
+82,2,DPC 2022 Summer Tour - Western Europe Division 1,Tundra Esports,dire,27,WIN,32:01,Visage,Faceless Void,Winter Wyvern,Zeus,Tiny
+83,1,DPC 2022 Summer Tour - Western Europe Division 1,OG,dire,32,WIN,46:41,Phantom Lancer,Zeus,Hoodwink,Clockwerk,Razor
+83,1,DPC 2022 Summer Tour - Western Europe Division 1,Entity Gaming,radiant,30,LOSE,46:41,Tiny,Bane,Monkey King,Terrorblade,Enigma
+83,2,DPC 2022 Summer Tour - Western Europe Division 1,OG,dire,32,WIN,31:09,Alchemist,Mars,Jakiro,Zeus,Puck
+83,2,DPC 2022 Summer Tour - Western Europe Division 1,Entity Gaming,radiant,14,LOSE,31:09,Brewmaster,Tiny,Skywrath Mage,Visage,Clockwerk
+84,1,DPC 2022 Summer Tour - Western Europe Division 1,Team Secret,dire,44,WIN,52:16,Monkey King,Dawnbreaker,Clockwerk,Phoenix,Puck
+84,1,DPC 2022 Summer Tour - Western Europe Division 1,Entity Gaming,radiant,16,LOSE,52:16,Enigma,Nyx Assassin,Bane,Tiny,Doom
+84,2,DPC 2022 Summer Tour - Western Europe Division 1,Team Secret,radiant,25,LOSE,48:15,Lifestealer,Slardar,Shadow Shaman,Winter Wyvern,Timbersaw
+84,2,DPC 2022 Summer Tour - Western Europe Division 1,Entity Gaming,dire,41,WIN,48:15,Zeus,Bloodseeker,Dawnbreaker,Bane,Puck
+84,3,DPC 2022 Summer Tour - Western Europe Division 1,Team Secret,radiant,16,LOSE,47:03,Terrorblade,Tiny,Clockwerk,Winter Wyvern,Timbersaw
+84,3,DPC 2022 Summer Tour - Western Europe Division 1,Entity Gaming,dire,37,WIN,47:03,Necrophos,Hoodwink,Night Stalker,Bane,Puck
+85,1,DPC 2022 Summer Tour - Western Europe Division 1,OG,dire,7,LOSE,27:30,Tidehunter,Morphling,Zeus,Marci,Puck
+85,1,DPC 2022 Summer Tour - Western Europe Division 1,Team Liquid,radiant,26,WIN,27:30,Pudge,Jakiro,Lone Druid,Dawnbreaker,Razor
+85,2,DPC 2022 Summer Tour - Western Europe Division 1,OG,dire,19,LOSE,39:03,Lifestealer,Void Spirit,Jakiro,Zeus,Mars
+85,2,DPC 2022 Summer Tour - Western Europe Division 1,Team Liquid,radiant,33,WIN,39:03,Snapfire,Bristleback,Keeper of the Light,Monkey King,Tiny
+86,1,DPC 2022 Summer Tour - Western Europe Division 1,Team Secret,dire,29,WIN,34:25,Kunkka,Chaos Knight,Hoodwink,Beastmaster,Zeus
+86,1,DPC 2022 Summer Tour - Western Europe Division 1,Entity Gaming,radiant,11,LOSE,34:25,Batrider,Windranger,Chen,Doom,Enigma
+86,2,DPC 2022 Summer Tour - Western Europe Division 1,Team Secret,dire,29,LOSE,55:58,Snapfire,Chaos Knight,Dazzle,Puck,Beastmaster
+86,2,DPC 2022 Summer Tour - Western Europe Division 1,Entity Gaming,radiant,40,WIN,55:58,Winter Wyvern,Ember Spirit,Doom,Enigma,Clockwerk
+86,3,DPC 2022 Summer Tour - Western Europe Division 1,Team Secret,dire,22,LOSE,42:35,Razor,Ember Spirit,Hoodwink,Timbersaw,Enigma
+86,3,DPC 2022 Summer Tour - Western Europe Division 1,Entity Gaming,radiant,32,WIN,42:35,Bane,Brewmaster,Leshrac,Puck,Clockwerk
+87,1,DPC 2022 Summer Tour - Western Europe Division 1,OG,radiant,23,LOSE,33:22,Weaver,Batrider,Jakiro,Void Spirit,Enigma
+87,1,DPC 2022 Summer Tour - Western Europe Division 1,Tundra Esports,dire,32,WIN,33:22,Lycan,Doom,Zeus,Io,Razor
+87,2,DPC 2022 Summer Tour - Western Europe Division 1,OG,radiant,2,LOSE,17:10,Mars,Monkey King,Jakiro,Void Spirit,Enigma
+87,2,DPC 2022 Summer Tour - Western Europe Division 1,Tundra Esports,dire,13,WIN,17:10,Clockwerk,Lycan,Rubick,Io,Razor
+88,1,DPC 2022 Summer Tour - Western Europe Division 1,goonsquad,dire,6,LOSE,29:05,Batrider,Leshrac,Nyx Assassin,Razor,Io
+88,1,DPC 2022 Summer Tour - Western Europe Division 1,Gaimin Gladiators,radiant,34,WIN,29:05,Legion Commander,Clockwerk,Puck,Crystal Maiden,Dawnbreaker
+88,2,DPC 2022 Summer Tour - Western Europe Division 1,goonsquad,radiant,8,LOSE,32:31,Lifestealer,Centaur Warrunner,Winter Wyvern,Clockwerk,Puck
+88,2,DPC 2022 Summer Tour - Western Europe Division 1,Gaimin Gladiators,dire,27,WIN,32:31,Alchemist,Warlock,Void Spirit,Beastmaster,Dawnbreaker
+89,1,DPC 2022 Summer Tour - Western Europe Division 1,Gaimin Gladiators,dire,14,LOSE,43:04,Brewmaster,Weaver,Alchemist,Crystal Maiden,Puck
+89,1,DPC 2022 Summer Tour - Western Europe Division 1,goonsquad,radiant,51,WIN,43:04,Bloodseeker,Winter Wyvern,Ember Spirit,Skywrath Mage,Beastmaster
+89,2,DPC 2022 Summer Tour - Western Europe Division 1,Gaimin Gladiators,dire,30,WIN,34:26,Underlord,Ember Spirit,Shadow Shaman,Winter Wyvern,Bristleback
+89,2,DPC 2022 Summer Tour - Western Europe Division 1,goonsquad,radiant,15,LOSE,34:26,Medusa,Snapfire,Phoenix,Puck,Beastmaster
+89,3,DPC 2022 Summer Tour - Western Europe Division 1,Gaimin Gladiators,dire,45,WIN,46:27,Razor,Io,Chaos Knight,Void Spirit,Dawnbreaker
+89,3,DPC 2022 Summer Tour - Western Europe Division 1,goonsquad,radiant,22,LOSE,46:27,Terrorblade,Jakiro,Skywrath Mage,Puck,Beastmaster
+90,1,DPC 2022 Summer Tour - Western Europe Division 1,Team Liquid,dire,36,WIN,37:23,Keeper of the Light,Monkey King,Oracle,Dawnbreaker,Marci
+90,1,DPC 2022 Summer Tour - Western Europe Division 1,Tundra Esports,radiant,5,LOSE,37:23,Faceless Void,Io,Razor,Weaver,Beastmaster
+90,2,DPC 2022 Summer Tour - Western Europe Division 1,Team Liquid,radiant,19,LOSE,36:50,Ember Spirit,Sniper,Winter Wyvern,Viper,Tiny
+90,2,DPC 2022 Summer Tour - Western Europe Division 1,Tundra Esports,dire,23,WIN,36:50,Pangolier,Phoenix,Chaos Knight,Beastmaster,Marci
+90,3,DPC 2022 Summer Tour - Western Europe Division 1,Team Liquid,dire,36,WIN,38:26,Leshrac,Bristleback,Oracle,Keeper of the Light,Marci
+90,3,DPC 2022 Summer Tour - Western Europe Division 1,Tundra Esports,radiant,11,LOSE,38:26,Invoker,Visage,Monkey King,Dazzle,Chaos Knight
+91,1,DPC 2022 Summer Tour - Western Europe Division 1,Entity Gaming,radiant,31,WIN,42:52,Tiny,Clockwerk,Bloodseeker,Winter Wyvern,Enigma
+91,1,DPC 2022 Summer Tour - Western Europe Division 1,Tundra Esports,dire,14,LOSE,42:52,Necrophos,Bristleback,Warlock,Rubick,Lycan
+91,2,DPC 2022 Summer Tour - Western Europe Division 1,Entity Gaming,radiant,10,LOSE,27:56,Venomancer,Outworld Devourer,Clockwerk,Puck,Dawnbreaker
+91,2,DPC 2022 Summer Tour - Western Europe Division 1,Tundra Esports,dire,29,WIN,27:56,Juggernaut,Grimstroke,Doom,Beastmaster,Winter Wyvern
+91,3,DPC 2022 Summer Tour - Western Europe Division 1,Entity Gaming,radiant,12,LOSE,32:22,Invoker,Clockwerk,Outworld Devourer,Dawnbreaker,Winter Wyvern
+91,3,DPC 2022 Summer Tour - Western Europe Division 1,Tundra Esports,dire,27,WIN,32:22,Void Spirit,Chaos Knight,Phoenix,Beastmaster,Keeper of the Light
+92,1,DPC 2022 Summer Tour - Western Europe Division 1,goonsquad,dire,10,LOSE,37:27,Spectre,Dragon Knight,Rubick,Treant Protector,Death Prophet
+92,1,DPC 2022 Summer Tour - Western Europe Division 1,Entity Gaming,radiant,29,WIN,37:27,Terrorblade,Invoker,Clockwerk,Enigma,Marci
+92,2,DPC 2022 Summer Tour - Western Europe Division 1,goonsquad,radiant,22,LOSE,44:07,Bloodseeker,Razor,Io,Winter Wyvern,Tiny
+92,2,DPC 2022 Summer Tour - Western Europe Division 1,Entity Gaming,dire,33,WIN,44:07,Venomancer,Sniper,Clockwerk,Doom,Visage
+93,1,DPC 2022 Summer Tour - Western Europe Division 1,OG,radiant,30,WIN,42:38,Bloodseeker,Treant Protector,Void Spirit,Viper,Enigma
+93,1,DPC 2022 Summer Tour - Western Europe Division 1,Team Secret,dire,29,LOSE,42:38,Necrophos,Pangolier,Doom,Chen,Razor
+93,2,DPC 2022 Summer Tour - Western Europe Division 1,OG,dire,30,WIN,31:04,Tiny,Morphling,Winter Wyvern,Jakiro,Timbersaw
+93,2,DPC 2022 Summer Tour - Western Europe Division 1,Team Secret,radiant,15,LOSE,31:04,Doom,Razor,Io,Pangolier,Enigma
+94,1,DPC 2022 Summer Tour - Western Europe Division 1,Gaimin Gladiators,radiant,16,LOSE,39:26,Bristleback,Crystal Maiden,Weaver,Dragon Knight,Dawnbreaker
+94,1,DPC 2022 Summer Tour - Western Europe Division 1,Team Liquid,dire,38,WIN,39:26,Necrophos,Bloodseeker,Oracle,Monkey King,Puck
+94,2,DPC 2022 Summer Tour - Western Europe Division 1,Gaimin Gladiators,radiant,11,LOSE,41:22,Medusa,Lycan,Crystal Maiden,Treant Protector,Puck
+94,2,DPC 2022 Summer Tour - Western Europe Division 1,Team Liquid,dire,23,WIN,41:22,Sven,Disruptor,Legion Commander,Lone Druid,Marci
+95,1,DPC 2022 Summer Tour - Western Europe Division 1,goonsquad,dire,20,LOSE,36:22,Phantom Assassin,Warlock,Clockwerk,Dawnbreaker,Puck
+95,1,DPC 2022 Summer Tour - Western Europe Division 1,Team Secret,radiant,35,WIN,36:22,Monkey King,Winter Wyvern,Phoenix,Templar Assassin,Beastmaster
+95,2,DPC 2022 Summer Tour - Western Europe Division 1,goonsquad,radiant,25,LOSE,44:55,Doom,Alchemist,Enchantress,Skywrath Mage,Tiny
+95,2,DPC 2022 Summer Tour - Western Europe Division 1,Team Secret,dire,33,WIN,44:55,Templar Assassin,Slardar,Ogre Magi,Phoenix,Puck
+96,1,DPC 2022 Summer Tour - Western Europe Division 1,goonsquad,radiant,12,LOSE,34:33,Chaos Knight,Shadow Shaman,Ember Spirit,Viper,Marci
+96,1,DPC 2022 Summer Tour - Western Europe Division 1,Team Liquid,dire,26,WIN,34:33,Weaver,Beastmaster,Puck,Monkey King,Enchantress
+96,2,DPC 2022 Summer Tour - Western Europe Division 1,goonsquad,dire,34,WIN,74:55,Puck,Medusa,Treant Protector,Keeper of the Light,Dragon Knight
+96,2,DPC 2022 Summer Tour - Western Europe Division 1,Team Liquid,radiant,38,LOSE,74:55,Pudge,Windranger,Leshrac,Beastmaster,Enchantress
+96,3,DPC 2022 Summer Tour - Western Europe Division 1,goonsquad,radiant,21,WIN,35:31,Mirana,Dragon Knight,Puck,Chen,Tiny
+96,3,DPC 2022 Summer Tour - Western Europe Division 1,Team Liquid,dire,13,LOSE,35:31,Ember Spirit,Hoodwink,Weaver,Io,Beastmaster
+97,1,DPC 2022 Summer Tour - Western Europe Division 1,OG,dire,34,WIN,28:56,Bristleback,Slardar,Zeus,Viper,Tiny
+97,1,DPC 2022 Summer Tour - Western Europe Division 1,Gaimin Gladiators,radiant,19,LOSE,28:56,Tusk,Enigma,Puck,Enchantress,Dawnbreaker
+97,2,DPC 2022 Summer Tour - Western Europe Division 1,OG,radiant,30,WIN,28:26,Slardar,Zeus,Nature's Prophet,Puck,Marci
+97,2,DPC 2022 Summer Tour - Western Europe Division 1,Gaimin Gladiators,dire,6,LOSE,28:26,Bristleback,Alchemist,Dragon Knight,Tusk,Viper
+98,1,DPC 2022 Summer Tour - Western Europe Division 1,OG,radiant,7,LOSE,21:33,Phantom Lancer,Winter Wyvern,Keeper of the Light,Skywrath Mage,Chaos Knight
+98,1,DPC 2022 Summer Tour - Western Europe Division 1,Team Liquid,dire,35,WIN,21:33,Monkey King,Clockwerk,Jakiro,Tiny,Razor
+98,2,DPC 2022 Summer Tour - Western Europe Division 1,OG,dire,22,LOSE,44:29,Riki,Morphling,Windranger,Crystal Maiden,Chaos Knight
+98,2,DPC 2022 Summer Tour - Western Europe Division 1,Team Liquid,radiant,39,WIN,44:29,Lone Druid,Jakiro,Dawnbreaker,Tiny,Razor
+99,1,DPC 2022 Summer Tour - Western Europe Division 1,Gaimin Gladiators,dire,33,WIN,28:57,Storm Spirit,Night Stalker,Io,Crystal Maiden,Dawnbreaker
+99,1,DPC 2022 Summer Tour - Western Europe Division 1,Team Secret,radiant,8,LOSE,28:57,Dragon Knight,Huskar,Zeus,Winter Wyvern,Beastmaster
+99,2,DPC 2022 Summer Tour - Western Europe Division 1,Gaimin Gladiators,radiant,38,LOSE,47:51,Leshrac,Viper,Tusk,Crystal Maiden,Dawnbreaker
+99,2,DPC 2022 Summer Tour - Western Europe Division 1,Team Secret,dire,35,WIN,47:51,Zeus,Weaver,Shadow Shaman,Clockwerk,Timbersaw
+99,3,DPC 2022 Summer Tour - Western Europe Division 1,Gaimin Gladiators,dire,14,LOSE,45:57,Void Spirit,Monkey King,Weaver,Beastmaster,Enchantress
+99,3,DPC 2022 Summer Tour - Western Europe Division 1,Team Secret,radiant,31,WIN,45:57,Tidehunter,Terrorblade,Winter Wyvern,Clockwerk,Timbersaw
+100,1,DPC 2022 Summer Tour - Western Europe Division 1,Gaimin Gladiators,dire,24,LOSE,41:07,Void Spirit,Juggernaut,Crystal Maiden,Treant Protector,Enigma
+100,1,DPC 2022 Summer Tour - Western Europe Division 1,Entity Gaming,radiant,38,WIN,41:07,Puck,Sniper,Clockwerk,Visage,Doom
+100,2,DPC 2022 Summer Tour - Western Europe Division 1,Gaimin Gladiators,dire,16,LOSE,41:04,Underlord,Luna,Vengeful Spirit,Ember Spirit,Io
+100,2,DPC 2022 Summer Tour - Western Europe Division 1,Entity Gaming,radiant,39,WIN,41:04,Dragon Knight,Leshrac,Pugna,Enigma,Doom
+101,1,DPC 2022 Summer Tour - Western Europe Division 1,Team Secret,dire,26,WIN,32:09,Timbersaw,Io,Bristleback,Viper,Clockwerk
+101,1,DPC 2022 Summer Tour - Western Europe Division 1,Team Liquid,radiant,16,LOSE,32:09,Necrophos,Nature's Prophet,Beastmaster,Monkey King,Enchantress
+101,2,DPC 2022 Summer Tour - Western Europe Division 1,Team Secret,radiant,36,WIN,41:39,Dragon Knight,Templar Assassin,Ogre Magi,Phoenix,Puck
+101,2,DPC 2022 Summer Tour - Western Europe Division 1,Team Liquid,dire,26,LOSE,41:39,Troll Warlord,Vengeful Spirit,Snapfire,Tiny,Dawnbreaker
+102,1,DPC 2022 Summer Tour - Western Europe Division 1,Team Secret,radiant,21,LOSE,45:12,Techies,Zeus,Clockwerk,Razor,Beastmaster
+102,1,DPC 2022 Summer Tour - Western Europe Division 1,Tundra Esports,dire,36,WIN,45:12,Winter Wyvern,Alchemist,Weaver,Dazzle,Chaos Knight
+102,2,DPC 2022 Summer Tour - Western Europe Division 1,Team Secret,dire,36,WIN,60:54,Templar Assassin,Clockwerk,Zeus,Puck,Marci
+102,2,DPC 2022 Summer Tour - Western Europe Division 1,Tundra Esports,radiant,24,LOSE,60:54,Batrider,Dragon Knight,Keeper of the Light,Dawnbreaker,Rubick
+102,3,DPC 2022 Summer Tour - Western Europe Division 1,Team Secret,dire,12,LOSE,39:48,Medusa,Pangolier,Clockwerk,Doom,Marci
+102,3,DPC 2022 Summer Tour - Western Europe Division 1,Tundra Esports,radiant,37,WIN,39:48,Night Stalker,Monkey King,Dazzle,Chaos Knight,Zeus
+103,1,DPC 2022 Spring Tour - Western Europe Division 1,OG,radiant,9,LOSE,31:32,Juggernaut,Invoker,Snapfire,Enigma,Timbersaw
+103,1,DPC 2022 Spring Tour - Western Europe Division 1,Team Secret,dire,21,WIN,31:32,Ember Spirit,Batrider,Nyx Assassin,Gyrocopter,Io
+103,2,DPC 2022 Spring Tour - Western Europe Division 1,OG,radiant,25,WIN,34:25,Tusk,Abaddon,Monkey King,Huskar,Enchantress
+103,2,DPC 2022 Spring Tour - Western Europe Division 1,Team Secret,dire,12,LOSE,34:25,Chaos Knight,Lina,Bane,Dragon Knight,Mirana
+103,3,DPC 2022 Spring Tour - Western Europe Division 1,OG,radiant,29,LOSE,52:39,Batrider,Terrorblade,Vengeful Spirit,Shadow Demon,Sand King
+103,3,DPC 2022 Spring Tour - Western Europe Division 1,Team Secret,dire,39,WIN,52:39,Ember Spirit,Earth Spirit,Snapfire,Faceless Void,Death Prophet
+104,1,DPC 2022 Spring Tour - Western Europe Division 1,Gaimin Gladiators,dire,9,LOSE,33:50,Underlord,Weaver,Bloodseeker,Grimstroke,Mars
+104,1,DPC 2022 Spring Tour - Western Europe Division 1,Team Liquid,radiant,24,WIN,33:50,Rubick,Wraith King,Mirana,Pangolier,Death Prophet
+104,2,DPC 2022 Spring Tour - Western Europe Division 1,Gaimin Gladiators,radiant,41,WIN,35:48,Razor,Storm Spirit,Shadow Demon,Enchantress,Mars
+104,2,DPC 2022 Spring Tour - Western Europe Division 1,Team Liquid,dire,14,LOSE,35:48,Terrorblade,Dragon Knight,Lich,Necrophos,Hoodwink
+104,3,DPC 2022 Spring Tour - Western Europe Division 1,Gaimin Gladiators,radiant,46,WIN,42:42,Bristleback,Bane,Timbersaw,Enchantress,Mars
+104,3,DPC 2022 Spring Tour - Western Europe Division 1,Team Liquid,dire,29,LOSE,42:42,Venomancer,Dark Willow,Ember Spirit,Lich,Lone Druid
+105,1,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Team Aster,radiant,27,WIN,32:06,Chen,Omniknight,Rubick,Puck,Tiny
+105,1,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Invictus Gaming,dire,15,LOSE,32:06,Morphling,Necrophos,Disruptor,Queen of Pain,Vengeful Spirit
+105,2,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Team Aster,radiant,23,LOSE,33:13,Visage,Terrorblade,Silencer,Puck,Spirit Breaker
+105,2,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Invictus Gaming,dire,27,WIN,33:13,Phantom Lancer,Ember Spirit,Shadow Shaman,Death Prophet,Shadow Demon
+105,3,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Team Aster,radiant,30,WIN,34:28,Naga Siren,Jakiro,Ember Spirit,Grimstroke,Spirit Breaker
+105,3,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Invictus Gaming,dire,13,LOSE,34:28,Brewmaster,Morphling,Undying,Templar Assassin,Dark Willow
+106,1,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,Nigma Galaxy,dire,27,WIN,33:29,Outworld Devourer,Clockwerk,Chen,Tiny,Invoker
+106,1,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,OG,radiant,20,LOSE,33:29,Mars,Treant Protector,Razor,Templar Assassin,Shadow Shaman
+106,2,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,Nigma Galaxy,radiant,19,WIN,35:35,Legion Commander,Phoenix,Gyrocopter,Undying,Invoker
+106,2,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,OG,dire,22,LOSE,35:35,Troll Warlord,Puck,Shadow Shaman,Mars,Io
+107,1,DPC 2022 Spring Tour - China Division 1,PSG.LGD,radiant,29,WIN,32:33,Tiny,Warlock,Mars,Earth Spirit,Death Prophet
+107,1,DPC 2022 Spring Tour - China Division 1,Team Aster,dire,17,LOSE,32:33,Razor,Juggernaut,Hoodwink,Sand King,Pugna
+107,2,DPC 2022 Spring Tour - China Division 1,PSG.LGD,radiant,26,LOSE,53:35,Nature's Prophet,Faceless Void,Treant Protector,Mirana,Sand King
+107,2,DPC 2022 Spring Tour - China Division 1,Team Aster,dire,32,WIN,53:35,Puck,Medusa,Shadow Shaman,Pugna,Pangolier
+107,3,DPC 2022 Spring Tour - China Division 1,PSG.LGD,radiant,3,LOSE,24:36,Morphling,Necrophos,Puck,Grimstroke,Pangolier
+107,3,DPC 2022 Spring Tour - China Division 1,Team Aster,dire,23,WIN,24:36,Brewmaster,Winter Wyvern,Tiny,Storm Spirit,Io
+108,1,DPC 2022 Spring Tour - Southeast Asia Division 1,Fnatic,radiant,28,WIN,39:36,Keeper of the Light,Beastmaster,Hoodwink,Weaver,Templar Assassin
+108,1,DPC 2022 Spring Tour - Southeast Asia Division 1,T1,dire,13,LOSE,39:36,Sand King,Dragon Knight,Bane,Tiny,Pugna
+108,2,DPC 2022 Spring Tour - Southeast Asia Division 1,Fnatic,radiant,13,LOSE,55:36,Arc Warden,Nature's Prophet,Invoker,Monkey King,Weaver
+108,2,DPC 2022 Spring Tour - Southeast Asia Division 1,T1,dire,30,WIN,55:36,Puck,Tiny,Necrophos,Pugna,Treant Protector
+108,3,DPC 2022 Spring Tour - Southeast Asia Division 1,Fnatic,dire,27,WIN,49:59,Ember Spirit,Drow Ranger,Undying,Mars,Io
+108,3,DPC 2022 Spring Tour - Southeast Asia Division 1,T1,radiant,22,LOSE,49:59,Pangolier,Medusa,Bane,Necrophos,Treant Protector
+109,1,DPC 2022 Spring Tour - China Division 1,PSG.LGD,dire,29,WIN,35:30,Terrorblade,Winter Wyvern,Dragon Knight,Storm Spirit,Grimstroke
+109,1,DPC 2022 Spring Tour - China Division 1,Vici Gaming,radiant,20,LOSE,35:30,Tidehunter,Ember Spirit,Bane,Hoodwink,Templar Assassin
+109,2,DPC 2022 Spring Tour - China Division 1,PSG.LGD,dire,18,LOSE,41:58,Kunkka,Brewmaster,Bane,Templar Assassin,Grimstroke
+109,2,DPC 2022 Spring Tour - China Division 1,Vici Gaming,radiant,40,WIN,41:58,Razor,Clockwerk,Viper,Tiny,Hoodwink
+109,3,DPC 2022 Spring Tour - China Division 1,PSG.LGD,dire,25,WIN,23:31,Ember Spirit,Morphling,Earth Spirit,Necrophos,Bane
+109,3,DPC 2022 Spring Tour - China Division 1,Vici Gaming,radiant,9,LOSE,23:31,Invoker,Hoodwink,Sand King,Grimstroke,Tiny
+110,1,DPC 2022 Spring Tour - China Division 1,PSG.LGD,dire,24,WIN,52:24,Phantom Lancer,Clockwerk,Beastmaster,Jakiro,Pangolier
+110,1,DPC 2022 Spring Tour - China Division 1,Xtreme Gaming,radiant,37,LOSE,52:24,Sand King,Razor,Rubick,Bane,Templar Assassin
+110,2,DPC 2022 Spring Tour - China Division 1,PSG.LGD,dire,33,WIN,21:35,Faceless Void,Dragon Knight,Treant Protector,Ember Spirit,Keeper of the Light
+110,2,DPC 2022 Spring Tour - China Division 1,Xtreme Gaming,radiant,12,LOSE,21:35,Invoker,Doom,Shadow Shaman,Templar Assassin,Bane
+111,1,DPC 2022 Spring Tour - China Division 1,Royal Never Give Up,dire,35,WIN,44:59,Faceless Void,Invoker,Earth Spirit,Death Prophet,Bane
+111,1,DPC 2022 Spring Tour - China Division 1,EHOME,radiant,22,LOSE,44:59,Beastmaster,Gyrocopter,Keeper of the Light,Morphling,Pangolier
+111,2,DPC 2022 Spring Tour - China Division 1,Royal Never Give Up,radiant,20,WIN,30:58,Faceless Void,Mars,Abaddon,Rubick,Death Prophet
+111,2,DPC 2022 Spring Tour - China Division 1,EHOME,dire,9,LOSE,30:58,Ursa,Razor,Luna,Magnus,Weaver
+112,1,DPC 2022 Summer Tour - Eastern Europe Division 1,BetBoom Team,radiant,10,LOSE,33:51,Ancient Apparition,Alchemist,Void Spirit,Enigma,Marci
+112,1,DPC 2022 Summer Tour - Eastern Europe Division 1,Outsiders,dire,36,WIN,33:51,Dawnbreaker,Chaos Knight,Dazzle,Puck,Tiny
+112,2,DPC 2022 Summer Tour - Eastern Europe Division 1,BetBoom Team,dire,25,WIN,33:02,Clockwerk,Snapfire,Alchemist,Enigma,Tiny
+112,2,DPC 2022 Summer Tour - Eastern Europe Division 1,Outsiders,radiant,14,LOSE,33:02,Wraith King,Necrophos,Dazzle,Dragon Knight,Zeus
+112,3,DPC 2022 Summer Tour - Eastern Europe Division 1,BetBoom Team,dire,23,LOSE,37:55,Clockwerk,Slardar,Snapfire,Puck,Alchemist
+112,3,DPC 2022 Summer Tour - Eastern Europe Division 1,Outsiders,radiant,29,WIN,37:55,Ogre Magi,Necrophos,Juggernaut,Marci,Tiny
+113,1,DPC 2022 Spring Tour - Western Europe Division 1,Tundra Esports,dire,27,LOSE,47:19,Templar Assassin,Chaos Knight,Weaver,Sand King,Monkey King
+113,1,DPC 2022 Spring Tour - Western Europe Division 1,Entity Gaming,radiant,34,WIN,47:19,Lina,Spirit Breaker,Bane,Huskar,Death Prophet
+113,2,DPC 2022 Spring Tour - Western Europe Division 1,Tundra Esports,radiant,33,WIN,24:41,Hoodwink,Gyrocopter,Io,Pangolier,Death Prophet
+113,2,DPC 2022 Spring Tour - Western Europe Division 1,Entity Gaming,dire,3,LOSE,24:41,Venomancer,Huskar,Winter Wyvern,Invoker,Shadow Shaman
+113,3,DPC 2022 Spring Tour - Western Europe Division 1,Tundra Esports,dire,32,WIN,26:23,Batrider,Pangolier,Monkey King,Gyrocopter,Io
+113,3,DPC 2022 Spring Tour - Western Europe Division 1,Entity Gaming,radiant,10,LOSE,26:23,Luna,Lycan,Clockwerk,Lina,Winter Wyvern
+114,1,DPC 2022 Spring Tour - China Division 1,Team Aster,dire,15,LOSE,46:40,Winter Wyvern,Tusk,Bane,Medusa,Io
+114,1,DPC 2022 Spring Tour - China Division 1,Xtreme Gaming,radiant,30,WIN,46:40,Huskar,Ursa,Mars,Shadow Shaman,Death Prophet
+114,2,DPC 2022 Spring Tour - China Division 1,Team Aster,radiant,16,LOSE,29:02,Razor,Terrorblade,Mirana,Sand King,Snapfire
+114,2,DPC 2022 Spring Tour - China Division 1,Xtreme Gaming,dire,26,WIN,29:02,Timbersaw,Shadow Shaman,Tiny,Storm Spirit,Pugna
+115,1,DPC 2022 Winter Tour - North America Finals,Team SoloMid,radiant,27,LOSE,57:35,Luna,Monkey King,Death Prophet,Ember Spirit,Bane
+115,1,DPC 2022 Winter Tour - North America Finals,Evil Geniuses,dire,37,WIN,57:35,Broodmother,Wraith King,Disruptor,Tusk,Puck
+115,2,DPC 2022 Winter Tour - North America Finals,Team SoloMid,dire,33,WIN,41:06,Dark Seer,Morphling,Mirana,Bane,Storm Spirit
+115,2,DPC 2022 Winter Tour - North America Finals,Evil Geniuses,radiant,25,LOSE,41:06,Templar Assassin,Grimstroke,Spirit Breaker,Invoker,Snapfire
+115,3,DPC 2022 Winter Tour - North America Finals,Team SoloMid,dire,20,LOSE,44:09,Sand King,Phantom Assassin,Snapfire,Kunkka,Weaver
+115,3,DPC 2022 Winter Tour - North America Finals,Evil Geniuses,radiant,25,WIN,44:09,Terrorblade,Tiny,Outworld Devourer,Ogre Magi,Queen of Pain
+115,4,DPC 2022 Winter Tour - North America Finals,Team SoloMid,radiant,25,WIN,37:48,Morphling,Treant Protector,Shadow Shaman,Beastmaster,Queen of Pain
+115,4,DPC 2022 Winter Tour - North America Finals,Evil Geniuses,dire,11,LOSE,37:48,Wraith King,Timbersaw,Ogre Magi,Storm Spirit,Io
+115,5,DPC 2022 Winter Tour - North America Finals,Team SoloMid,dire,24,WIN,38:49,Night Stalker,Troll Warlord,Treant Protector,Shadow Shaman,Ember Spirit
+115,5,DPC 2022 Winter Tour - North America Finals,Evil Geniuses,radiant,13,LOSE,38:49,Morphling,Disruptor,Mars,Tusk,Storm Spirit
+116,1,DPC 2022 Summer Tour - Eastern Europe Division 1,Team Spirit,radiant,13,LOSE,39:11,Dark Willow,Faceless Void,Enchantress,Zeus,Beastmaster
+116,1,DPC 2022 Summer Tour - Eastern Europe Division 1,Outsiders,dire,33,WIN,39:11,Medusa,Jakiro,Tusk,Timbersaw,Puck
+117,1,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,Tundra Esports,dire,23,WIN,32:53,Doom,Legion Commander,Hoodwink,Gyrocopter,Io
+117,1,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,BOOM Esports,radiant,8,LOSE,32:53,Troll Warlord,Dark Willow,Ember Spirit,Mars,Death Prophet
+117,2,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,Tundra Esports,radiant,12,LOSE,34:49,Void Spirit,Abaddon,Gyrocopter,Sand King,Hoodwink
+117,2,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,BOOM Esports,dire,32,WIN,34:49,Faceless Void,Invoker,Death Prophet,Tidehunter,Weaver
+117,3,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,Tundra Esports,dire,28,WIN,33:52,Timbersaw,Gyrocopter,Death Prophet,Tidehunter,Hoodwink
+117,3,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,BOOM Esports,radiant,8,LOSE,33:52,Juggernaut,Beastmaster,Disruptor,Kunkka,Io
+117,4,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,Tundra Esports,radiant,11,LOSE,28:15,Mars,Grimstroke,Chaos Knight,Broodmother,Death Prophet
+117,4,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,BOOM Esports,dire,20,WIN,28:15,Templar Assassin,Bristleback,Keeper of the Light,Hoodwink,Sand King
+117,5,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,Tundra Esports,dire,18,LOSE,46:58,Jakiro,Juggernaut,Disruptor,Sand King,Shadow Demon
+117,5,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,BOOM Esports,radiant,29,WIN,46:58,Razor,Grimstroke,Brewmaster,Templar Assassin,Hoodwink
+118,1,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,Nigma Galaxy,radiant,21,LOSE,38:07,Nature's Prophet,Dark Seer,Earth Spirit,Gyrocopter,Weaver
+118,1,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,BOOM Esports,dire,40,WIN,38:07,Batrider,Juggernaut,Monkey King,Death Prophet,Disruptor
+118,2,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,Nigma Galaxy,dire,42,WIN,49:11,Anti-Mage,Lina,Tusk,Gyrocopter,Weaver
+118,2,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,BOOM Esports,radiant,34,LOSE,49:11,Medusa,Earthshaker,Queen of Pain,Disruptor,Death Prophet
+118,3,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,Nigma Galaxy,radiant,14,LOSE,39:44,Queen of Pain,Luna,Sand King,Clockwerk,Death Prophet
+118,3,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,BOOM Esports,dire,32,WIN,39:44,Beastmaster,Medusa,Snapfire,Tidehunter,Weaver
+119,1,DPC 2022 Spring Tour - China Division 1,Team Aster,radiant,29,WIN,34:57,Nyx Assassin,Templar Assassin,Brewmaster,Ember Spirit,Grimstroke
+119,1,DPC 2022 Spring Tour - China Division 1,EHOME,dire,16,LOSE,34:57,Puck,Tiny,Keeper of the Light,Sand King,Pugna
+119,2,DPC 2022 Spring Tour - China Division 1,Team Aster,dire,17,LOSE,41:19,Alchemist,Tusk,Kunkka,Bane,Death Prophet
+119,2,DPC 2022 Spring Tour - China Division 1,EHOME,radiant,30,WIN,41:19,Timbersaw,Medusa,Lina,Pugna,Sand King
+119,3,DPC 2022 Spring Tour - China Division 1,Team Aster,dire,15,LOSE,37:13,Phantom Assassin,Dragon Knight,Phoenix,Ember Spirit,Grimstroke
+119,3,DPC 2022 Spring Tour - China Division 1,EHOME,radiant,41,WIN,37:13,Batrider,Shadow Shaman,Sand King,Templar Assassin,Pugna
+120,1,DPC 2022 Spring Tour - Western Europe Division 1,Tundra Esports,radiant,22,LOSE,38:55,Chaos Knight,Batrider,Abaddon,Pangolier,Keeper of the Light
+120,1,DPC 2022 Spring Tour - Western Europe Division 1,OG,dire,26,WIN,38:55,Timbersaw,Weaver,Enigma,Ember Spirit,Bane
+120,2,DPC 2022 Spring Tour - Western Europe Division 1,Tundra Esports,dire,10,LOSE,38:30,Kunkka,Necrophos,Shadow Demon,Gyrocopter,Io
+120,2,DPC 2022 Spring Tour - Western Europe Division 1,OG,radiant,38,WIN,38:30,Void Spirit,Monkey King,Snapfire,Mars,Enigma
+121,1,DPC 2022 Spring Tour - China Division 1,Team Aster,radiant,9,LOSE,32:31,Alchemist,Enchantress,Kunkka,Pangolier,Death Prophet
+121,1,DPC 2022 Spring Tour - China Division 1,Vici Gaming,dire,23,WIN,32:31,Lifestealer,Clockwerk,Invoker,Hoodwink,Sand King
+121,2,DPC 2022 Spring Tour - China Division 1,Team Aster,dire,26,WIN,40:19,Keeper of the Light,Storm Spirit,Templar Assassin,Shadow Shaman,Pangolier
+121,2,DPC 2022 Spring Tour - China Division 1,Vici Gaming,radiant,20,LOSE,40:19,Clinkz,Ogre Magi,Ember Spirit,Dragon Knight,Hoodwink
+121,3,DPC 2022 Spring Tour - China Division 1,Team Aster,dire,20,LOSE,42:43,Phantom Assassin,Phoenix,Mars,Storm Spirit,Grimstroke
+121,3,DPC 2022 Spring Tour - China Division 1,Vici Gaming,radiant,27,WIN,42:43,Tidehunter,Lifestealer,Puck,Bane,Pangolier
+122,1,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,BOOM Esports,dire,36,WIN,31:22,Medusa,Ember Spirit,Mirana,Pangolier,Bane
+122,1,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,Tundra Esports,radiant,8,LOSE,31:22,Puck,Clockwerk,Dark Seer,Templar Assassin,Weaver
+122,2,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,BOOM Esports,radiant,12,LOSE,34:56,Phantom Assassin,Centaur Warrunner,Mirana,Kunkka,Bane
+122,2,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,Tundra Esports,dire,26,WIN,34:56,Tiny,Death Prophet,Monkey King,Gyrocopter,Io
+122,3,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,BOOM Esports,radiant,19,LOSE,39:57,Tiny,Snapfire,Vengeful Spirit,Mars,Bane
+122,3,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,Tundra Esports,dire,34,WIN,39:57,Earth Spirit,Chaos Knight,Abaddon,Death Prophet,Monkey King
+123,1,DPC 2022 Spring Tour - Western Europe Division 1,Gaimin Gladiators,radiant,26,WIN,26:32,Mirana,Tiny,Bane,Mars,Keeper of the Light
+123,1,DPC 2022 Spring Tour - Western Europe Division 1,Nigma Galaxy,dire,10,LOSE,26:32,Lifestealer,Viper,Elder Titan,Enchantress,Ember Spirit
+123,2,DPC 2022 Spring Tour - Western Europe Division 1,Gaimin Gladiators,radiant,11,LOSE,36:18,Snapfire,Tidehunter,Bane,Tiny,Enchantress
+123,2,DPC 2022 Spring Tour - Western Europe Division 1,Nigma Galaxy,dire,33,WIN,36:18,Ursa,Undying,Sand King,Death Prophet,Io
+123,3,DPC 2022 Spring Tour - Western Europe Division 1,Gaimin Gladiators,radiant,38,WIN,38:38,Ursa,Jakiro,Earth Spirit,Ember Spirit,Io
+123,3,DPC 2022 Spring Tour - Western Europe Division 1,Nigma Galaxy,dire,24,LOSE,38:38,Pangolier,Huskar,Chaos Knight,Weaver,Keeper of the Light
+124,1,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Royal Never Give Up,radiant,27,WIN,31:44,Bristleback,Riki,Ember Spirit,Bane,Snapfire
+124,1,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Vici Gaming,dire,18,LOSE,31:44,Wraith King,Leshrac,Oracle,Pangolier,Weaver
+124,2,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Royal Never Give Up,radiant,35,WIN,29:34,Anti-Mage,Mirana,Puck,Chen,Spirit Breaker
+124,2,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Vici Gaming,dire,13,LOSE,29:34,Medusa,Disruptor,Phoenix,Tidehunter,Queen of Pain
+125,1,DPC 2022 Spring Tour - Western Europe Division 1,Team Secret,radiant,20,LOSE,34:14,Batrider,Lina,Monkey King,Chaos Knight,Enchantress
+125,1,DPC 2022 Spring Tour - Western Europe Division 1,Nigma Galaxy,dire,28,WIN,34:14,Dark Seer,Phantom Assassin,Bane,Sand King,Death Prophet
+125,2,DPC 2022 Spring Tour - Western Europe Division 1,Team Secret,dire,32,WIN,44:20,Troll Warlord,Clockwerk,Pangolier,Chaos Knight,Enchantress
+125,2,DPC 2022 Spring Tour - Western Europe Division 1,Nigma Galaxy,radiant,14,LOSE,44:20,Juggernaut,Slardar,Lich,Dark Seer,Death Prophet
+125,3,DPC 2022 Spring Tour - Western Europe Division 1,Team Secret,radiant,6,LOSE,27:07,Faceless Void,Skywrath Mage,Void Spirit,Chaos Knight,Enchantress
+125,3,DPC 2022 Spring Tour - Western Europe Division 1,Nigma Galaxy,dire,23,WIN,27:07,Naga Siren,Tidehunter,Keeper of the Light,Bane,Death Prophet
+126,1,DPC 2022 Spring Tour - Western Europe Division 1,Team Secret,radiant,44,WIN,40:51,Void Spirit,Wraith King,Chen,Axe,Rubick
+126,1,DPC 2022 Spring Tour - Western Europe Division 1,Brame,dire,13,LOSE,40:51,Windranger,Phantom Assassin,Crystal Maiden,Skywrath Mage,Sand King
+126,2,DPC 2022 Spring Tour - Western Europe Division 1,Team Secret,radiant,38,LOSE,59:25,Monkey King,Medusa,Skywrath Mage,Mars,Pugna
+126,2,DPC 2022 Spring Tour - Western Europe Division 1,Brame,dire,24,WIN,59:25,Anti-Mage,Chaos Knight,Clockwerk,Mirana,Sand King
+126,3,DPC 2022 Spring Tour - Western Europe Division 1,Team Secret,radiant,20,LOSE,42:45,Brewmaster,Tiny,Hoodwink,Bane,Ember Spirit
+126,3,DPC 2022 Spring Tour - Western Europe Division 1,Brame,dire,31,WIN,42:45,Terrorblade,Dark Willow,Mars,Dragon Knight,Keeper of the Light
+127,1,DPC 2022 Spring Tour - China Division 1,Team Aster,dire,32,WIN,35:18,Clinkz,Keeper of the Light,Ember Spirit,Bane,Pangolier
+127,1,DPC 2022 Spring Tour - China Division 1,Royal Never Give Up,radiant,18,LOSE,35:18,Shadow Shaman,Faceless Void,Lina,Sand King,Grimstroke
+127,2,DPC 2022 Spring Tour - China Division 1,Team Aster,dire,26,WIN,36:35,Leshrac,Medusa,Shadow Shaman,Sand King,Pugna
+127,2,DPC 2022 Spring Tour - China Division 1,Royal Never Give Up,radiant,23,LOSE,36:35,Dragon Knight,Tiny,Abaddon,Ember Spirit,Hoodwink
+128,1,DPC 2022 Spring Tour - Western Europe Division 1,Team Liquid,radiant,27,WIN,52:34,Queen of Pain,Axe,Mirana,Razor,Io
+128,1,DPC 2022 Spring Tour - Western Europe Division 1,Tundra Esports,dire,22,LOSE,52:34,Lina,Faceless Void,Pugna,Monkey King,Death Prophet
+128,2,DPC 2022 Spring Tour - Western Europe Division 1,Team Liquid,dire,12,LOSE,37:03,Bristleback,Void Spirit,Grimstroke,Hoodwink,Dragon Knight
+128,2,DPC 2022 Spring Tour - Western Europe Division 1,Tundra Esports,radiant,24,WIN,37:03,Chaos Knight,Abaddon,Shadow Shaman,Pangolier,Death Prophet
+128,3,DPC 2022 Spring Tour - Western Europe Division 1,Team Liquid,dire,37,WIN,39:45,Timbersaw,Lone Druid,Lich,Hoodwink,Dragon Knight
+128,3,DPC 2022 Spring Tour - Western Europe Division 1,Tundra Esports,radiant,9,LOSE,39:45,Terrorblade,Invoker,Techies,Abaddon,Sand King
+129,1,DPC 2022 Spring Tour - North America Division 1,4 Zoomers,radiant,30,LOSE,76:12,Zeus,Dragon Knight,Clockwerk,Tiny,Death Prophet
+129,1,DPC 2022 Spring Tour - North America Division 1,Quincy Crew,dire,30,WIN,76:12,Venomancer,Terrorblade,Lina,Enchantress,Pangolier
+129,2,DPC 2022 Spring Tour - North America Division 1,4 Zoomers,dire,36,WIN,44:39,Dawnbreaker,Lone Druid,Vengeful Spirit,Keeper of the Light,Tiny
+129,2,DPC 2022 Spring Tour - North America Division 1,Quincy Crew,radiant,14,LOSE,44:39,Medusa,Monkey King,Ember Spirit,Necrophos,Weaver
+129,3,DPC 2022 Spring Tour - North America Division 1,4 Zoomers,dire,27,LOSE,55:55,Kunkka,Razor,Clockwerk,Keeper of the Light,Lone Druid
+129,3,DPC 2022 Spring Tour - North America Division 1,Quincy Crew,radiant,23,WIN,55:55,Phantom Assassin,Hoodwink,Leshrac,Tidehunter,Enchantress
+130,1,DPC 2022 Spring Tour - Western Europe Division 1,Tundra Esports,radiant,23,WIN,24:14,Tiny,Monkey King,Death Prophet,Gyrocopter,Io
+130,1,DPC 2022 Spring Tour - Western Europe Division 1,Team Secret,dire,2,LOSE,24:14,Invoker,Phantom Assassin,Hoodwink,Brewmaster,Keeper of the Light
+130,2,DPC 2022 Spring Tour - Western Europe Division 1,Tundra Esports,radiant,23,WIN,35:11,Keeper of the Light,Luna,Abaddon,Hoodwink,Necrophos
+130,2,DPC 2022 Spring Tour - Western Europe Division 1,Team Secret,dire,7,LOSE,35:11,Shadow Fiend,Omniknight,Snapfire,Sand King,Io
+131,1,DPC 2022 Spring Tour - Western Europe Division 1,Team Liquid,dire,21,LOSE,58:09,Kunkka,Medusa,Keeper of the Light,Mars,Bane
+131,1,DPC 2022 Spring Tour - Western Europe Division 1,Entity Gaming,radiant,33,WIN,58:09,Tiny,Invoker,Abaddon,Skywrath Mage,Sand King
+131,2,DPC 2022 Spring Tour - Western Europe Division 1,Team Liquid,radiant,50,WIN,35:05,Weaver,Shadow Demon,Necrophos,Mars,Enchantress
+131,2,DPC 2022 Spring Tour - Western Europe Division 1,Entity Gaming,dire,19,LOSE,35:05,Venomancer,Spirit Breaker,Batrider,Huskar,Bane
+131,3,DPC 2022 Spring Tour - Western Europe Division 1,Team Liquid,dire,45,WIN,58:06,Naga Siren,Shadow Demon,Necrophos,Death Prophet,Mars
+131,3,DPC 2022 Spring Tour - Western Europe Division 1,Entity Gaming,radiant,21,LOSE,58:06,Winter Wyvern,Visage,Venomancer,Bloodseeker,Bane
+132,1,DPC 2022 Spring Tour - China Division 1,EHOME,dire,28,WIN,37:43,Void Spirit,Rubick,Shadow Demon,Medusa,Pangolier
+132,1,DPC 2022 Spring Tour - China Division 1,Vici Gaming,radiant,20,LOSE,37:43,Tiny,Puck,Mirana,Pugna,Dragon Knight
+132,2,DPC 2022 Spring Tour - China Division 1,EHOME,dire,35,LOSE,35:27,Faceless Void,Kunkka,Shadow Demon,Mirana,Pangolier
+132,2,DPC 2022 Spring Tour - China Division 1,Vici Gaming,radiant,31,WIN,35:27,Dark Seer,Earth Spirit,Puck,Templar Assassin,Pugna
+132,3,DPC 2022 Spring Tour - China Division 1,EHOME,dire,9,LOSE,24:56,Tusk,Shadow Shaman,Mars,Medusa,Pugna
+132,3,DPC 2022 Spring Tour - China Division 1,Vici Gaming,radiant,25,WIN,24:56,Juggernaut,Invoker,Clockwerk,Grimstroke,Dragon Knight
+133,1,DPC 2022 Spring Tour - Western Europe Division 1,Gaimin Gladiators,dire,9,LOSE,29:28,Ember Spirit,Techies,Chaos Knight,Mars,Io
+133,1,DPC 2022 Spring Tour - Western Europe Division 1,OG,radiant,25,WIN,29:28,Underlord,Phantom Lancer,Lich,Hoodwink,Dragon Knight
+133,2,DPC 2022 Spring Tour - Western Europe Division 1,Gaimin Gladiators,dire,10,LOSE,26:01,Wraith King,Vengeful Spirit,Pangolier,Storm Spirit,Io
+133,2,DPC 2022 Spring Tour - Western Europe Division 1,OG,radiant,35,WIN,26:01,Kunkka,Templar Assassin,Lich,Hoodwink,Dragon Knight
+134,1,DPC 2022 Spring Tour - Western Europe Division 1,Gaimin Gladiators,radiant,23,WIN,32:26,Legion Commander,Leshrac,Pugna,Chaos Knight,Io
+134,1,DPC 2022 Spring Tour - Western Europe Division 1,Tundra Esports,dire,4,LOSE,32:26,Gyrocopter,Windranger,Lich,Dragon Knight,Keeper of the Light
+134,2,DPC 2022 Spring Tour - Western Europe Division 1,Gaimin Gladiators,dire,16,LOSE,37:10,Templar Assassin,Tidehunter,Weaver,Mars,Pugna
+134,2,DPC 2022 Spring Tour - Western Europe Division 1,Tundra Esports,radiant,20,WIN,37:10,Medusa,Timbersaw,Bane,Visage,Pangolier
+134,3,DPC 2022 Spring Tour - Western Europe Division 1,Gaimin Gladiators,radiant,39,WIN,37:45,Underlord,Mars,Grimstroke,Sand King,Pugna
+134,3,DPC 2022 Spring Tour - Western Europe Division 1,Tundra Esports,dire,17,LOSE,37:45,Batrider,Wraith King,Weaver,Clockwerk,Visage
+135,1,DPC 2022 Spring Tour - Western Europe Division 1,OG,radiant,31,WIN,32:37,Ember Spirit,Clockwerk,Viper,Tiny,Pugna
+135,1,DPC 2022 Spring Tour - Western Europe Division 1,Entity Gaming,dire,9,LOSE,32:37,Queen of Pain,Terrorblade,Keeper of the Light,Bane,Sand King
+135,2,DPC 2022 Spring Tour - Western Europe Division 1,OG,dire,31,WIN,37:58,Phantom Lancer,Kunkka,Mirana,Bane,Timbersaw
+135,2,DPC 2022 Spring Tour - Western Europe Division 1,Entity Gaming,radiant,20,LOSE,37:58,Dragon Knight,Shadow Shaman,Monkey King,Pugna,Enchantress
+136,1,DPC 2022 Winter Tour - Eastern Europe Finals,Virtus.pro,radiant,21,LOSE,40:55,Spirit Breaker,Luna,Treant Protector,Invoker,Shadow Shaman
+136,1,DPC 2022 Winter Tour - Eastern Europe Finals,Team Spirit,dire,48,WIN,40:55,Drow Ranger,Outworld Devourer,Disruptor,Queen of Pain,Monkey King
+136,2,DPC 2022 Winter Tour - Eastern Europe Finals,Virtus.pro,dire,27,LOSE,40:38,Tidehunter,Invoker,Shadow Shaman,Kunkka,Weaver
+136,2,DPC 2022 Winter Tour - Eastern Europe Finals,Team Spirit,radiant,39,WIN,40:38,Ember Spirit,Spirit Breaker,Grimstroke,Monkey King,Bane
+136,3,DPC 2022 Winter Tour - Eastern Europe Finals,Virtus.pro,radiant,4,LOSE,17:57,Storm Spirit,Wraith King,Hoodwink,Timbersaw,Queen of Pain
+136,3,DPC 2022 Winter Tour - Eastern Europe Finals,Team Spirit,dire,19,WIN,17:57,Axe,Templar Assassin,Mirana,Kunkka,Bane
+137,1,DPC 2022 Spring Tour - China Division 1,Team Aster,radiant,27,WIN,37:37,Dragon Knight,Grimstroke,Phantom Assassin,Pangolier,Bane
+137,1,DPC 2022 Spring Tour - China Division 1,Xtreme Gaming,dire,8,LOSE,37:37,Terrorblade,Puck,Mirana,Pugna,Mars
+137,2,DPC 2022 Spring Tour - China Division 1,Team Aster,dire,18,WIN,32:28,Lina,Mirana,Brewmaster,Templar Assassin,Bane
+137,2,DPC 2022 Spring Tour - China Division 1,Xtreme Gaming,radiant,14,LOSE,32:28,Morphling,Razor,Mars,Grimstroke,Pangolier
+138,1,DPC 2022 Spring Tour - Eastern Europe Division 1,Team Spirit,radiant,31,LOSE,55:05,Faceless Void,Hoodwink,Shadow Demon,Chaos Knight,Storm Spirit
+138,1,DPC 2022 Spring Tour - Eastern Europe Division 1,BetBoom Team,dire,46,WIN,55:05,Snapfire,Spirit Breaker,Grimstroke,Bane,Nature's Prophet
+138,2,DPC 2022 Spring Tour - Eastern Europe Division 1,Team Spirit,dire,29,WIN,31:54,Night Stalker,Tiny,Clockwerk,Keeper of the Light,Storm Spirit
+138,2,DPC 2022 Spring Tour - Eastern Europe Division 1,BetBoom Team,radiant,10,LOSE,31:54,Leshrac,Necrophos,Pugna,Grimstroke,Dragon Knight
+138,3,DPC 2022 Spring Tour - Eastern Europe Division 1,Team Spirit,radiant,17,LOSE,54:59,Magnus,Lina,Hoodwink,Chaos Knight,Bane
+138,3,DPC 2022 Spring Tour - Eastern Europe Division 1,BetBoom Team,dire,15,WIN,54:59,Terrorblade,Chen,Pangolier,Leshrac,Io
+139,1,DPC 2022 Spring Tour - North America Division 1,4 Zoomers,dire,37,WIN,47:37,Wraith King,Faceless Void,Mirana,Dragon Knight,Pugna
+139,1,DPC 2022 Spring Tour - North America Division 1,Team SoloMid,radiant,16,LOSE,47:37,Leshrac,Medusa,Abaddon,Sand King,Keeper of the Light
+139,2,DPC 2022 Spring Tour - North America Division 1,4 Zoomers,radiant,10,LOSE,34:13,Drow Ranger,Venomancer,Ogre Magi,Lone Druid,Keeper of the Light
+139,2,DPC 2022 Spring Tour - North America Division 1,Team SoloMid,dire,27,WIN,34:13,Lycan,Lifestealer,Tiny,Dragon Knight,Bane
+139,3,DPC 2022 Spring Tour - North America Division 1,4 Zoomers,radiant,12,LOSE,30:21,Alchemist,Chen,Bane,Snapfire,Faceless Void
+139,3,DPC 2022 Spring Tour - North America Division 1,Team SoloMid,dire,28,WIN,30:21,Keeper of the Light,Rubick,Beastmaster,Tiny,Pugna
+140,1,DPC 2022 Spring Tour - Western Europe Division 1,Team Secret,radiant,35,WIN,41:04,Necrophos,Wraith King,Storm Spirit,Mars,Pugna
+140,1,DPC 2022 Spring Tour - Western Europe Division 1,Entity Gaming,dire,19,LOSE,41:04,Razor,Sand King,Clockwerk,Enchantress,Pangolier
+140,2,DPC 2022 Spring Tour - Western Europe Division 1,Team Secret,dire,14,LOSE,60:50,Phantom Lancer,Viper,Rubick,Pangolier,Keeper of the Light
+140,2,DPC 2022 Spring Tour - Western Europe Division 1,Entity Gaming,radiant,33,WIN,60:50,Abaddon,Templar Assassin,Spirit Breaker,Sand King,Death Prophet
+140,3,DPC 2022 Spring Tour - Western Europe Division 1,Team Secret,dire,29,WIN,32:27,Puck,Underlord,Chaos Knight,Monkey King,Enchantress
+140,3,DPC 2022 Spring Tour - Western Europe Division 1,Entity Gaming,radiant,16,LOSE,32:27,Storm Spirit,Lich,Bloodseeker,Skywrath Mage,Sand King
+141,1,DPC 2022 Spring Tour - Southeast Asia Division 1,BOOM Esports,dire,16,LOSE,34:01,Ursa,Tidehunter,Hoodwink,Storm Spirit,Monkey King
+141,1,DPC 2022 Spring Tour - Southeast Asia Division 1,Fnatic,radiant,14,WIN,34:01,Legion Commander,Treant Protector,Vengeful Spirit,Tiny,Keeper of the Light
+141,2,DPC 2022 Spring Tour - Southeast Asia Division 1,BOOM Esports,radiant,28,WIN,33:29,Lifestealer,Sand King,Grimstroke,Ember Spirit,Weaver
+141,2,DPC 2022 Spring Tour - Southeast Asia Division 1,Fnatic,dire,16,LOSE,33:29,Huskar,Lone Druid,Shadow Demon,Mars,Io
+141,3,DPC 2022 Spring Tour - Southeast Asia Division 1,BOOM Esports,radiant,22,WIN,21:54,Mars,Storm Spirit,Abaddon,Medusa,Monkey King
+141,3,DPC 2022 Spring Tour - Southeast Asia Division 1,Fnatic,dire,4,LOSE,21:54,Drow Ranger,Doom,Shadow Demon,Sand King,Hoodwink
+142,1,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,Team Spirit,dire,10,LOSE,33:45,Dark Seer,Monkey King,Io,Ember Spirit,Enchantress
+142,1,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,BOOM Esports,radiant,28,WIN,33:45,Razor,Tidehunter,Mirana,Weaver,Kunkka
+142,2,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,Team Spirit,radiant,12,LOSE,29:35,Dragon Knight,Doom,Disruptor,Templar Assassin,Enchantress
+142,2,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,BOOM Esports,dire,26,WIN,29:35,Viper,Wraith King,Ember Spirit,Tidehunter,Weaver
+143,1,DPC 2022 Summer Tour - Eastern Europe Division 1,Natus Vincere,radiant,24,WIN,25:39,Enchantress,Gyrocopter,Io,Tiny,Dawnbreaker
+143,1,DPC 2022 Summer Tour - Eastern Europe Division 1,Outsiders,dire,4,LOSE,25:39,Terrorblade,Viper,Clockwerk,Bane,Puck
+143,2,DPC 2022 Summer Tour - Eastern Europe Division 1,Natus Vincere,dire,24,WIN,29:07,Medusa,Lycan,Clockwerk,Puck,Tiny
+143,2,DPC 2022 Summer Tour - Eastern Europe Division 1,Outsiders,radiant,10,LOSE,29:07,Monkey King,Templar Assassin,Shadow Shaman,Doom,Keeper of the Light
+144,1,DPC 2022 Spring Tour - China Division 1,Vici Gaming,dire,17,LOSE,38:13,Lone Druid,Clockwerk,Viper,Grimstroke,Doom
+144,1,DPC 2022 Spring Tour - China Division 1,Xtreme Gaming,radiant,15,WIN,38:13,Storm Spirit,Shadow Shaman,Abaddon,Templar Assassin,Dragon Knight
+144,2,DPC 2022 Spring Tour - China Division 1,Vici Gaming,radiant,10,LOSE,28:05,Keeper of the Light,Terrorblade,Earth Spirit,Grimstroke,Doom
+144,2,DPC 2022 Spring Tour - China Division 1,Xtreme Gaming,dire,19,WIN,28:05,Dark Seer,Weaver,Shadow Shaman,Templar Assassin,Dragon Knight
+145,1,DPC 2022 Winter Tour - North America Finals,Quincy Crew,dire,25,LOSE,36:01,Naga Siren,Viper,Dawnbreaker,Ember Spirit,Weaver
+145,1,DPC 2022 Winter Tour - North America Finals,Team SoloMid,radiant,32,WIN,36:01,Lycan,Shadow Shaman,Wraith King,Bane,Queen of Pain
+145,2,DPC 2022 Winter Tour - North America Finals,Quincy Crew,radiant,27,WIN,35:01,Luna,Legion Commander,Disruptor,Leshrac,Io
+145,2,DPC 2022 Winter Tour - North America Finals,Team SoloMid,dire,19,LOSE,35:01,Brewmaster,Razor,Dark Willow,Storm Spirit,Bane
+145,3,DPC 2022 Winter Tour - North America Finals,Quincy Crew,radiant,4,LOSE,20:09,Morphling,Ogre Magi,Shadow Fiend,Night Stalker,Io
+145,3,DPC 2022 Winter Tour - North America Finals,Team SoloMid,dire,26,WIN,20:09,Broodmother,Terrorblade,Bane,Storm Spirit,Weaver
+146,1,DPC 2022 Summer Tour - Eastern Europe Division 1,Team Spirit,dire,13,LOSE,32:50,Naga Siren,Timbersaw,Marci,Zeus,Doom
+146,1,DPC 2022 Summer Tour - Eastern Europe Division 1,Natus Vincere,radiant,42,WIN,32:50,Bounty Hunter,Dawnbreaker,Nature's Prophet,Io,Tiny
+147,1,DPC 2022 Spring Tour - China Division 1,Royal Never Give Up,radiant,27,WIN,29:09,Invoker,Anti-Mage,Enchantress,Tidehunter,Hoodwink
+147,1,DPC 2022 Spring Tour - China Division 1,Vici Gaming,dire,10,LOSE,29:09,Void Spirit,Ursa,Rubick,Dragon Knight,Grimstroke
+147,2,DPC 2022 Spring Tour - China Division 1,Royal Never Give Up,radiant,28,WIN,37:11,Morphling,Ancient Apparition,Wraith King,Tidehunter,Hoodwink
+147,2,DPC 2022 Spring Tour - China Division 1,Vici Gaming,dire,11,LOSE,37:11,Outworld Devourer,Lifestealer,Disruptor,Dragon Knight,Grimstroke
+148,1,DPC 2022 Summer Tour - Eastern Europe Division 1,BetBoom Team,dire,5,LOSE,40:15,Gyrocopter,Mirana,Clockwerk,Keeper of the Light,Beastmaster
+148,1,DPC 2022 Summer Tour - Eastern Europe Division 1,Natus Vincere,radiant,17,WIN,40:15,Lifestealer,Ember Spirit,Snapfire,Night Stalker,Enigma
+148,2,DPC 2022 Summer Tour - Eastern Europe Division 1,BetBoom Team,radiant,26,LOSE,43:48,Huskar,Shadow Shaman,Snapfire,Keeper of the Light,Beastmaster
+148,2,DPC 2022 Summer Tour - Eastern Europe Division 1,Natus Vincere,dire,21,WIN,43:48,Bristleback,Clockwerk,Puck,Night Stalker,Enigma
+149,1,DPC 2022 Spring Tour - Eastern Europe Division 1,Team Spirit,radiant,41,WIN,51:19,Underlord,Templar Assassin,Clockwerk,Storm Spirit,Keeper of the Light
+149,1,DPC 2022 Spring Tour - Eastern Europe Division 1,Natus Vincere,dire,28,LOSE,51:19,Phantom Assassin,Ember Spirit,Skywrath Mage,Enchantress,Sand King
+149,2,DPC 2022 Spring Tour - Eastern Europe Division 1,Team Spirit,dire,33,WIN,41:18,Beastmaster,Tiny,Shadow Shaman,Storm Spirit,Keeper of the Light
+149,2,DPC 2022 Spring Tour - Eastern Europe Division 1,Natus Vincere,radiant,14,LOSE,41:18,Templar Assassin,Death Prophet,Hoodwink,Puck,Dragon Knight
+150,1,DPC 2022 Summer Tour - Eastern Europe Division 1,Team Spirit,radiant,13,LOSE,43:31,Enigma,Razor,Rubick,Winter Wyvern,Zeus
+150,1,DPC 2022 Summer Tour - Eastern Europe Division 1,Outsiders,dire,26,WIN,43:31,Queen of Pain,Dazzle,Templar Assassin,Timbersaw,Tiny
+150,2,DPC 2022 Summer Tour - Eastern Europe Division 1,Team Spirit,radiant,15,LOSE,46:27,Dark Seer,Juggernaut,Clockwerk,Dawnbreaker,Puck
+150,2,DPC 2022 Summer Tour - Eastern Europe Division 1,Outsiders,dire,46,WIN,46:27,Lycan,Razor,Ogre Magi,Dragon Knight,Zeus
+151,1,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,PSG.LGD,radiant,24,WIN,19:17,Phantom Assassin,Snapfire,Slardar,Storm Spirit,Io
+151,1,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Invictus Gaming,dire,9,LOSE,19:17,Lich,Troll Warlord,Void Spirit,Mars,Grimstroke
+151,2,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,PSG.LGD,radiant,11,LOSE,32:58,Morphling,Lion,Leshrac,Mars,Io
+151,2,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Invictus Gaming,dire,35,WIN,32:58,Drow Ranger,Death Prophet,Tusk,Silencer,Storm Spirit
+151,3,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,PSG.LGD,radiant,34,WIN,41:42,Monkey King,Doom,Treant Protector,Razor,Bane
+151,3,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Invictus Gaming,dire,28,LOSE,41:42,Outworld Devourer,Wraith King,Storm Spirit,Snapfire,Tidehunter
+152,1,DPC 2022 Spring Tour - North America Division 1,Quincy Crew,radiant,22,LOSE,42:42,Templar Assassin,Tidehunter,Tiny,Weaver,Bane
+152,1,DPC 2022 Spring Tour - North America Division 1,Team SoloMid,dire,30,WIN,42:42,Huskar,Necrophos,Storm Spirit,Monkey King,Enchantress
+152,2,DPC 2022 Spring Tour - North America Division 1,Quincy Crew,dire,20,WIN,24:47,Bane,Medusa,Keeper of the Light,Storm Spirit,Pangolier
+152,2,DPC 2022 Spring Tour - North America Division 1,Team SoloMid,radiant,6,LOSE,24:47,Razor,Io,Beastmaster,Ember Spirit,Skywrath Mage
+152,3,DPC 2022 Spring Tour - North America Division 1,Quincy Crew,radiant,18,WIN,36:48,Troll Warlord,Undying,Lina,Monkey King,Death Prophet
+152,3,DPC 2022 Spring Tour - North America Division 1,Team SoloMid,dire,17,LOSE,36:48,Enigma,Bloodseeker,Phoenix,Storm Spirit,Bane
+153,1,DPC 2022 Winter Tour - North America Finals,Team SoloMid,dire,32,WIN,37:15,Troll Warlord,Viper,Monkey King,Storm Spirit,Bane
+153,1,DPC 2022 Winter Tour - North America Finals,Evil Geniuses,radiant,14,LOSE,37:15,Legion Commander,Witch Doctor,Luna,Puck,Io
+153,2,DPC 2022 Winter Tour - North America Finals,Team SoloMid,radiant,29,WIN,28:16,Medusa,Invoker,Witch Doctor,Beastmaster,Queen of Pain
+153,2,DPC 2022 Winter Tour - North America Finals,Evil Geniuses,dire,12,LOSE,28:16,Broodmother,Chaos Knight,Chen,Lina,Bane
+154,1,DPC 2022 Spring Tour - South America Division 1,Thunder Awaken,radiant,55,WIN,46:00,Sand King,Monkey King,Lich,Mars,Weaver
+154,1,DPC 2022 Spring Tour - South America Division 1,beastcoast,dire,30,LOSE,46:00,Rubick,Phantom Lancer,Shadow Shaman,Timbersaw,Death Prophet
+154,2,DPC 2022 Spring Tour - South America Division 1,Thunder Awaken,radiant,31,WIN,22:44,Batrider,Ember Spirit,Luna,Timbersaw,Shadow Demon
+154,2,DPC 2022 Spring Tour - South America Division 1,beastcoast,dire,11,LOSE,22:44,Void Spirit,Juggernaut,Grimstroke,Phoenix,Mars
+155,1,DPC 2022 Spring Tour - Western Europe Division 1,Team Liquid,dire,29,LOSE,44:55,Pangolier,Lone Druid,Mirana,Grimstroke,Ember Spirit
+155,1,DPC 2022 Spring Tour - Western Europe Division 1,OG,radiant,28,WIN,44:55,Nature's Prophet,Skywrath Mage,Dragon Knight,Huskar,Pugna
+155,2,DPC 2022 Spring Tour - Western Europe Division 1,Team Liquid,radiant,23,LOSE,40:28,Tiny,Nature's Prophet,Earth Spirit,Grimstroke,Ember Spirit
+155,2,DPC 2022 Spring Tour - Western Europe Division 1,OG,dire,41,WIN,40:28,Mars,Templar Assassin,Enigma,Shadow Demon,Dragon Knight
+156,1,DPC 2022 Summer Tour - Eastern Europe Division 1,BetBoom Team,radiant,21,LOSE,33:00,Enigma,Puck,Marci,Night Stalker,Tiny
+156,1,DPC 2022 Summer Tour - Eastern Europe Division 1,Team Spirit,dire,34,WIN,33:00,Sven,Void Spirit,Phoenix,Beastmaster,Winter Wyvern
+156,2,DPC 2022 Summer Tour - Eastern Europe Division 1,BetBoom Team,dire,31,WIN,44:34,Mars,Ancient Apparition,Puck,Nature's Prophet,Tiny
+156,2,DPC 2022 Summer Tour - Eastern Europe Division 1,Team Spirit,radiant,29,LOSE,44:34,Axe,Void Spirit,Phoenix,Monkey King,Winter Wyvern
+156,3,DPC 2022 Summer Tour - Eastern Europe Division 1,BetBoom Team,radiant,38,LOSE,59:09,Void Spirit,Slardar,Io,Nature's Prophet,Tiny
+156,3,DPC 2022 Summer Tour - Eastern Europe Division 1,Team Spirit,dire,37,WIN,59:09,Kunkka,Terrorblade,Dawnbreaker,Doom,Zeus
+157,1,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Team Aster,dire,11,LOSE,31:49,Batrider,Naga Siren,Jakiro,Pangolier,Rubick
+157,1,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Royal Never Give Up,radiant,25,WIN,31:49,Lifestealer,Invoker,Phoenix,Spirit Breaker,Chen
+157,2,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Team Aster,dire,28,WIN,31:14,Outworld Devourer,Tiny,Mirana,Ember Spirit,Grimstroke
+157,2,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Royal Never Give Up,radiant,8,LOSE,31:14,Necrophos,Abaddon,Bane,Gyrocopter,Io
+157,3,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Team Aster,dire,28,WIN,29:24,Io,Juggernaut,Mars,Grimstroke,Void Spirit
+157,3,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Royal Never Give Up,radiant,16,LOSE,29:24,Shadow Fiend,Undying,Brewmaster,Rubick,Ember Spirit
+158,1,DPC 2022 Summer Tour - Eastern Europe Division 1,Natus Vincere,dire,7,LOSE,35:15,Anti-Mage,Ember Spirit,Windranger,Timbersaw,Winter Wyvern
+158,1,DPC 2022 Summer Tour - Eastern Europe Division 1,One Move,radiant,25,WIN,35:15,Ursa,Tiny,Zeus,Batrider,Beastmaster
+158,2,DPC 2022 Summer Tour - Eastern Europe Division 1,Natus Vincere,radiant,36,WIN,36:19,Nature's Prophet,Clockwerk,Dawnbreaker,Keeper of the Light,Tiny
+158,2,DPC 2022 Summer Tour - Eastern Europe Division 1,One Move,dire,14,LOSE,36:19,Underlord,Faceless Void,Enchantress,Mirana,Sand King
+158,3,DPC 2022 Summer Tour - Eastern Europe Division 1,Natus Vincere,dire,42,WIN,44:29,Necrophos,Bloodseeker,Winter Wyvern,Clockwerk,Puck
+158,3,DPC 2022 Summer Tour - Eastern Europe Division 1,One Move,radiant,22,LOSE,44:29,Pudge,Weaver,Zeus,Lycan,Tiny
+159,1,DPC 2022 Summer Tour - Eastern Europe Division 1,Natus Vincere,radiant,28,LOSE,42:23,Winter Wyvern,Lifestealer,Marci,Dawnbreaker,Puck
+159,1,DPC 2022 Summer Tour - Eastern Europe Division 1,Outsiders,dire,29,WIN,42:23,Doom,Ogre Magi,Juggernaut,Skywrath Mage,Tiny
+160,1,DPC 2022 Spring Tour - China Division 1,Royal Never Give Up,dire,6,LOSE,39:41,Tidehunter,Chaos Knight,Shadow Shaman,Leshrac,Io
+160,1,DPC 2022 Spring Tour - China Division 1,Xtreme Gaming,radiant,31,WIN,39:41,Elder Titan,Ursa,Dragon Knight,Storm Spirit,Keeper of the Light
+160,2,DPC 2022 Spring Tour - China Division 1,Royal Never Give Up,radiant,19,LOSE,35:19,Brewmaster,Troll Warlord,Grimstroke,Nyx Assassin,Storm Spirit
+160,2,DPC 2022 Spring Tour - China Division 1,Xtreme Gaming,dire,32,WIN,35:19,Elder Titan,Slardar,Tiny,Ember Spirit,Keeper of the Light
+161,1,DPC 2022 Summer Tour - Eastern Europe Division 1,Team Spirit,radiant,37,WIN,52:35,Abaddon,Rubick,Faceless Void,Zeus,Beastmaster
+161,1,DPC 2022 Summer Tour - Eastern Europe Division 1,Natus Vincere,dire,21,LOSE,52:35,Nature's Prophet,Venomancer,Clockwerk,Tiny,Keeper of the Light
+161,2,DPC 2022 Summer Tour - Eastern Europe Division 1,Team Spirit,dire,31,WIN,48:22,Disruptor,Void Spirit,Snapfire,Beastmaster,Monkey King
+161,2,DPC 2022 Summer Tour - Eastern Europe Division 1,Natus Vincere,radiant,27,LOSE,48:22,Chaos Knight,Ember Spirit,Winter Wyvern,Dawnbreaker,Keeper of the Light
+162,1,DPC 2022 Spring Tour - Eastern Europe Division 1,BetBoom Team,dire,20,LOSE,44:33,Undying,Jakiro,Mars,Visage,Storm Spirit
+162,1,DPC 2022 Spring Tour - Eastern Europe Division 1,Natus Vincere,radiant,25,WIN,44:33,Leshrac,Medusa,Treant Protector,Pugna,Dragon Knight
+162,2,DPC 2022 Spring Tour - Eastern Europe Division 1,BetBoom Team,dire,32,WIN,33:03,Chen,Pangolier,Grimstroke,Visage,Mars
+162,2,DPC 2022 Spring Tour - Eastern Europe Division 1,Natus Vincere,radiant,14,LOSE,33:03,Wraith King,Disruptor,Chaos Knight,Storm Spirit,Pugna
+162,3,DPC 2022 Spring Tour - Eastern Europe Division 1,BetBoom Team,radiant,24,WIN,44:50,Windranger,Bane,Shadow Demon,Visage,Mars
+162,3,DPC 2022 Spring Tour - Eastern Europe Division 1,Natus Vincere,dire,17,LOSE,44:50,Abaddon,Medusa,Storm Spirit,Dragon Knight,Pugna
+163,1,DPC 2022 Spring Tour - Western Europe Division 1,Gaimin Gladiators,dire,14,LOSE,42:06,Mars,Phantom Assassin,Enchantress,Tidehunter,Weaver
+163,1,DPC 2022 Spring Tour - Western Europe Division 1,Entity Gaming,radiant,31,WIN,42:06,Skywrath Mage,Razor,Death Prophet,Bane,Sand King
+163,2,DPC 2022 Spring Tour - Western Europe Division 1,Gaimin Gladiators,dire,28,WIN,35:02,Anti-Mage,Jakiro,Mars,Weaver,Enchantress
+163,2,DPC 2022 Spring Tour - Western Europe Division 1,Entity Gaming,radiant,19,LOSE,35:02,Skywrath Mage,Bane,Templar Assassin,Sand King,Pugna
+163,3,DPC 2022 Spring Tour - Western Europe Division 1,Gaimin Gladiators,dire,29,WIN,33:41,Phantom Assassin,Grimstroke,Ember Spirit,Tidehunter,Weaver
+163,3,DPC 2022 Spring Tour - Western Europe Division 1,Entity Gaming,radiant,17,LOSE,33:41,Templar Assassin,Visage,Skywrath Mage,Bane,Sand King
+164,1,DPC 2022 Spring Tour - North America Division 1,Team SoloMid,dire,22,WIN,46:45,Tidehunter,Terrorblade,Bane,Sand King,Mirana
+164,1,DPC 2022 Spring Tour - North America Division 1,Evil Geniuses,radiant,14,LOSE,46:45,Invoker,Techies,Dragon Knight,Chaos Knight,Enchantress
+164,2,DPC 2022 Spring Tour - North America Division 1,Team SoloMid,radiant,3,LOSE,31:47,Terrorblade,Death Prophet,Pangolier,Puck,Weaver
+164,2,DPC 2022 Spring Tour - North America Division 1,Evil Geniuses,dire,17,WIN,31:47,Tusk,Shadow Demon,Viper,Dragon Knight,Medusa
+164,3,DPC 2022 Spring Tour - North America Division 1,Team SoloMid,radiant,28,WIN,46:59,Ember Spirit,Io,Mars,Razor,Bane
+164,3,DPC 2022 Spring Tour - North America Division 1,Evil Geniuses,dire,19,LOSE,46:59,Night Stalker,Nature's Prophet,Techies,Pugna,Dragon Knight
+165,1,DPC 2022 Spring Tour - Eastern Europe Division 1,Natus Vincere,dire,29,WIN,30:06,Phantom Assassin,Timbersaw,Shadow Shaman,Pangolier,Keeper of the Light
+165,1,DPC 2022 Spring Tour - Eastern Europe Division 1,CIS Rejects,radiant,12,LOSE,30:06,Storm Spirit,Medusa,Skywrath Mage,Sand King,Death Prophet
+165,2,DPC 2022 Spring Tour - Eastern Europe Division 1,Natus Vincere,radiant,15,LOSE,39:00,Puck,Terrorblade,Shadow Shaman,Pangolier,Keeper of the Light
+165,2,DPC 2022 Spring Tour - Eastern Europe Division 1,CIS Rejects,dire,20,WIN,39:00,Faceless Void,Lina,Grimstroke,Mars,Death Prophet
+165,3,DPC 2022 Spring Tour - Eastern Europe Division 1,Natus Vincere,radiant,41,WIN,48:19,Oracle,Lina,Bloodseeker,Timbersaw,Enchantress
+165,3,DPC 2022 Spring Tour - Eastern Europe Division 1,CIS Rejects,dire,30,LOSE,48:19,Nature's Prophet,Ember Spirit,Mirana,Sand King,Death Prophet
+166,1,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,OG,radiant,13,LOSE,37:57,Batrider,Tiny,Omniknight,Lion,Timbersaw
+166,1,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,Team Spirit,dire,26,WIN,37:57,Kunkka,Ursa,Io,Bane,Mars
+166,2,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,OG,radiant,37,WIN,56:07,Troll Warlord,Enigma,Timbersaw,Shadow Demon,Invoker
+166,2,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,Team Spirit,dire,29,LOSE,56:07,Magnus,Anti-Mage,Mirana,Kunkka,Bane
+166,3,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,OG,radiant,14,LOSE,37:53,Tidehunter,Dark Willow,Troll Warlord,Omniknight,Invoker
+166,3,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,Team Spirit,dire,27,WIN,37:53,Monkey King,Sand King,Io,Ember Spirit,Bane
+167,1,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,Nigma Galaxy,radiant,16,LOSE,30:32,Queen of Pain,Elder Titan,Night Stalker,Enchantress,Ember Spirit
+167,1,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,Tundra Esports,dire,41,WIN,30:32,Kunkka,Gyrocopter,Weaver,Legion Commander,Monkey King
+167,2,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,Nigma Galaxy,dire,22,LOSE,38:37,Outworld Devourer,Tiny,Clockwerk,Gyrocopter,Kunkka
+167,2,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,Tundra Esports,radiant,36,WIN,38:37,Luna,Sand King,Shadow Demon,Monkey King,Invoker
+168,1,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Royal Never Give Up,radiant,32,WIN,32:50,Night Stalker,Morphling,Grimstroke,Bane,Kunkka
+168,1,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Xtreme Gaming,dire,26,LOSE,32:50,Ursa,Clockwerk,Queen of Pain,Pangolier,Weaver
+168,2,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Royal Never Give Up,dire,29,LOSE,57:42,Anti-Mage,Tusk,Queen of Pain,Beastmaster,Weaver
+168,2,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Xtreme Gaming,radiant,46,WIN,57:42,Naga Siren,Puck,Death Prophet,Snapfire,Nyx Assassin
+168,3,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Royal Never Give Up,radiant,11,LOSE,37:45,Batrider,Troll Warlord,Jakiro,Snapfire,Tidehunter
+168,3,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Xtreme Gaming,dire,46,WIN,37:45,Death Prophet,Mars,Mirana,Templar Assassin,Bane
+169,1,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,PSG.LGD,radiant,40,WIN,34:53,Phantom Assassin,Lich,Pangolier,Ember Spirit,Grimstroke
+169,1,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Royal Never Give Up,dire,23,LOSE,34:53,Doom,Tusk,Treant Protector,Shadow Fiend,Vengeful Spirit
+169,2,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,PSG.LGD,dire,22,LOSE,31:28,Night Stalker,Shadow Demon,Razor,Monkey King,Weaver
+169,2,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Royal Never Give Up,radiant,26,WIN,31:28,Terrorblade,Brewmaster,Omniknight,Ember Spirit,Rubick
+169,3,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,PSG.LGD,dire,10,LOSE,29:00,Tiny,Nyx Assassin,Dark Seer,Templar Assassin,Weaver
+169,3,SAPPHIRE OGA DOTA PIT CHINA SEASON 6,Royal Never Give Up,radiant,38,WIN,29:00,Morphling,Spirit Breaker,Grimstroke,Ember Spirit,Rubick
+170,1,DPC 2022 Spring Tour - North America Division 1,Quincy Crew,radiant,4,LOSE,29:21,Puck,Legion Commander,Shadow Demon,Templar Assassin,Pugna
+170,1,DPC 2022 Spring Tour - North America Division 1,Evil Geniuses,dire,23,WIN,29:21,Ember Spirit,Chaos Knight,Razor,Tiny,Enchantress
+170,2,DPC 2022 Spring Tour - North America Division 1,Quincy Crew,dire,9,LOSE,26:32,Luna,Sand King,Shadow Demon,Dragon Knight,Mirana
+170,2,DPC 2022 Spring Tour - North America Division 1,Evil Geniuses,radiant,28,WIN,26:32,Techies,Timbersaw,Storm Spirit,Terrorblade,Death Prophet
+171,1,DPC 2022 Spring Tour - Southeast Asia Division 1,BOOM Esports,radiant,6,LOSE,36:55,Anti-Mage,Treant Protector,Templar Assassin,Sand King,Keeper of the Light
+171,1,DPC 2022 Spring Tour - Southeast Asia Division 1,T1,dire,16,WIN,36:55,Huskar,Medusa,Pugna,Mars,Hoodwink
+171,2,DPC 2022 Spring Tour - Southeast Asia Division 1,BOOM Esports,dire,30,WIN,44:03,Chaos Knight,Ember Spirit,Bane,Keeper of the Light,Sand King
+171,2,DPC 2022 Spring Tour - Southeast Asia Division 1,T1,radiant,24,LOSE,44:03,Storm Spirit,Tidehunter,Luna,Pugna,Hoodwink
+171,3,DPC 2022 Spring Tour - Southeast Asia Division 1,BOOM Esports,dire,22,WIN,52:00,Timbersaw,Chaos Knight,Shadow Demon,Mirana,Dragon Knight
+171,3,DPC 2022 Spring Tour - Southeast Asia Division 1,T1,radiant,18,LOSE,52:00,Sand King,Templar Assassin,Abaddon,Mars,Hoodwink
+172,1,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,BOOM Esports,dire,51,WIN,60:23,Riki,Pangolier,Mirana,Kunkka,Death Prophet
+172,1,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,Team Secret,radiant,27,LOSE,60:23,Ember Spirit,Jakiro,Outworld Devourer,Storm Spirit,Tiny
+172,2,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,BOOM Esports,radiant,34,WIN,24:49,Phantom Assassin,Hoodwink,Sand King,Kunkka,Death Prophet
+172,2,GAMERS GALAXY: Dota 2 Invitational Series Dubai 2022,Team Secret,dire,12,LOSE,24:49,Mars,Anti-Mage,Lich,Lina,Tiny
+173,1,DPC 2022 Spring Tour - Western Europe Division 1,Gaimin Gladiators,radiant,20,WIN,27:34,Meepo,Mars,Keeper of the Light,Storm Spirit,Io
+173,1,DPC 2022 Spring Tour - Western Europe Division 1,Team Secret,dire,6,LOSE,27:34,Anti-Mage,Queen of Pain,Nyx Assassin,Dragon Knight,Enchantress
+173,2,DPC 2022 Spring Tour - Western Europe Division 1,Gaimin Gladiators,radiant,32,WIN,32:02,Chaos Knight,Weaver,Ember Spirit,Tidehunter,Io
+173,2,DPC 2022 Spring Tour - Western Europe Division 1,Team Secret,dire,16,LOSE,32:02,Timbersaw,Huskar,Snapfire,Enchantress,Mars
+174,1,DPC 2022 Spring Tour - Western Europe Division 1,Team Liquid,radiant,22,LOSE,51:40,Puck,Tidehunter,Weaver,Monkey King,Enchantress
+174,1,DPC 2022 Spring Tour - Western Europe Division 1,Team Secret,dire,30,WIN,51:40,Gyrocopter,Ember Spirit,Keeper of the Light,Mirana,Sand King
+174,2,DPC 2022 Spring Tour - Western Europe Division 1,Team Liquid,radiant,8,LOSE,31:57,Omniknight,Tiny,Invoker,Monkey King,Shadow Demon
+174,2,DPC 2022 Spring Tour - Western Europe Division 1,Team Secret,dire,28,WIN,31:57,Venomancer,Faceless Void,Enchantress,Pangolier,Death Prophet
+175,1,DPC 2022 Spring Tour - China Division 1,PSG.LGD,dire,30,WIN,32:23,Juggernaut,Phoenix,Kunkka,Earth Spirit,Death Prophet
+175,1,DPC 2022 Spring Tour - China Division 1,Royal Never Give Up,radiant,15,LOSE,32:23,Legion Commander,Medusa,Brewmaster,Keeper of the Light,Pangolier
+175,2,DPC 2022 Spring Tour - China Division 1,PSG.LGD,dire,30,WIN,29:40,Ursa,Monkey King,Puck,Doom,Pugna
+175,2,DPC 2022 Spring Tour - China Division 1,Royal Never Give Up,radiant,12,LOSE,29:40,Storm Spirit,Omniknight,Tiny,Earth Spirit,Death Prophet
+176,1,DPC 2022 Winter Tour - North America Finals,Quincy Crew,dire,4,LOSE,24:16,Juggernaut,Dark Seer,Mirana,Nyx Assassin,Kunkka
+176,1,DPC 2022 Winter Tour - North America Finals,Evil Geniuses,radiant,24,WIN,24:16,Mars,Bane,Wraith King,Storm Spirit,Snapfire
+176,2,DPC 2022 Winter Tour - North America Finals,Quincy Crew,radiant,32,WIN,38:42,Slardar,Templar Assassin,Void Spirit,Tidehunter,Io
+176,2,DPC 2022 Winter Tour - North America Finals,Evil Geniuses,dire,22,LOSE,38:42,Naga Siren,Ember Spirit,Bane,Mars,Snapfire
+176,3,DPC 2022 Winter Tour - North America Finals,Quincy Crew,radiant,9,LOSE,34:26,Jakiro,Medusa,Void Spirit,Tidehunter,Io
+176,3,DPC 2022 Winter Tour - North America Finals,Evil Geniuses,dire,43,WIN,34:26,Morphling,Razor,Bane,Mars,Snapfire
+177,1,PGL Dota 2 Major Arlington 2022,Fnatic,radiant,29,WIN,41:19,Phantom Lancer,Jakiro,Tusk,Death Prophet,Puck
+177,1,PGL Dota 2 Major Arlington 2022,Soniqs,dire,23,LOSE,41:19,Brewmaster,Medusa,Shadow Shaman,Kunkka,Winter Wyvern
+177,2,PGL Dota 2 Major Arlington 2022,Fnatic,dire,22,WIN,28:20,Juggernaut,Necrophos,Chen,Tusk,Puck
+177,2,PGL Dota 2 Major Arlington 2022,Soniqs,radiant,10,LOSE,28:20,Beastmaster,Medusa,Rubick,Kunkka,Winter Wyvern
+178,1,PGL Dota 2 Major Arlington 2022,Entity Gaming,radiant,27,LOSE,47:00,Enigma,Death Prophet,Chen,Puck,Tiny
+178,1,PGL Dota 2 Major Arlington 2022,Team Aster,dire,39,WIN,47:00,Chaos Knight,Dawnbreaker,Pudge,Monkey King,Winter Wyvern
+178,2,PGL Dota 2 Major Arlington 2022,Entity Gaming,dire,18,LOSE,36:57,Venomancer,Zeus,Warlock,Night Stalker,Tiny
+178,2,PGL Dota 2 Major Arlington 2022,Team Aster,radiant,37,WIN,36:57,Lycan,Templar Assassin,Enigma,Nyx Assassin,Winter Wyvern
+179,1,PGL Dota 2 Major Arlington 2022,beastcoast,radiant,31,WIN,34:03,Keeper of the Light,Night Stalker,Nyx Assassin,Kunkka,Chen
+179,1,PGL Dota 2 Major Arlington 2022,Entity Gaming,dire,15,LOSE,34:03,Alchemist,Razor,Clockwerk,Puck,Winter Wyvern
+179,2,PGL Dota 2 Major Arlington 2022,beastcoast,radiant,20,LOSE,41:33,Viper,Death Prophet,Nyx Assassin,Night Stalker,Dawnbreaker
+179,2,PGL Dota 2 Major Arlington 2022,Entity Gaming,dire,62,WIN,41:33,Phoenix,Bloodseeker,Clockwerk,Puck,Winter Wyvern
+180,1,PGL Dota 2 Major Arlington 2022,Entity Gaming,radiant,6,LOSE,33:20,Venomancer,Bristleback,Crystal Maiden,Batrider,Winter Wyvern
+180,1,PGL Dota 2 Major Arlington 2022,Evil Geniuses,dire,27,WIN,33:20,Luna,Marci,Night Stalker,Storm Spirit,Dazzle
+180,2,PGL Dota 2 Major Arlington 2022,Entity Gaming,radiant,29,WIN,30:56,Bane,Enigma,Night Stalker,Winter Wyvern,Visage
+180,2,PGL Dota 2 Major Arlington 2022,Evil Geniuses,dire,9,LOSE,30:56,Enchantress,Razor,Undying,Terrorblade,Puck
+180,3,PGL Dota 2 Major Arlington 2022,Entity Gaming,dire,27,WIN,30:53,Razor,Beastmaster,Bane,Winter Wyvern,Tiny
+180,3,PGL Dota 2 Major Arlington 2022,Evil Geniuses,radiant,6,LOSE,30:53,Alchemist,Clockwerk,Warlock,Death Prophet,Puck
+181,1,PGL Dota 2 Major Arlington 2022,Talon Esports,radiant,5,LOSE,25:43,Bloodseeker,Zeus,Shadow Shaman,Razor,Dazzle
+181,1,PGL Dota 2 Major Arlington 2022,Team Liquid,dire,24,WIN,25:43,Lycan,Phoenix,Nature's Prophet,Puck,Tiny
+181,2,PGL Dota 2 Major Arlington 2022,Talon Esports,radiant,26,WIN,29:10,Phantom Lancer,Visage,Treant Protector,Chen,Puck
+181,2,PGL Dota 2 Major Arlington 2022,Team Liquid,dire,13,LOSE,29:10,Templar Assassin,Void Spirit,Phoenix,Razor,Tiny
+182,1,PGL Dota 2 Major Arlington 2022,PSG.LGD,radiant,25,WIN,37:03,Pudge,Puck,Rubick,Viper,Chen
+182,1,PGL Dota 2 Major Arlington 2022,Team Spirit,dire,16,LOSE,37:03,Tusk,Phantom Lancer,Dazzle,Enigma,Tiny
+182,2,PGL Dota 2 Major Arlington 2022,PSG.LGD,dire,29,LOSE,75:07,Keeper of the Light,Tusk,Naga Siren,Dazzle,Razor
+182,2,PGL Dota 2 Major Arlington 2022,Team Spirit,radiant,43,WIN,75:07,Queen of Pain,Monkey King,Bane,Marci,Viper
+182,3,PGL Dota 2 Major Arlington 2022,PSG.LGD,dire,5,LOSE,27:21,Timbersaw,Naga Siren,Bane,Death Prophet,Earthshaker
+182,3,PGL Dota 2 Major Arlington 2022,Team Spirit,radiant,14,WIN,27:21,Sven,Shadow Demon,Beastmaster,Zeus,Tiny
+182,4,PGL Dota 2 Major Arlington 2022,PSG.LGD,dire,27,LOSE,44:07,Chaos Knight,Io,Kunkka,Earth Spirit,Razor
+182,4,PGL Dota 2 Major Arlington 2022,Team Spirit,radiant,28,WIN,44:07,Axe,Bristleback,Rubick,Queen of Pain,Chen
+183,1,PGL Dota 2 Major Arlington 2022,Fnatic,radiant,35,WIN,33:02,Dark Seer,Monkey King,Warlock,Death Prophet,Marci
+183,1,PGL Dota 2 Major Arlington 2022,Outsiders,dire,14,LOSE,33:02,Zeus,Chaos Knight,Skywrath Mage,Timbersaw,Tiny
+183,2,PGL Dota 2 Major Arlington 2022,Fnatic,dire,23,LOSE,37:22,Alchemist,Death Prophet,Pangolier,Monkey King,Warlock
+183,2,PGL Dota 2 Major Arlington 2022,Outsiders,radiant,33,WIN,37:22,Doom,Jakiro,Templar Assassin,Batrider,Tiny
+184,1,PGL Dota 2 Major Arlington 2022,Outsiders,radiant,12,LOSE,32:56,Lycan,Bloodseeker,Tusk,Ogre Magi,Puck
+184,1,PGL Dota 2 Major Arlington 2022,Royal Never Give Up,dire,32,WIN,32:56,Medusa,Enchantress,Shadow Shaman,Zeus,Dawnbreaker
+184,2,PGL Dota 2 Major Arlington 2022,Outsiders,dire,31,WIN,22:04,Nature's Prophet,Lycan,Templar Assassin,Skywrath Mage,Tiny
+184,2,PGL Dota 2 Major Arlington 2022,Royal Never Give Up,radiant,11,LOSE,22:04,Phantom Lancer,Viper,Nyx Assassin,Dazzle,Doom
+185,1,PGL Dota 2 Major Arlington 2022,Fnatic,radiant,13,LOSE,38:18,Monkey King,Dazzle,Rubick,Beastmaster,Puck
+185,1,PGL Dota 2 Major Arlington 2022,Royal Never Give Up,dire,24,WIN,38:18,Viper,Pudge,Winter Wyvern,Nature's Prophet,Nyx Assassin
+185,2,PGL Dota 2 Major Arlington 2022,Fnatic,dire,28,WIN,23:51,Faceless Void,Warlock,Pudge,Batrider,Marci
+185,2,PGL Dota 2 Major Arlington 2022,Royal Never Give Up,radiant,11,LOSE,23:51,Enigma,Rubick,Juggernaut,Winter Wyvern,Zeus
+186,1,PGL Dota 2 Major Arlington 2022,OG,radiant,22,LOSE,42:05,Terrorblade,Night Stalker,Chen,Earthshaker,Viper
+186,1,PGL Dota 2 Major Arlington 2022,Outsiders,dire,31,WIN,42:05,Phoenix,Snapfire,Doom,Nature's Prophet,Puck
+186,2,PGL Dota 2 Major Arlington 2022,OG,dire,10,LOSE,23:25,Slardar,Shadow Shaman,Chaos Knight,Io,Tiny
+186,2,PGL Dota 2 Major Arlington 2022,Outsiders,radiant,19,WIN,23:25,Lycan,Death Prophet,Disruptor,Templar Assassin,Marci
+187,1,PGL Dota 2 Major Arlington 2022,OG,dire,24,LOSE,45:45,Ember Spirit,Earthshaker,Keeper of the Light,Bristleback,Viper
+187,1,PGL Dota 2 Major Arlington 2022,PSG.LGD,radiant,31,WIN,45:45,Enchantress,Juggernaut,Winter Wyvern,Nature's Prophet,Tusk
+187,2,PGL Dota 2 Major Arlington 2022,OG,dire,12,LOSE,29:08,Doom,Huskar,Io,Puck,Marci
+187,2,PGL Dota 2 Major Arlington 2022,PSG.LGD,radiant,33,WIN,29:08,Chaos Knight,Chen,Earthshaker,Void Spirit,Razor
+188,1,PGL Dota 2 Major Arlington 2022,Outsiders,radiant,9,LOSE,27:18,Lina,Kunkka,Tusk,Dazzle,Doom
+188,1,PGL Dota 2 Major Arlington 2022,PSG.LGD,dire,27,WIN,27:18,Winter Wyvern,Keeper of the Light,Tiny,Lone Druid,Marci
+188,2,PGL Dota 2 Major Arlington 2022,Outsiders,radiant,14,LOSE,36:28,Enigma,Juggernaut,Snapfire,Timbersaw,Puck
+188,2,PGL Dota 2 Major Arlington 2022,PSG.LGD,dire,25,WIN,36:28,Night Stalker,Ursa,Earthshaker,Chen,Void Spirit
+189,1,PGL Dota 2 Major Arlington 2022,beastcoast,radiant,10,LOSE,28:39,Troll Warlord,Shadow Fiend,Shadow Demon,Puck,Earth Spirit
+189,1,PGL Dota 2 Major Arlington 2022,Team Spirit,dire,25,WIN,28:39,Lycan,Juggernaut,Dazzle,Dragon Knight,Snapfire
+189,2,PGL Dota 2 Major Arlington 2022,beastcoast,radiant,17,LOSE,28:48,Mars,Juggernaut,Enchantress,Puck,Tusk
+189,2,PGL Dota 2 Major Arlington 2022,Team Spirit,dire,32,WIN,28:48,Pangolier,Troll Warlord,Phoenix,Dragon Knight,Snapfire
+190,1,PGL Dota 2 Major Arlington 2022,BOOM Esports,radiant,18,LOSE,39:44,Ursa,Nature's Prophet,Earthshaker,Ember Spirit,Winter Wyvern
+190,1,PGL Dota 2 Major Arlington 2022,Entity Gaming,dire,41,WIN,39:44,Razor,Bristleback,Bane,Puck,Tiny
+190,2,PGL Dota 2 Major Arlington 2022,BOOM Esports,radiant,36,LOSE,58:15,Ursa,Warlock,Pangolier,Death Prophet,Tiny
+190,2,PGL Dota 2 Major Arlington 2022,Entity Gaming,dire,45,WIN,58:15,Venomancer,Alchemist,Zeus,Chen,Batrider
+191,1,PGL Dota 2 Major Arlington 2022,Entity Gaming,dire,35,WIN,33:24,Lycan,Zeus,Clockwerk,Enigma,Tiny
+191,1,PGL Dota 2 Major Arlington 2022,BOOM Esports,radiant,17,LOSE,33:24,Storm Spirit,Keeper of the Light,Chaos Knight,Rubick,Dawnbreaker
+191,2,PGL Dota 2 Major Arlington 2022,Entity Gaming,radiant,7,LOSE,35:41,Doom,Visage,Clockwerk,Zeus,Batrider
+191,2,PGL Dota 2 Major Arlington 2022,BOOM Esports,dire,26,WIN,35:41,Juggernaut,Enchantress,Viper,Storm Spirit,Tiny
+191,3,PGL Dota 2 Major Arlington 2022,Entity Gaming,radiant,29,WIN,36:52,Necrophos,Venomancer,Sven,Visage,Dazzle
+191,3,PGL Dota 2 Major Arlington 2022,BOOM Esports,dire,9,LOSE,36:52,Io,Tidehunter,Bristleback,Enchantress,Tiny
+192,1,PGL Dota 2 Major Arlington 2022,Team Aster,dire,37,LOSE,50:47,Terrorblade,Pudge,Marci,Winter Wyvern,Razor
+192,1,PGL Dota 2 Major Arlington 2022,Team Spirit,radiant,24,WIN,50:47,Morphling,Void Spirit,Rubick,Viper,Tiny
+192,2,PGL Dota 2 Major Arlington 2022,Team Aster,radiant,42,WIN,35:50,Visage,Spectre,Storm Spirit,Dazzle,Tiny
+192,2,PGL Dota 2 Major Arlington 2022,Team Spirit,dire,10,LOSE,35:50,Troll Warlord,Skywrath Mage,Ember Spirit,Winter Wyvern,Razor
+193,1,PGL Dota 2 Major Arlington 2022,Fnatic,dire,50,WIN,45:12,Phantom Lancer,Pangolier,Tiny,Death Prophet,Chen
+193,1,PGL Dota 2 Major Arlington 2022,beastcoast,radiant,25,LOSE,45:12,Troll Warlord,Batrider,Tusk,Snapfire,Winter Wyvern
+193,2,PGL Dota 2 Major Arlington 2022,Fnatic,dire,11,LOSE,25:44,Juggernaut,Ember Spirit,Nature's Prophet,Tusk,Warlock
+193,2,PGL Dota 2 Major Arlington 2022,beastcoast,radiant,26,WIN,25:44,Underlord,Chaos Knight,Enchantress,Puck,Tiny
+193,3,PGL Dota 2 Major Arlington 2022,Fnatic,dire,21,LOSE,45:06,Dawnbreaker,Phantom Lancer,Dazzle,Viper,Earthshaker
+193,3,PGL Dota 2 Major Arlington 2022,beastcoast,radiant,39,WIN,45:06,Magnus,Chaos Knight,Elder Titan,Lina,Tiny
+194,1,PGL Dota 2 Major Arlington 2022,Entity Gaming,dire,32,WIN,27:27,Visage,Winter Wyvern,Bristleback,Batrider,Chen
+194,1,PGL Dota 2 Major Arlington 2022,OG,radiant,10,LOSE,27:27,Vengeful Spirit,Huskar,Windranger,Keeper of the Light,Tiny
+194,2,PGL Dota 2 Major Arlington 2022,Entity Gaming,radiant,27,LOSE,42:20,Doom,Visage,Abaddon,Winter Wyvern,Batrider
+194,2,PGL Dota 2 Major Arlington 2022,OG,dire,32,WIN,42:20,Bloodseeker,Shadow Demon,Elder Titan,Viper,Puck
+194,3,PGL Dota 2 Major Arlington 2022,Entity Gaming,radiant,11,LOSE,30:39,Templar Assassin,Clockwerk,Night Stalker,Visage,Winter Wyvern
+194,3,PGL Dota 2 Major Arlington 2022,OG,dire,27,WIN,30:39,Phoenix,Enchantress,Slardar,Alchemist,Puck
+195,1,PGL Dota 2 Major Arlington 2022,Evil Geniuses,radiant,24,WIN,49:14,Lone Druid,Enigma,Tusk,Dawnbreaker,Puck
+195,1,PGL Dota 2 Major Arlington 2022,Team Spirit,dire,38,LOSE,49:14,Doom,Zeus,Monkey King,Void Spirit,Dazzle
+195,2,PGL Dota 2 Major Arlington 2022,Evil Geniuses,dire,44,WIN,42:07,Spectre,Snapfire,Chen,Viper,Puck
+195,2,PGL Dota 2 Major Arlington 2022,Team Spirit,radiant,18,LOSE,42:07,Batrider,Sniper,Clockwerk,Phoenix,Void Spirit
+196,1,PGL Dota 2 Major Arlington 2022,beastcoast,radiant,19,LOSE,33:36,Juggernaut,Rubick,Nyx Assassin,Kunkka,Clockwerk
+196,1,PGL Dota 2 Major Arlington 2022,Outsiders,dire,27,WIN,33:36,Terrorblade,Undying,Timbersaw,Snapfire,Puck
+196,2,PGL Dota 2 Major Arlington 2022,beastcoast,radiant,18,WIN,28:47,Lycan,Earthshaker,Templar Assassin,Wraith King,Snapfire
+196,2,PGL Dota 2 Major Arlington 2022,Outsiders,dire,11,LOSE,28:47,Lone Druid,Viper,Skywrath Mage,Doom,Puck
+196,3,PGL Dota 2 Major Arlington 2022,beastcoast,radiant,22,WIN,29:09,Pangolier,Venomancer,Phoenix,Wraith King,Snapfire
+196,3,PGL Dota 2 Major Arlington 2022,Outsiders,dire,12,LOSE,29:09,Invoker,Juggernaut,Tusk,Skywrath Mage,Doom
+197,1,PGL Dota 2 Major Arlington 2022,PSG.LGD,radiant,2,LOSE,21:48,Juggernaut,Slardar,Alchemist,Snapfire,Pangolier
+197,1,PGL Dota 2 Major Arlington 2022,OG,dire,17,WIN,21:48,Troll Warlord,Storm Spirit,Io,Bloodseeker,Chen
+197,2,PGL Dota 2 Major Arlington 2022,PSG.LGD,radiant,37,WIN,34:54,Beastmaster,Spectre,Pudge,Viper,Marci
+197,2,PGL Dota 2 Major Arlington 2022,OG,dire,12,LOSE,34:54,Slardar,Elder Titan,Nature's Prophet,Puck,Tiny
+197,3,PGL Dota 2 Major Arlington 2022,PSG.LGD,radiant,35,WIN,50:28,Alchemist,Pangolier,Dazzle,Tiny,Razor
+197,3,PGL Dota 2 Major Arlington 2022,OG,dire,31,LOSE,50:28,Morphling,Keeper of the Light,Earthshaker,Viper,Marci
+198,1,PGL Dota 2 Major Arlington 2022,Fnatic,radiant,35,WIN,33:35,Death Prophet,Tusk,Warlock,Puck,Razor
+198,1,PGL Dota 2 Major Arlington 2022,OG,dire,14,LOSE,33:35,Bloodseeker,Faceless Void,Storm Spirit,Io,Marci
+198,2,PGL Dota 2 Major Arlington 2022,Fnatic,radiant,23,LOSE,32:21,Alchemist,Mars,Warlock,Shadow Shaman,Razor
+198,2,PGL Dota 2 Major Arlington 2022,OG,dire,37,WIN,32:21,Monkey King,Morphling,Windranger,Puck,Marci
+199,1,PGL Dota 2 Major Arlington 2022,OG,dire,29,WIN,27:24,Juggernaut,Keeper of the Light,Nyx Assassin,Earthshaker,Razor
+199,1,PGL Dota 2 Major Arlington 2022,Talon Esports,radiant,9,LOSE,27:24,Bane,Treant Protector,Visage,Batrider,Dawnbreaker
+199,2,PGL Dota 2 Major Arlington 2022,OG,dire,31,WIN,27:36,Night Stalker,Elder Titan,Keeper of the Light,Lone Druid,Marci
+199,2,PGL Dota 2 Major Arlington 2022,Talon Esports,radiant,11,LOSE,27:36,Phantom Lancer,Void Spirit,Chen,Hoodwink,Brewmaster
+200,1,PGL Dota 2 Major Arlington 2022,Soniqs,radiant,43,WIN,51:51,Juggernaut,Lycan,Dawnbreaker,Winter Wyvern,Puck
+200,1,PGL Dota 2 Major Arlington 2022,Royal Never Give Up,dire,32,LOSE,51:51,Alchemist,Grimstroke,Nyx Assassin,Nature's Prophet,Tiny
+200,2,PGL Dota 2 Major Arlington 2022,Soniqs,radiant,19,LOSE,34:52,Vengeful Spirit,Medusa,Dawnbreaker,Dazzle,Puck
+200,2,PGL Dota 2 Major Arlington 2022,Royal Never Give Up,dire,52,WIN,34:52,Ember Spirit,Templar Assassin,Ogre Magi,Enigma,Tiny
+201,1,PGL Dota 2 Major Arlington 2022,Evil Geniuses,dire,26,WIN,28:00,Lone Druid,Snapfire,Warlock,Beastmaster,Puck
+201,1,PGL Dota 2 Major Arlington 2022,Natus Vincere,radiant,6,LOSE,28:00,Tidehunter,Chaos Knight,Chen,Skywrath Mage,Void Spirit
+201,2,PGL Dota 2 Major Arlington 2022,Evil Geniuses,radiant,27,WIN,42:07,Ursa,Storm Spirit,Earth Spirit,Dazzle,Razor
+201,2,PGL Dota 2 Major Arlington 2022,Natus Vincere,dire,13,LOSE,42:07,Anti-Mage,Keeper of the Light,Clockwerk,Faceless Void,Winter Wyvern
+202,1,PGL Dota 2 Major Arlington 2022,OG,radiant,18,LOSE,35:27,Abaddon,Monkey King,Enchantress,Puck,Earthshaker
+202,1,PGL Dota 2 Major Arlington 2022,Team Aster,dire,35,WIN,35:27,Troll Warlord,Pudge,Enigma,Dazzle,Tiny
+202,2,PGL Dota 2 Major Arlington 2022,OG,dire,16,WIN,34:43,Wraith King,Pangolier,Winter Wyvern,Elder Titan,Razor
+202,2,PGL Dota 2 Major Arlington 2022,Team Aster,radiant,17,LOSE,34:43,Dawnbreaker,Snapfire,Storm Spirit,Faceless Void,Chen
+202,3,PGL Dota 2 Major Arlington 2022,OG,radiant,30,LOSE,51:55,Juggernaut,Tusk,Enchantress,Puck,Razor
+202,3,PGL Dota 2 Major Arlington 2022,Team Aster,dire,51,WIN,51:55,Brewmaster,Zeus,Nyx Assassin,Faceless Void,Winter Wyvern
+203,1,PGL Dota 2 Major Arlington 2022,Fnatic,radiant,10,LOSE,29:32,Lone Druid,Keeper of the Light,Enchantress,Timbersaw,Tiny
+203,1,PGL Dota 2 Major Arlington 2022,Talon Esports,dire,33,WIN,29:32,Batrider,Faceless Void,Rubick,Chen,Dawnbreaker
+203,2,PGL Dota 2 Major Arlington 2022,Fnatic,dire,29,WIN,37:25,Keeper of the Light,Necrophos,Bristleback,Dazzle,Tusk
+203,2,PGL Dota 2 Major Arlington 2022,Talon Esports,radiant,8,LOSE,37:25,Terrorblade,Ember Spirit,Winter Wyvern,Brewmaster,Chen
+204,1,PGL Dota 2 Major Arlington 2022,beastcoast,radiant,14,LOSE,34:13,Snapfire,Warlock,Gyrocopter,Puck,Clockwerk
+204,1,PGL Dota 2 Major Arlington 2022,Team Aster,dire,40,WIN,34:13,Zeus,Bristleback,Enigma,Dazzle,Tiny
+204,2,PGL Dota 2 Major Arlington 2022,beastcoast,radiant,25,WIN,30:49,Troll Warlord,Batrider,Chen,Earth Spirit,Snapfire
+204,2,PGL Dota 2 Major Arlington 2022,Team Aster,dire,8,LOSE,30:49,Phantom Lancer,Warlock,Puck,Visage,Monkey King
+205,1,PGL Dota 2 Major Arlington 2022,Fnatic,radiant,30,WIN,32:04,Faceless Void,Keeper of the Light,Dazzle,Timbersaw,Tiny
+205,1,PGL Dota 2 Major Arlington 2022,Team Liquid,dire,6,LOSE,32:04,Doom,Juggernaut,Zeus,Winter Wyvern,Marci
+205,2,PGL Dota 2 Major Arlington 2022,Fnatic,radiant,21,WIN,37:22,Chaos Knight,Viper,Chen,Tusk,Puck
+205,2,PGL Dota 2 Major Arlington 2022,Team Liquid,dire,10,LOSE,37:22,Keeper of the Light,Juggernaut,Earthshaker,Dazzle,Night Stalker
+206,1,PGL Dota 2 Major Arlington 2022,Outsiders,radiant,36,WIN,59:54,Kunkka,Terrorblade,Tusk,Skywrath Mage,Timbersaw
+206,1,PGL Dota 2 Major Arlington 2022,Team Spirit,dire,25,LOSE,59:54,Void Spirit,Ursa,Dazzle,Viper,Marci
+206,2,PGL Dota 2 Major Arlington 2022,Outsiders,radiant,24,LOSE,56:27,Dark Seer,Jakiro,Nature's Prophet,Batrider,Marci
+206,2,PGL Dota 2 Major Arlington 2022,Team Spirit,dire,35,WIN,56:27,Pangolier,Phantom Lancer,Dazzle,Razor,Tiny
+206,3,PGL Dota 2 Major Arlington 2022,Outsiders,radiant,13,LOSE,38:28,Dawnbreaker,Beastmaster,Dazzle,Skywrath Mage,Templar Assassin
+206,3,PGL Dota 2 Major Arlington 2022,Team Spirit,dire,24,WIN,38:28,Terrorblade,Razor,Clockwerk,Snapfire,Puck
+207,1,PGL Dota 2 Major Arlington 2022,PSG.LGD,dire,33,WIN,31:42,Phantom Lancer,Pangolier,Dazzle,Earth Spirit,Razor
+207,1,PGL Dota 2 Major Arlington 2022,Talon Esports,radiant,10,LOSE,31:42,Bane,Doom,Marci,Terrorblade,Tiny
+207,2,PGL Dota 2 Major Arlington 2022,PSG.LGD,dire,32,WIN,34:26,Phantom Lancer,Pudge,Chen,Marci,Razor
+207,2,PGL Dota 2 Major Arlington 2022,Talon Esports,radiant,20,LOSE,34:26,Monkey King,Snapfire,Ember Spirit,Nyx Assassin,Death Prophet
+208,1,PGL Dota 2 Major Arlington 2022,BOOM Esports,radiant,24,WIN,27:08,Storm Spirit,Mirana,Mars,Chaos Knight,Winter Wyvern
+208,1,PGL Dota 2 Major Arlington 2022,Natus Vincere,dire,7,LOSE,27:08,Monkey King,Batrider,Snapfire,Razor,Marci
+208,2,PGL Dota 2 Major Arlington 2022,BOOM Esports,dire,41,WIN,60:52,Monkey King,Tidehunter,Ember Spirit,Viper,Tiny
+208,2,PGL Dota 2 Major Arlington 2022,Natus Vincere,radiant,32,LOSE,60:52,Doom,Dazzle,Nature's Prophet,Keeper of the Light,Marci
+209,1,PGL Dota 2 Major Arlington 2022,Royal Never Give Up,dire,30,LOSE,63:31,Nyx Assassin,Terrorblade,Abaddon,Razor,Puck
+209,1,PGL Dota 2 Major Arlington 2022,Team Liquid,radiant,33,WIN,63:31,Void Spirit,Keeper of the Light,Bristleback,Viper,Marci
+209,2,PGL Dota 2 Major Arlington 2022,Royal Never Give Up,radiant,52,WIN,42:50,Weaver,Storm Spirit,Oracle,Tusk,Viper
+209,2,PGL Dota 2 Major Arlington 2022,Team Liquid,dire,42,LOSE,42:50,Pangolier,Winter Wyvern,Alchemist,Batrider,Marci
+210,1,PGL Dota 2 Major Arlington 2022,Fnatic,radiant,12,LOSE,32:17,Chaos Knight,Timbersaw,Templar Assassin,Warlock,Marci
+210,1,PGL Dota 2 Major Arlington 2022,PSG.LGD,dire,31,WIN,32:17,Bloodseeker,Death Prophet,Zeus,Shadow Shaman,Dawnbreaker
+210,2,PGL Dota 2 Major Arlington 2022,Fnatic,dire,21,LOSE,40:49,Void Spirit,Nature's Prophet,Phoenix,Templar Assassin,Marci
+210,2,PGL Dota 2 Major Arlington 2022,PSG.LGD,radiant,24,WIN,40:49,Dragon Knight,Alchemist,Winter Wyvern,Dazzle,Pangolier
+211,1,PGL Dota 2 Major Arlington 2022,Outsiders,radiant,25,WIN,35:29,Lina,Necrophos,Dazzle,Doom,Marci
+211,1,PGL Dota 2 Major Arlington 2022,Team Liquid,dire,15,LOSE,35:29,Snapfire,Bristleback,Io,Dawnbreaker,Tiny
+211,2,PGL Dota 2 Major Arlington 2022,Outsiders,dire,34,LOSE,43:25,Tusk,Chaos Knight,Skywrath Mage,Batrider,Tiny
+211,2,PGL Dota 2 Major Arlington 2022,Team Liquid,radiant,36,WIN,43:25,Zeus,Juggernaut,Nyx Assassin,Winter Wyvern,Razor
+212,1,PGL Dota 2 Major Arlington 2022,Royal Never Give Up,dire,38,WIN,39:25,Necrophos,Bristleback,Void Spirit,Earth Spirit,Dazzle
+212,1,PGL Dota 2 Major Arlington 2022,Thunder Awaken,radiant,23,LOSE,39:25,Alchemist,Bane,Pangolier,Puck,Tiny
+212,2,PGL Dota 2 Major Arlington 2022,Royal Never Give Up,dire,35,WIN,43:40,Juggernaut,Viper,Enchantress,Puck,Tiny
+212,2,PGL Dota 2 Major Arlington 2022,Thunder Awaken,radiant,44,LOSE,43:40,Ember Spirit,Nature's Prophet,Rubick,Dazzle,Pangolier
+213,1,PGL Dota 2 Major Arlington 2022,OG,radiant,44,WIN,36:13,Invoker,Ursa,Oracle,Razor,Earthshaker
+213,1,PGL Dota 2 Major Arlington 2022,beastcoast,dire,21,LOSE,36:13,Pangolier,Bloodseeker,Rubick,Batrider,Marci
+213,2,PGL Dota 2 Major Arlington 2022,OG,dire,29,LOSE,43:17,Zeus,Windranger,Bloodseeker,Marci,Timbersaw
+213,2,PGL Dota 2 Major Arlington 2022,beastcoast,radiant,37,WIN,43:17,Brewmaster,Ursa,Earthshaker,Razor,Enchantress
+213,3,PGL Dota 2 Major Arlington 2022,OG,dire,58,WIN,44:13,Ember Spirit,Arc Warden,Elder Titan,Nyx Assassin,Timbersaw
+213,3,PGL Dota 2 Major Arlington 2022,beastcoast,radiant,25,LOSE,44:13,Templar Assassin,Venomancer,Clockwerk,Ursa,Chen
+214,1,PGL Dota 2 Major Arlington 2022,OG,dire,20,WIN,23:32,Luna,Underlord,Chen,Puck,Earthshaker
+214,1,PGL Dota 2 Major Arlington 2022,Royal Never Give Up,radiant,10,LOSE,23:32,Winter Wyvern,Templar Assassin,Lion,Void Spirit,Dawnbreaker
+214,2,PGL Dota 2 Major Arlington 2022,OG,radiant,22,WIN,12:34,Monkey King,Batrider,Io,Lone Druid,Marci
+214,2,PGL Dota 2 Major Arlington 2022,Royal Never Give Up,dire,8,LOSE,12:34,Phantom Lancer,Shadow Shaman,Underlord,Dazzle,Razor
+215,1,PGL Dota 2 Major Arlington 2022,Team Aster,dire,33,WIN,39:28,Bloodseeker,Dawnbreaker,Earthshaker,Storm Spirit,Chen
+215,1,PGL Dota 2 Major Arlington 2022,Entity Gaming,radiant,9,LOSE,39:28,Underlord,Enigma,Bane,Tiny,Winter Wyvern
+215,2,PGL Dota 2 Major Arlington 2022,Team Aster,radiant,3,LOSE,25:40,Pangolier,Rubick,Alchemist,Storm Spirit,Dazzle
+215,2,PGL Dota 2 Major Arlington 2022,Entity Gaming,dire,25,WIN,25:40,Bane,Beastmaster,Zeus,Enigma,Tiny
+215,3,PGL Dota 2 Major Arlington 2022,Team Aster,radiant,28,WIN,55:09,Brewmaster,Death Prophet,Earthshaker,Bristleback,Dazzle
+215,3,PGL Dota 2 Major Arlington 2022,Entity Gaming,dire,29,LOSE,55:09,Doom,Venomancer,Bane,Zeus,Tiny
+216,1,PGL Dota 2 Major Arlington 2022,Entity Gaming,dire,31,WIN,34:46,Doom,Lycan,Chen,Batrider,Winter Wyvern
+216,1,PGL Dota 2 Major Arlington 2022,Natus Vincere,radiant,12,LOSE,34:46,Tidehunter,Juggernaut,Enchantress,Queen of Pain,Tiny
+216,2,PGL Dota 2 Major Arlington 2022,Entity Gaming,dire,31,WIN,26:11,Enigma,Night Stalker,Clockwerk,Batrider,Winter Wyvern
+216,2,PGL Dota 2 Major Arlington 2022,Natus Vincere,radiant,12,LOSE,26:11,Luna,Brewmaster,Crystal Maiden,Zeus,Tiny
+217,1,PGL Dota 2 Major Arlington 2022,Royal Never Give Up,dire,38,WIN,29:47,Anti-Mage,Dragon Knight,Skywrath Mage,Winter Wyvern,Razor
+217,1,PGL Dota 2 Major Arlington 2022,Talon Esports,radiant,6,LOSE,29:47,Medusa,Death Prophet,Snapfire,Puck,Tiny
+217,2,PGL Dota 2 Major Arlington 2022,Royal Never Give Up,dire,38,WIN,35:30,Bristleback,Lion,Ogre Magi,Zeus,Dawnbreaker
+217,2,PGL Dota 2 Major Arlington 2022,Talon Esports,radiant,18,LOSE,35:30,Sniper,Pangolier,Lina,Tiny,Winter Wyvern
+218,1,PGL Dota 2 Major Arlington 2022,Talon Esports,dire,13,LOSE,38:47,Medusa,Void Spirit,Disruptor,Marci,Death Prophet
+218,1,PGL Dota 2 Major Arlington 2022,Thunder Awaken,radiant,46,WIN,38:47,Pangolier,Chaos Knight,Dazzle,Puck,Snapfire
+218,2,PGL Dota 2 Major Arlington 2022,Talon Esports,dire,41,WIN,40:36,Sniper,Visage,Puck,Monkey King,Dazzle
+218,2,PGL Dota 2 Major Arlington 2022,Thunder Awaken,radiant,28,LOSE,40:36,Night Stalker,Venomancer,Ogre Magi,Zeus,Tiny
+219,1,PGL Dota 2 Major Arlington 2022,Soniqs,dire,13,LOSE,36:02,Night Stalker,Snapfire,Marci,Templar Assassin,Razor
+219,1,PGL Dota 2 Major Arlington 2022,Talon Esports,radiant,25,WIN,36:02,Enigma,Medusa,Winter Wyvern,Puck,Tiny
+219,2,PGL Dota 2 Major Arlington 2022,Soniqs,dire,30,LOSE,51:56,Wraith King,Leshrac,Nyx Assassin,Razor,Winter Wyvern
+219,2,PGL Dota 2 Major Arlington 2022,Talon Esports,radiant,46,WIN,51:56,Pudge,Enchantress,Night Stalker,Puck,Tiny
+220,1,PGL Dota 2 Major Arlington 2022,Outsiders,dire,37,LOSE,50:26,Tiny,Razor,Disruptor,Doom,Marci
+220,1,PGL Dota 2 Major Arlington 2022,Thunder Awaken,radiant,35,WIN,50:26,Invoker,Morphling,Ogre Magi,Pangolier,Snapfire
+220,2,PGL Dota 2 Major Arlington 2022,Outsiders,dire,29,WIN,28:39,Ember Spirit,Juggernaut,Batrider,Dazzle,Marci
+220,2,PGL Dota 2 Major Arlington 2022,Thunder Awaken,radiant,11,LOSE,28:39,Phantom Lancer,Queen of Pain,Ogre Magi,Pangolier,Snapfire
+221,1,PGL Dota 2 Major Arlington 2022,beastcoast,radiant,34,LOSE,49:21,Juggernaut,Venomancer,Earthshaker,Kunkka,Snapfire
+221,1,PGL Dota 2 Major Arlington 2022,Natus Vincere,dire,46,WIN,49:21,Anti-Mage,Death Prophet,Winter Wyvern,Tiny,Puck
+221,2,PGL Dota 2 Major Arlington 2022,beastcoast,radiant,11,LOSE,32:11,Windranger,Dazzle,Timbersaw,Bloodseeker,Tiny
+221,2,PGL Dota 2 Major Arlington 2022,Natus Vincere,dire,38,WIN,32:11,Keeper of the Light,Monkey King,Chen,Razor,Marci
+222,1,PGL Dota 2 Major Arlington 2022,Entity Gaming,radiant,14,LOSE,31:15,Lycan,Timbersaw,Bane,Zeus,Tiny
+222,1,PGL Dota 2 Major Arlington 2022,Team Spirit,dire,33,WIN,31:15,Ursa,Snapfire,Beastmaster,Mars,Winter Wyvern
+222,2,PGL Dota 2 Major Arlington 2022,Entity Gaming,dire,31,WIN,29:04,Lycan,Chen,Night Stalker,Tiny,Zeus
+222,2,PGL Dota 2 Major Arlington 2022,Team Spirit,radiant,8,LOSE,29:04,Lifestealer,Mirana,Beastmaster,Mars,Winter Wyvern
+223,1,PGL Dota 2 Major Arlington 2022,Evil Geniuses,dire,9,LOSE,36:55,Juggernaut,Enchantress,Dragon Knight,Tusk,Razor
+223,1,PGL Dota 2 Major Arlington 2022,Team Aster,radiant,27,WIN,36:55,Timbersaw,Terrorblade,Puck,Dazzle,Tiny
+223,2,PGL Dota 2 Major Arlington 2022,Evil Geniuses,radiant,25,LOSE,42:04,Lycan,Batrider,Tusk,Nature's Prophet,Winter Wyvern
+223,2,PGL Dota 2 Major Arlington 2022,Team Aster,dire,42,WIN,42:04,Spectre,Earth Spirit,Dark Seer,Dazzle,Razor
+224,1,PGL Dota 2 Major Arlington 2022,PSG.LGD,radiant,29,WIN,25:42,Lone Druid,Ancient Apparition,Batrider,Puck,Marci
+224,1,PGL Dota 2 Major Arlington 2022,Royal Never Give Up,dire,10,LOSE,25:42,Lifestealer,Ember Spirit,Chen,Earthshaker,Death Prophet
+224,2,PGL Dota 2 Major Arlington 2022,PSG.LGD,dire,39,WIN,43:46,Spectre,Pangolier,Dazzle,Earth Spirit,Razor
+224,2,PGL Dota 2 Major Arlington 2022,Royal Never Give Up,radiant,36,LOSE,43:46,Viper,Windranger,Puck,Nature's Prophet,Marci
+225,1,PGL Dota 2 Major Arlington 2022,BOOM Esports,radiant,17,LOSE,35:05,Mars,Juggernaut,Invoker,Monkey King,Dazzle
+225,1,PGL Dota 2 Major Arlington 2022,Tundra Esports,dire,32,WIN,35:05,Alchemist,Weaver,Puck,Viper,Tiny
+225,2,PGL Dota 2 Major Arlington 2022,BOOM Esports,radiant,30,WIN,41:07,Chaos Knight,Ember Spirit,Sven,Death Prophet,Dazzle
+225,2,PGL Dota 2 Major Arlington 2022,Tundra Esports,dire,17,LOSE,41:07,Rubick,Pangolier,Doom,Weaver,Alchemist
+226,1,PGL Dota 2 Major Arlington 2022,Entity Gaming,radiant,36,WIN,44:27,Brewmaster,Faceless Void,Zeus,Tiny,Chen
+226,1,PGL Dota 2 Major Arlington 2022,Evil Geniuses,dire,28,LOSE,44:27,Ursa,Tusk,Phoenix,Dawnbreaker,Puck
+226,2,PGL Dota 2 Major Arlington 2022,Entity Gaming,dire,26,WIN,27:45,Razor,Doom,Nyx Assassin,Batrider,Chen
+226,2,PGL Dota 2 Major Arlington 2022,Evil Geniuses,radiant,6,LOSE,27:45,Bloodseeker,Beastmaster,Queen of Pain,Snapfire,Dawnbreaker
+227,1,PGL Dota 2 Major Arlington 2022,Natus Vincere,dire,16,LOSE,37:01,Dragon Knight,Skywrath Mage,Void Spirit,Clockwerk,Razor
+227,1,PGL Dota 2 Major Arlington 2022,Team Aster,radiant,28,WIN,37:01,Visage,Faceless Void,Puck,Warlock,Tiny
+227,2,PGL Dota 2 Major Arlington 2022,Natus Vincere,radiant,25,WIN,34:14,Vengeful Spirit,Gyrocopter,Io,Puck,Clockwerk
+227,2,PGL Dota 2 Major Arlington 2022,Team Aster,dire,17,LOSE,34:14,Night Stalker,Disruptor,Templar Assassin,Enigma,Tiny
+228,1,PGL Dota 2 Major Arlington 2022,beastcoast,radiant,14,LOSE,36:08,Venomancer,Ember Spirit,Windranger,Juggernaut,Clockwerk
+228,1,PGL Dota 2 Major Arlington 2022,Evil Geniuses,dire,31,WIN,36:08,Medusa,Beastmaster,Winter Wyvern,Marci,Viper
+228,2,PGL Dota 2 Major Arlington 2022,beastcoast,radiant,33,WIN,40:28,Luna,Keeper of the Light,Tiny,Shadow Shaman,Kunkka
+228,2,PGL Dota 2 Major Arlington 2022,Evil Geniuses,dire,38,LOSE,40:28,Templar Assassin,Tusk,Enchantress,Death Prophet,Puck
+229,1,PGL Dota 2 Major Arlington 2022,Outsiders,dire,34,WIN,33:17,Necrophos,Juggernaut,Snapfire,Batrider,Marci
+229,1,PGL Dota 2 Major Arlington 2022,Soniqs,radiant,12,LOSE,33:17,Morphling,Void Spirit,Tusk,Dazzle,Timbersaw
+229,2,PGL Dota 2 Major Arlington 2022,Outsiders,dire,22,WIN,27:48,Leshrac,Ursa,Oracle,Death Prophet,Marci
+229,2,PGL Dota 2 Major Arlington 2022,Soniqs,radiant,11,LOSE,27:48,Phantom Lancer,Tiny,Enchantress,Batrider,Timbersaw
+230,1,PGL Dota 2 Major Arlington 2022,OG,radiant,17,LOSE,32:16,Ursa,Batrider,Earthshaker,Winter Wyvern,Razor
+230,1,PGL Dota 2 Major Arlington 2022,Team Liquid,dire,36,WIN,32:16,Vengeful Spirit,Bristleback,Keeper of the Light,Dawnbreaker,Tiny
+230,2,PGL Dota 2 Major Arlington 2022,OG,dire,47,WIN,22:38,Batrider,Slardar,Io,Lone Druid,Marci
+230,2,PGL Dota 2 Major Arlington 2022,Team Liquid,radiant,14,LOSE,22:38,Pugna,Pangolier,Hoodwink,Bristleback,Razor
+231,1,PGL Dota 2 Major Arlington 2022,Team Spirit,dire,25,WIN,34:25,Templar Assassin,Rubick,Chen,Void Spirit,Razor
+231,1,PGL Dota 2 Major Arlington 2022,Team Aster,radiant,10,LOSE,34:25,Dark Seer,Monkey King,Snapfire,Puck,Tiny
+231,2,PGL Dota 2 Major Arlington 2022,Team Spirit,dire,28,WIN,44:18,Shadow Demon,Terrorblade,Puck,Chen,Razor
+231,2,PGL Dota 2 Major Arlington 2022,Team Aster,radiant,16,LOSE,44:18,Naga Siren,Pudge,Phoenix,Death Prophet,Tiny
+232,1,PGL Dota 2 Major Arlington 2022,Team Spirit,dire,32,WIN,45:02,Juggernaut,Doom,Rubick,Snapfire,Puck
+232,1,PGL Dota 2 Major Arlington 2022,Team Aster,radiant,18,LOSE,45:02,Zeus,Bristleback,Brewmaster,Winter Wyvern,Tiny
+232,2,PGL Dota 2 Major Arlington 2022,Team Spirit,dire,7,LOSE,39:51,Mars,Juggernaut,Storm Spirit,Zeus,Chen
+232,2,PGL Dota 2 Major Arlington 2022,Team Aster,radiant,33,WIN,39:51,Faceless Void,Death Prophet,Dawnbreaker,Dazzle,Tiny
+232,3,PGL Dota 2 Major Arlington 2022,Team Spirit,dire,32,WIN,37:37,Templar Assassin,Mars,Io,Phoenix,Tiny
+232,3,PGL Dota 2 Major Arlington 2022,Team Aster,radiant,15,LOSE,37:37,Troll Warlord,Timbersaw,Earthshaker,Storm Spirit,Chen
+233,1,PGL Dota 2 Major Arlington 2022,PSG.LGD,dire,24,WIN,27:16,Wraith King,Storm Spirit,Phoenix,Razor,Tiny
+233,1,PGL Dota 2 Major Arlington 2022,Thunder Awaken,radiant,15,LOSE,27:16,Dark Seer,Invoker,Tusk,Monkey King,Dazzle
+233,2,PGL Dota 2 Major Arlington 2022,PSG.LGD,dire,28,WIN,33:29,Bristleback,Tusk,Ember Spirit,Chen,Viper
+233,2,PGL Dota 2 Major Arlington 2022,Thunder Awaken,radiant,29,LOSE,33:29,Luna,Dawnbreaker,Abaddon,Batrider,Tiny
+234,1,PGL Dota 2 Major Arlington 2022,Team Aster,dire,29,WIN,56:42,Terrorblade,Timbersaw,Storm Spirit,Earth Spirit,Dazzle
+234,1,PGL Dota 2 Major Arlington 2022,Fnatic,radiant,24,LOSE,56:42,Ursa,Leshrac,Io,Earthshaker,Winter Wyvern
+234,2,PGL Dota 2 Major Arlington 2022,Team Aster,dire,16,WIN,21:24,Alchemist,Beastmaster,Snapfire,Earthshaker,Razor
+234,2,PGL Dota 2 Major Arlington 2022,Fnatic,radiant,2,LOSE,21:24,Lina,Tusk,Faceless Void,Pangolier,Winter Wyvern
+235,1,PGL Dota 2 Major Arlington 2022,Soniqs,dire,11,LOSE,34:03,Kunkka,Warlock,Weaver,Zeus,Tiny
+235,1,PGL Dota 2 Major Arlington 2022,Team Liquid,radiant,23,WIN,34:03,Slardar,Bloodseeker,Dazzle,Winter Wyvern,Marci
+235,2,PGL Dota 2 Major Arlington 2022,Soniqs,radiant,12,LOSE,36:41,Ursa,Death Prophet,Winter Wyvern,Puck,Dazzle
+235,2,PGL Dota 2 Major Arlington 2022,Team Liquid,dire,29,WIN,36:41,Pudge,Jakiro,Night Stalker,Lone Druid,Marci
+236,1,PGL Dota 2 Major Arlington 2022,Evil Geniuses,dire,41,WIN,32:26,Bloodseeker,Snapfire,Dawnbreaker,Dazzle,Puck
+236,1,PGL Dota 2 Major Arlington 2022,Tundra Esports,radiant,9,LOSE,32:26,Brewmaster,Chaos Knight,Chen,Shadow Shaman,Void Spirit
+236,2,PGL Dota 2 Major Arlington 2022,Evil Geniuses,radiant,16,LOSE,37:02,Void Spirit,Nature's Prophet,Death Prophet,Marci,Dazzle
+236,2,PGL Dota 2 Major Arlington 2022,Tundra Esports,dire,22,WIN,37:02,Hoodwink,Ogre Magi,Visage,Dawnbreaker,Razor
+237,1,PGL Dota 2 Major Arlington 2022,Outsiders,dire,45,WIN,71:47,Dark Seer,Jakiro,Juggernaut,Puck,Tiny
+237,1,PGL Dota 2 Major Arlington 2022,Talon Esports,radiant,41,LOSE,71:47,Doom,Lina,Nyx Assassin,Dazzle,Death Prophet
+237,2,PGL Dota 2 Major Arlington 2022,Outsiders,dire,30,WIN,24:38,Beastmaster,Dazzle,Templar Assassin,Batrider,Marci
+237,2,PGL Dota 2 Major Arlington 2022,Talon Esports,radiant,10,LOSE,24:38,Bristleback,Viper,Oracle,Razor,Tiny
+238,1,PGL Dota 2 Major Arlington 2022,Natus Vincere,radiant,27,WIN,33:05,Lifestealer,Timbersaw,Dazzle,Clockwerk,Puck
+238,1,PGL Dota 2 Major Arlington 2022,Tundra Esports,dire,9,LOSE,33:05,Enchantress,Chaos Knight,Rubick,Alchemist,Tiny
+238,2,PGL Dota 2 Major Arlington 2022,Natus Vincere,dire,53,WIN,44:07,Templar Assassin,Snapfire,Void Spirit,Viper,Marci
+238,2,PGL Dota 2 Major Arlington 2022,Tundra Esports,radiant,19,LOSE,44:07,Lifestealer,Pangolier,Winter Wyvern,Razor,Tiny
+239,1,PGL Dota 2 Major Arlington 2022,beastcoast,radiant,32,LOSE,44:26,Troll Warlord,Pugna,Ember Spirit,Batrider,Tiny
+239,1,PGL Dota 2 Major Arlington 2022,Tundra Esports,dire,34,WIN,44:26,Visage,Lifestealer,Zeus,Dragon Knight,Puck
+239,2,PGL Dota 2 Major Arlington 2022,beastcoast,radiant,33,WIN,37:14,Wraith King,Nyx Assassin,Snapfire,Templar Assassin,Winter Wyvern
+239,2,PGL Dota 2 Major Arlington 2022,Tundra Esports,dire,16,LOSE,37:14,Alchemist,Chaos Knight,Phoenix,Dragon Knight,Puck
+240,1,PGL Dota 2 Major Arlington 2022,BOOM Esports,radiant,30,WIN,31:10,Chaos Knight,Keeper of the Light,Rubick,Ember Spirit,Dawnbreaker
+240,1,PGL Dota 2 Major Arlington 2022,Evil Geniuses,dire,8,LOSE,31:10,Batrider,Alchemist,Earthshaker,Puck,Winter Wyvern
+240,2,PGL Dota 2 Major Arlington 2022,BOOM Esports,radiant,19,WIN,50:23,Templar Assassin,Kunkka,Rubick,Marci,Death Prophet
+240,2,PGL Dota 2 Major Arlington 2022,Evil Geniuses,dire,21,LOSE,50:23,Night Stalker,Zeus,Winter Wyvern,Nature's Prophet,Tiny
+241,1,PGL Dota 2 Major Arlington 2022,Outsiders,dire,35,WIN,57:17,Bloodseeker,Marci,Death Prophet,Skywrath Mage,Tiny
+241,1,PGL Dota 2 Major Arlington 2022,Royal Never Give Up,radiant,30,LOSE,57:17,Keeper of the Light,Terrorblade,Earth Spirit,Winter Wyvern,Puck
+241,2,PGL Dota 2 Major Arlington 2022,Outsiders,dire,41,WIN,34:21,Beastmaster,Viper,Clockwerk,Skywrath Mage,Doom
+241,2,PGL Dota 2 Major Arlington 2022,Royal Never Give Up,radiant,23,LOSE,34:21,Nature's Prophet,Snapfire,Ember Spirit,Death Prophet,Tiny
+242,1,PGL Dota 2 Major Arlington 2022,Soniqs,dire,18,LOSE,36:43,Pangolier,Luna,Bane,Marci,Razor
+242,1,PGL Dota 2 Major Arlington 2022,Thunder Awaken,radiant,40,WIN,36:43,Zeus,Ogre Magi,Monkey King,Timbersaw,Tiny
+242,2,PGL Dota 2 Major Arlington 2022,Soniqs,dire,50,WIN,57:51,Brewmaster,Void Spirit,Enchantress,Tiny,Templar Assassin
+242,2,PGL Dota 2 Major Arlington 2022,Thunder Awaken,radiant,32,LOSE,57:51,Monkey King,Underlord,Ogre Magi,Batrider,Zeus
+243,1,PGL Dota 2 Major Arlington 2022,Entity Gaming,radiant,11,LOSE,30:19,Bristleback,Brewmaster,Nyx Assassin,Puck,Chen
+243,1,PGL Dota 2 Major Arlington 2022,Tundra Esports,dire,26,WIN,30:19,Dragon Knight,Chaos Knight,Warlock,Doom,Zeus
+243,2,PGL Dota 2 Major Arlington 2022,Entity Gaming,dire,28,WIN,37:23,Enigma,Chaos Knight,Chen,Visage,Winter Wyvern
+243,2,PGL Dota 2 Major Arlington 2022,Tundra Esports,radiant,11,LOSE,37:23,Naga Siren,Death Prophet,Dazzle,Tiny,Zeus
+244,1,PGL Dota 2 Major Arlington 2022,Fnatic,dire,29,WIN,31:15,Juggernaut,Nature's Prophet,Warlock,Puck,Tiny
+244,1,PGL Dota 2 Major Arlington 2022,Thunder Awaken,radiant,12,LOSE,31:15,Zeus,Kunkka,Rubick,Pangolier,Dazzle
+244,2,PGL Dota 2 Major Arlington 2022,Fnatic,dire,22,LOSE,44:36,Marci,Nature's Prophet,Warlock,Bloodseeker,Tiny
+244,2,PGL Dota 2 Major Arlington 2022,Thunder Awaken,radiant,34,WIN,44:36,Bristleback,Ember Spirit,Dazzle,Pangolier,Snapfire
+245,1,PGL Dota 2 Major Arlington 2022,Natus Vincere,radiant,19,LOSE,42:33,Ember Spirit,Templar Assassin,Rubick,Dazzle,Dawnbreaker
+245,1,PGL Dota 2 Major Arlington 2022,Team Spirit,dire,25,WIN,42:33,Snapfire,Warlock,Juggernaut,Enigma,Tiny
+245,2,PGL Dota 2 Major Arlington 2022,Natus Vincere,dire,29,LOSE,40:15,Zeus,Snapfire,Dawnbreaker,Clockwerk,Razor
+245,2,PGL Dota 2 Major Arlington 2022,Team Spirit,radiant,22,WIN,40:15,Mars,Morphling,Rubick,Marci,Tiny
+246,1,PGL Dota 2 Major Arlington 2022,Team Spirit,dire,28,WIN,40:33,Shadow Fiend,Ogre Magi,Kunkka,Rubick,Razor
+246,1,PGL Dota 2 Major Arlington 2022,Tundra Esports,radiant,11,LOSE,40:33,Doom,Timbersaw,Keeper of the Light,Weaver,Marci
+246,2,PGL Dota 2 Major Arlington 2022,Team Spirit,dire,26,WIN,32:09,Mars,Phantom Lancer,Enchantress,Snapfire,Puck
+246,2,PGL Dota 2 Major Arlington 2022,Tundra Esports,radiant,10,LOSE,32:09,Troll Warlord,Clockwerk,Templar Assassin,Beastmaster,Winter Wyvern
+247,1,PGL Dota 2 Major Arlington 2022,PSG.LGD,dire,11,LOSE,41:51,Weaver,Shadow Shaman,Elder Titan,Zeus,Dawnbreaker
+247,1,PGL Dota 2 Major Arlington 2022,Soniqs,radiant,37,WIN,41:51,Dragon Knight,Bristleback,Io,Marci,Winter Wyvern
+247,2,PGL Dota 2 Major Arlington 2022,PSG.LGD,dire,32,WIN,29:52,Terrorblade,Kunkka,Dazzle,Tiny,Death Prophet
+247,2,PGL Dota 2 Major Arlington 2022,Soniqs,radiant,13,LOSE,29:52,Dawnbreaker,Weaver,Void Spirit,Bristleback,Io
+248,1,PGL Dota 2 Major Arlington 2022,OG,dire,28,WIN,41:58,Nature's Prophet,Alchemist,Invoker,Enigma,Timbersaw
+248,1,PGL Dota 2 Major Arlington 2022,Thunder Awaken,radiant,26,LOSE,41:58,Kunkka,Templar Assassin,Snapfire,Monkey King,Dazzle
+248,2,PGL Dota 2 Major Arlington 2022,OG,dire,33,WIN,28:29,Chaos Knight,Juggernaut,Earthshaker,Chen,Pangolier
+248,2,PGL Dota 2 Major Arlington 2022,Thunder Awaken,radiant,17,LOSE,28:29,Tusk,Snapfire,Monkey King,Kunkka,Viper
+249,1,PGL Dota 2 Major Arlington 2022,BOOM Esports,radiant,33,WIN,50:56,Storm Spirit,Beastmaster,Windranger,Dawnbreaker,Rubick
+249,1,PGL Dota 2 Major Arlington 2022,Team Spirit,dire,20,LOSE,50:56,Axe,Faceless Void,Zeus,Tiny,Dazzle
+249,2,PGL Dota 2 Major Arlington 2022,BOOM Esports,radiant,20,LOSE,42:36,Chen,Marci,Invoker,Dawnbreaker,Viper
+249,2,PGL Dota 2 Major Arlington 2022,Team Spirit,dire,25,WIN,42:36,Terrorblade,Enigma,Pangolier,Dazzle,Tiny
+250,1,PGL Dota 2 Major Arlington 2022,PSG.LGD,radiant,32,WIN,40:27,Phantom Assassin,Phoenix,Timbersaw,Crystal Maiden,Tiny
+250,1,PGL Dota 2 Major Arlington 2022,Team Spirit,dire,24,LOSE,40:27,Snapfire,Mars,Monkey King,Marci,Chen
+250,2,PGL Dota 2 Major Arlington 2022,PSG.LGD,radiant,38,WIN,49:22,Dawnbreaker,Storm Spirit,Earthshaker,Faceless Void,Enchantress
+250,2,PGL Dota 2 Major Arlington 2022,Team Spirit,dire,23,LOSE,49:22,Void Spirit,Clockwerk,Templar Assassin,Marci,Razor
+251,1,PGL Dota 2 Major Arlington 2022,BOOM Esports,dire,30,WIN,44:16,Tusk,Chen,Viper,Chaos Knight,Tiny
+251,1,PGL Dota 2 Major Arlington 2022,Team Liquid,radiant,20,LOSE,44:16,Timbersaw,Alchemist,Enchantress,Earthshaker,Death Prophet
+251,2,PGL Dota 2 Major Arlington 2022,BOOM Esports,radiant,5,LOSE,26:51,Void Spirit,Timbersaw,Razor,Tiny,Dazzle
+251,2,PGL Dota 2 Major Arlington 2022,Team Liquid,dire,23,WIN,26:51,Puck,Terrorblade,Chen,Death Prophet,Marci
+251,3,PGL Dota 2 Major Arlington 2022,BOOM Esports,dire,20,WIN,53:47,Enchantress,Juggernaut,Keeper of the Light,Death Prophet,Tusk
+251,3,PGL Dota 2 Major Arlington 2022,Team Liquid,radiant,13,LOSE,53:47,Visage,Snapfire,Tiny,Terrorblade,Chen
+252,1,PGL Dota 2 Major Arlington 2022,OG,dire,13,LOSE,40:30,Doom,Windranger,Monkey King,Night Stalker,Razor
+252,1,PGL Dota 2 Major Arlington 2022,Soniqs,radiant,40,WIN,40:30,Venomancer,Terrorblade,Enchantress,Tusk,Puck
+252,2,PGL Dota 2 Major Arlington 2022,OG,dire,23,WIN,31:36,Troll Warlord,Storm Spirit,Io,Earthshaker,Razor
+252,2,PGL Dota 2 Major Arlington 2022,Soniqs,radiant,13,LOSE,31:36,Lycan,Tusk,Weaver,Morphling,Puck
+253,1,PGL Dota 2 Major Arlington 2022,PSG.LGD,dire,28,WIN,44:29,Templar Assassin,Snapfire,Tidehunter,Enchantress,Puck
+253,1,PGL Dota 2 Major Arlington 2022,Team Liquid,radiant,24,LOSE,44:29,Hoodwink,Monkey King,Dawnbreaker,Dazzle,Lone Druid
+253,2,PGL Dota 2 Major Arlington 2022,PSG.LGD,radiant,26,WIN,39:31,Necrophos,Ursa,Earthshaker,Chen,Razor
+253,2,PGL Dota 2 Major Arlington 2022,Team Liquid,dire,20,LOSE,39:31,Oracle,Magnus,Bloodseeker,Marci,Tiny
+254,1,PGL Dota 2 Major Arlington 2022,Team Aster,radiant,35,WIN,33:33,Naga Siren,Storm Spirit,Pudge,Dazzle,Tiny
+254,1,PGL Dota 2 Major Arlington 2022,Tundra Esports,dire,11,LOSE,33:33,Beastmaster,Warlock,Batrider,Marci,Razor
+254,2,PGL Dota 2 Major Arlington 2022,Team Aster,dire,38,WIN,35:25,Nature's Prophet,Timbersaw,Storm Spirit,Phoenix,Tiny
+254,2,PGL Dota 2 Major Arlington 2022,Tundra Esports,radiant,11,LOSE,35:25,Invoker,Ursa,Weaver,Doom,Winter Wyvern
+255,1,PGL Dota 2 Major Arlington 2022,beastcoast,radiant,32,WIN,52:42,Winter Wyvern,Chaos Knight,Visage,Puck,Dawnbreaker
+255,1,PGL Dota 2 Major Arlington 2022,BOOM Esports,dire,34,LOSE,52:42,Juggernaut,Earthshaker,Rubick,Tiny,Razor
+255,2,PGL Dota 2 Major Arlington 2022,beastcoast,radiant,32,WIN,34:38,Wraith King,Elder Titan,Puck,Snapfire,Clockwerk
+255,2,PGL Dota 2 Major Arlington 2022,BOOM Esports,dire,16,LOSE,34:38,Faceless Void,Rubick,Kunkka,Mars,Dazzle
+256,1,PGL Dota 2 Major Arlington 2022,BOOM Esports,radiant,30,WIN,46:05,Keeper of the Light,Snapfire,Mars,Juggernaut,Winter Wyvern
+256,1,PGL Dota 2 Major Arlington 2022,Team Aster,dire,23,LOSE,46:05,Void Spirit,Faceless Void,Death Prophet,Earth Spirit,Phoenix
+256,2,PGL Dota 2 Major Arlington 2022,BOOM Esports,radiant,30,LOSE,60:22,Bloodseeker,Ember Spirit,Mirana,Mars,Snapfire
+256,2,PGL Dota 2 Major Arlington 2022,Team Aster,dire,32,WIN,60:22,Death Prophet,Bristleback,Puck,Earth Spirit,Winter Wyvern
+257,1,PGL Dota 2 Major Arlington 2022,Thunder Awaken,dire,13,LOSE,31:01,Night Stalker,Pangolier,Ogre Magi,Rubick,Nature's Prophet
+257,1,PGL Dota 2 Major Arlington 2022,Team Liquid,radiant,26,WIN,31:01,Beastmaster,Alchemist,Enchantress,Dawnbreaker,Puck
+257,2,PGL Dota 2 Major Arlington 2022,Thunder Awaken,dire,43,WIN,45:49,Monkey King,Dawnbreaker,Nature's Prophet,Winter Wyvern,Nyx Assassin
+257,2,PGL Dota 2 Major Arlington 2022,Team Liquid,radiant,22,LOSE,45:49,Slardar,Tidehunter,Keeper of the Light,Enchantress,Puck
+258,1,PGL Dota 2 Major Arlington 2022,PSG.LGD,dire,31,WIN,33:49,Zeus,Enchantress,Faceless Void,Earthshaker,Death Prophet
+258,1,PGL Dota 2 Major Arlington 2022,BOOM Esports,radiant,11,LOSE,33:49,Venomancer,Doom,Mars,Dazzle,Monkey King
+258,2,PGL Dota 2 Major Arlington 2022,PSG.LGD,dire,37,WIN,39:24,Kunkka,Ursa,Chen,Tusk,Death Prophet
+258,2,PGL Dota 2 Major Arlington 2022,BOOM Esports,radiant,15,LOSE,39:24,Medusa,Enchantress,Timbersaw,Puck,Tiny
+259,1,Riyadh Masters 2022,Team Spirit,dire,12,LOSE,29:35,Bloodseeker,Chaos Knight,Queen of Pain,Viper,Clockwerk
+259,1,Riyadh Masters 2022,PSG.LGD,radiant,33,WIN,29:35,Lone Druid,Void Spirit,Warlock,Marci,Razor
+259,2,Riyadh Masters 2022,Team Spirit,dire,16,LOSE,28:48,Mars,Storm Spirit,Io,Bloodseeker,Winter Wyvern
+259,2,Riyadh Masters 2022,PSG.LGD,radiant,25,WIN,28:48,Lone Druid,Nyx Assassin,Zeus,Earth Spirit,Razor
+260,1,Riyadh Masters 2022,Team SoloMid,radiant,12,LOSE,36:30,Naga Siren,Storm Spirit,Rubick,Beastmaster,Warlock
+260,1,Riyadh Masters 2022,Royal Never Give Up,dire,23,WIN,36:30,Nature's Prophet,Tusk,Kunkka,Marci,Razor
+260,2,Riyadh Masters 2022,Team SoloMid,radiant,17,LOSE,33:25,Arc Warden,Void Spirit,Bounty Hunter,Death Prophet,Io
+260,2,Riyadh Masters 2022,Royal Never Give Up,dire,34,WIN,33:25,Viper,Lone Druid,Puck,Ancient Apparition,Tiny
+261,1,Riyadh Masters 2022,Royal Never Give Up,radiant,39,LOSE,50:23,Lone Druid,Enchantress,Ember Spirit,Dawnbreaker,Nyx Assassin
+261,1,Riyadh Masters 2022,Team Liquid,dire,37,WIN,50:23,Tidehunter,Slardar,Zeus,Nature's Prophet,Clockwerk
+261,2,Riyadh Masters 2022,Royal Never Give Up,radiant,52,WIN,41:54,Ursa,Death Prophet,Earth Spirit,Puck,Winter Wyvern
+261,2,Riyadh Masters 2022,Team Liquid,dire,34,LOSE,41:54,Alchemist,Doom,Shadow Shaman,Night Stalker,Dawnbreaker
+262,1,Riyadh Masters 2022,Team Liquid,radiant,19,LOSE,34:48,Morphling,Jakiro,Marci,Viper,Tiny
+262,1,Riyadh Masters 2022,Nigma Galaxy,dire,16,WIN,34:48,Nature's Prophet,Abaddon,Keeper of the Light,Bristleback,Io
+262,2,Riyadh Masters 2022,Team Liquid,radiant,40,WIN,45:00,Juggernaut,Lycan,Jakiro,Winter Wyvern,Marci
+262,2,Riyadh Masters 2022,Nigma Galaxy,dire,29,LOSE,45:00,Sven,Void Spirit,Death Prophet,Zeus,Tiny
+263,1,Riyadh Masters 2022,OG,dire,15,LOSE,35:27,Underlord,Terrorblade,Enchantress,Marci,Puck
+263,1,Riyadh Masters 2022,Royal Never Give Up,radiant,30,WIN,35:27,Chaos Knight,Ogre Magi,Lina,Nyx Assassin,Razor
+263,2,Riyadh Masters 2022,OG,dire,50,WIN,51:53,Arc Warden,Windranger,Alchemist,Invoker,Timbersaw
+263,2,Riyadh Masters 2022,Royal Never Give Up,radiant,39,LOSE,51:53,Anti-Mage,Void Spirit,Grimstroke,Tiny,Death Prophet
+264,1,Riyadh Masters 2022,OG,dire,26,WIN,34:16,Pangolier,Templar Assassin,Bane,Phoenix,Dragon Knight
+264,1,Riyadh Masters 2022,Team Liquid,radiant,11,LOSE,34:16,Luna,Oracle,Lycan,Keeper of the Light,Tiny
+264,2,Riyadh Masters 2022,OG,dire,44,WIN,29:19,Arc Warden,Void Spirit,Bane,Phoenix,Dragon Knight
+264,2,Riyadh Masters 2022,Team Liquid,radiant,21,LOSE,29:19,Vengeful Spirit,Clockwerk,Grimstroke,Juggernaut,Tiny
+265,1,Riyadh Masters 2022,PSG.LGD,radiant,28,WIN,34:39,Brewmaster,Lone Druid,Enchantress,Pangolier,Winter Wyvern
+265,1,Riyadh Masters 2022,Team Spirit,dire,18,LOSE,34:39,Luna,Skywrath Mage,Ember Spirit,Viper,Marci
+265,2,Riyadh Masters 2022,PSG.LGD,dire,30,WIN,30:24,Alchemist,Dazzle,Pangolier,Nature'sProphet,Tiny
+265,2,Riyadh Masters 2022,Team Spirit,radiant,13,LOSE,30:24,Sven,Ember Spirit,Jakiro,Viper,Marci
+266,1,Riyadh Masters 2022,Team Secret,radiant,10,LOSE,33:08,Weaver,Batrider,Techies,Chen,Dawnbreaker
+266,1,Riyadh Masters 2022,Team Spirit,dire,33,WIN,33:08,Pangolier,Tusk,Monkey King,Winter Wyvern,Razor
+266,2,Riyadh Masters 2022,Team Secret,radiant,53,WIN,52:55,Storm Spirit,Clockwerk,Skywrath Mage,Dawnbreaker,Razor
+266,2,Riyadh Masters 2022,Team Spirit,dire,22,LOSE,52:55,Kunkka,Batrider,Weaver,Phoenix,Tiny
+267,1,Riyadh Masters 2022,Team Spirit,radiant,40,WIN,44:19,Weaver,Kunkka,Rubick,Viper,Tiny
+267,1,Riyadh Masters 2022,Tundra Esports,dire,16,LOSE,44:19,Snapfire,Queen of Pain,Abaddon,Beastmaster,Marci
+267,2,Riyadh Masters 2022,Team Spirit,dire,52,WIN,38:30,Queen of Pain,Weaver,Void Spirit,Phoenix,Marci
+267,2,Riyadh Masters 2022,Tundra Esports,radiant,21,LOSE,38:30,Lina,Bounty Hunter,Hoodwink,Winter Wyvern,Beastmaster
+268,1,Riyadh Masters 2022,Royal Never Give Up,radiant,23,LOSE,50:38,Nature's Prophet,Enchantress,Lifestealer,Nyx Assassin,Zeus
+268,1,Riyadh Masters 2022,Team Spirit,dire,37,WIN,50:38,Bounty Hunter,Templar Assassin,Mars,Phoenix,Clockwerk
+268,2,Riyadh Masters 2022,Royal Never Give Up,radiant,35,WIN,36:12,Outworld Devourer,Monkey King,Rubick,Nature's Prophet,Marci
+268,2,Riyadh Masters 2022,Team Spirit,dire,12,LOSE,36:12,Dark Seer,Disruptor,Troll Warlord,Timbersaw,Tiny
+268,3,Riyadh Masters 2022,Royal Never Give Up,radiant,8,LOSE,36:18,Juggernaut,Beastmaster,Lion,Lina,Marci
+268,3,Riyadh Masters 2022,Team Spirit,dire,35,WIN,36:18,Phantom Lancer,Snapfire,Slardar,Rubick,Tiny
+269,1,Riyadh Masters 2022,Team Secret,radiant,44,WIN,40:17,Kunkka,Dark Seer,Clockwerk,Phoenix,Dawnbreaker
+269,1,Riyadh Masters 2022,Tundra Esports,dire,7,LOSE,40:17,Earth Spirit,Luna,Abaddon,Nature's Prophet,Zeus
+269,2,Riyadh Masters 2022,Team Secret,radiant,40,WIN,26:50,Shadow Shaman,Bloodseeker,Chen,Zeus,Dawnbreaker
+269,2,Riyadh Masters 2022,Tundra Esports,dire,5,LOSE,26:50,Juggernaut,Void Spirit,Phoenix,Visage,Tiny
+270,1,Riyadh Masters 2022,OG,dire,32,WIN,46:31,Puck,Ursa,Warlock,Dragon Knight,Viper
+270,1,Riyadh Masters 2022,Team SoloMid,radiant,19,LOSE,46:31,Terrorblade,Venomancer,Phoenix,Tiny,Marci
+270,2,Riyadh Masters 2022,OG,dire,32,WIN,28:30,Slardar,Bristleback,Lich,Tiny,Viper
+270,2,Riyadh Masters 2022,Team SoloMid,radiant,11,LOSE,28:30,Brewmaster,Hoodwink,Dawnbreaker,Nature's Prophet,Puck
+271,1,Riyadh Masters 2022,PSG.LGD,radiant,31,WIN,34:26,Death Prophet,Pangolier,Marci,Faceless Void,Enchantress
+271,1,Riyadh Masters 2022,Nigma Galaxy,dire,26,LOSE,34:26,Bristleback,Crystal Maiden,Dawnbreaker,Nature's Prophet,Razor
+271,2,Riyadh Masters 2022,PSG.LGD,dire,5,LOSE,22:09,Chaos Knight,Phoenix,Death Prophet,Ember Spirit,Nyx Assassin
+271,2,Riyadh Masters 2022,Nigma Galaxy,radiant,29,WIN,22:09,Dawnbreaker,Bloodseeker,Tiny,Zeus,Winter Wyvern
+271,3,Riyadh Masters 2022,PSG.LGD,dire,48,WIN,31:49,Juggernaut,Doom,Enchantress,Earth Spirit,Zeus
+271,3,Riyadh Masters 2022,Nigma Galaxy,radiant,11,LOSE,31:49,Beastmaster,Monkey King,Nyx Assassin,Tiny,Winter Wyvern
+272,1,Riyadh Masters 2022,Team SoloMid,dire,38,WIN,53:02,Terrorblade,Keeper of the Light,Bane,Night Stalker,Tiny
+272,1,Riyadh Masters 2022,Team Liquid,radiant,35,LOSE,53:02,Tidehunter,Spectre,Dawnbreaker,Winter Wyvern,Marci
+272,2,Riyadh Masters 2022,Team SoloMid,dire,39,WIN,62:57,Bounty Hunter,Templar Assassin,Monkey King,Winter Wyvern,Puck
+272,2,Riyadh Masters 2022,Team Liquid,radiant,38,LOSE,62:57,Pudge,Beastmaster,Skywrath Mage,Night Stalker,Marci
+273,1,Riyadh Masters 2022,OG,dire,36,WIN,41:06,Lone Druid,Enchantress,Lion,Void Spirit,Timbersaw
+273,1,Riyadh Masters 2022,Nigma Galaxy,radiant,21,LOSE,41:06,Dark Seer,Leshrac,Nyx Assassin,Io,Puck
+273,2,Riyadh Masters 2022,OG,radiant,7,LOSE,28:37,Invoker,Luna,Windranger,Void Spirit,Enigma
+273,2,Riyadh Masters 2022,Nigma Galaxy,dire,26,WIN,28:37,Nature's Prophet,Pudge,Winter Wyvern,Nyx Assassin,Razor
+274,1,Riyadh Masters 2022,Team SoloMid,dire,7,LOSE,22:09,Templar Assassin,Night Stalker,Enchantress,Zeus,Marci
+274,1,Riyadh Masters 2022,Nigma Galaxy,radiant,26,WIN,22:09,Dark Seer,Monkey King,Nyx Assassin,Dawnbreaker,Winter Wyvern
+274,2,Riyadh Masters 2022,Team SoloMid,dire,19,LOSE,35:52,Invoker,Bloodseeker,Bane,Timbersaw,Enigma
+274,2,Riyadh Masters 2022,Nigma Galaxy,radiant,25,WIN,35:52,Windranger,Necrophos,Zeus,Bristleback,Winter Wyvern
+275,1,Riyadh Masters 2022,Team Secret,dire,27,WIN,42:04,Doom,Earthshaker,Chen,Monkey King,Zeus
+275,1,Riyadh Masters 2022,Team Spirit,radiant,8,LOSE,42:04,Ursa,Kunkka,Phoenix,Warlock,Dawnbreaker
+275,2,Riyadh Masters 2022,Team Secret,radiant,8,LOSE,31:55,Storm Spirit,Shadow Demon,Juggernaut,Chen,Dawnbreaker
+275,2,Riyadh Masters 2022,Team Spirit,dire,19,WIN,31:55,Pangolier,Bristleback,Dazzle,Viper,Tiny
+275,3,Riyadh Masters 2022,Team Secret,radiant,9,LOSE,34:55,Ursa,Enchantress,Jakiro,Puck,Doom
+275,3,Riyadh Masters 2022,Team Spirit,dire,45,WIN,34:55,Night Stalker,Void Spirit,Rubick,Winter Wyvern,Monkey King
+276,1,Riyadh Masters 2022,Team Secret,dire,44,WIN,26:36,Techies,Bloodseeker,Chen,Zeus,Dawnbreaker
+276,1,Riyadh Masters 2022,PSG.LGD,radiant,9,LOSE,26:36,Alchemist,Visage,Winter Wyvern,Ember Spirit,Tiny
+276,2,Riyadh Masters 2022,Team Secret,radiant,25,WIN,29:32,Phantom Assassin,Doom,Death Prophet,Chen,Zeus
+276,2,Riyadh Masters 2022,PSG.LGD,dire,4,LOSE,29:32,Templar Assassin,Enigma,Bristleback,Tiny,Warlock
+277,1,Riyadh Masters 2022,OG,dire,5,LOSE,21:18,Puck,Templar Assassin,Dawnbreaker,Slardar,Viper
+277,1,Riyadh Masters 2022,PSG.LGD,radiant,28,WIN,21:18,Winter Wyvern,Naga Siren,Dazzle,Nature's Prophet,Tiny
+277,2,Riyadh Masters 2022,OG,radiant,41,WIN,43:01,Huskar,Faceless Void,Windranger,Warlock,Tiny
+277,2,Riyadh Masters 2022,PSG.LGD,dire,31,LOSE,43:01,Spectre,Jakiro,Dawnbreaker,Clockwerk,Zeus
+277,3,Riyadh Masters 2022,OG,radiant,10,LOSE,30:36,Phantom Assassin,Batrider,Bane,Phoenix,Dragon Knight
+277,3,Riyadh Masters 2022,PSG.LGD,dire,24,WIN,30:36,Beastmaster,Monkey King,Warlock,Death Prophet,Tiny
+278,1,Riyadh Masters 2022,Royal Never Give Up,radiant,19,LOSE,29:00,Ember Spirit,Spectre,Warlock,Shadow Shaman,Dawnbreaker
+278,1,Riyadh Masters 2022,Nigma Galaxy,dire,43,WIN,29:00,Troll Warlord,Nature's Prophet,Tusk,Zeus,Tiny
+278,2,Riyadh Masters 2022,Royal Never Give Up,radiant,47,WIN,49:45,Bloodseeker,Zeus,Earth Spirit,Abaddon,Razor
+278,2,Riyadh Masters 2022,Nigma Galaxy,dire,24,LOSE,49:45,Void Spirit,Shadow Fiend,Tusk,Dragon Knight,Keeper of the Light
+279,1,Riyadh Masters 2022,Tundra Esports,dire,19,LOSE,43:07,Alchemist,Jakiro,Void Spirit,Chaos Knight,Marci
+279,1,Riyadh Masters 2022,PSG.LGD,radiant,40,WIN,43:07,Snapfire,Doom,Monkey King,Puck,Warlock
+279,2,Riyadh Masters 2022,Tundra Esports,radiant,8,LOSE,24:57,Timbersaw,Juggernaut,Rubick,Death Prophet,Doom
+279,2,Riyadh Masters 2022,PSG.LGD,dire,29,WIN,24:57,Templar Assassin,Visage,Pangolier,Dazzle,Tiny
+280,1,DPC 2022 Summer Tour - Southeast Asia Division 1,Talon Esports,radiant,32,WIN,44:23,Ursa,Windranger,Lina,Brewmaster,Bane
+280,1,DPC 2022 Summer Tour - Southeast Asia Division 1,BOOM Esports,dire,20,LOSE,44:23,Tusk,Lycan,Lifestealer,Grimstroke,Monkey King
+280,2,DPC 2022 Summer Tour - Southeast Asia Division 1,Talon Esports,dire,20,LOSE,57:41,Ember Spirit,Nature's Prophet,Windranger,Marci,Medusa
+280,2,DPC 2022 Summer Tour - Southeast Asia Division 1,BOOM Esports,radiant,44,WIN,57:41,Kunkka,Razor,Clockwerk,Nyx Assassin,Death Prophet
+280,3,DPC 2022 Summer Tour - Southeast Asia Division 1,Talon Esports,dire,41,WIN,61:34,Slark,Batrider,Enchantress,Hoodwink,Mars
+280,3,DPC 2022 Summer Tour - Southeast Asia Division 1,BOOM Esports,radiant,35,LOSE,61:34,Tidehunter,Marci,Ember Spirit,Monkey King,Bane
+281,1,DPC 2022 Summer Tour - South America Division 1,beastcoast,radiant,31,WIN,41:11,Terrorblade,Underlord,Winter Wyvern,Snapfire,Earth Spirit
+281,1,DPC 2022 Summer Tour - South America Division 1,Infamous U.Esports,dire,19,LOSE,41:11,Alchemist,Mirana,Ember Spirit,Marci,Mars
+281,2,DPC 2022 Summer Tour - South America Division 1,beastcoast,dire,41,WIN,37:22,Pangolier,Phantom Lancer,Phoenix,Puck,Earth Spirit
+281,2,DPC 2022 Summer Tour - South America Division 1,Infamous U.Esports,radiant,20,LOSE,37:22,Medusa,Dawnbreaker,Weaver,Kunkka,Clockwerk
+282,1,DPC 2022 Summer Tour - South America Division 1,Thunder Awaken,radiant,35,LOSE,49:27,Dark Seer,Luna,Winter Wyvern,Batrider,Marci
+282,1,DPC 2022 Summer Tour - South America Division 1,Infamous U.Esports,dire,36,WIN,49:27,Templar Assassin,Beastmaster,Pangolier,Grimstroke,Doom
+282,2,DPC 2022 Summer Tour - South America Division 1,Thunder Awaken,dire,22,LOSE,27:25,Brewmaster,Chaos Knight,Treant Protector,Mars,Grimstroke
+282,2,DPC 2022 Summer Tour - South America Division 1,Infamous U.Esports,radiant,20,WIN,27:25,Nature's Prophet,Alchemist,Viper,Beastmaster,Doom
+283,1,DPC 2022 Summer Tour - South America Division 1,Thunder Awaken,dire,32,WIN,29:59,Rubick,Templar Assassin,Weaver,Kunkka,Viper
+283,1,DPC 2022 Summer Tour - South America Division 1,beastcoast,radiant,17,LOSE,29:59,Juggernaut,Tusk,Enchantress,Timbersaw,Tiny
+283,2,DPC 2022 Summer Tour - South America Division 1,Thunder Awaken,radiant,23,WIN,15:18,Invoker,Snapfire,Ogre Magi,Templar Assassin,Timbersaw
+283,2,DPC 2022 Summer Tour - South America Division 1,beastcoast,dire,4,LOSE,15:18,Enchantress,Storm Spirit,Crystal Maiden,Rubick,Monkey King
+284,1,DPC 2022 Summer Tour - Southeast Asia Division 1,Talon Esports,dire,9,LOSE,36:50,Slardar,Lifestealer,Enchantress,Puck,Bane
+284,1,DPC 2022 Summer Tour - Southeast Asia Division 1,Fnatic,radiant,26,WIN,36:50,Juggernaut,Mars,Shadow Shaman,Death Prophet,Monkey King
+284,2,DPC 2022 Summer Tour - Southeast Asia Division 1,Talon Esports,dire,18,LOSE,31:06,Lina,Rubick,Shadow Shaman,Death Prophet,Tiny
+284,2,DPC 2022 Summer Tour - Southeast Asia Division 1,Fnatic,radiant,24,WIN,31:06,Templar Assassin,Undying,Enigma,Marci,Puck
+285,1,DPC 2022 Summer Tour - Southeast Asia Division 1,BOOM Esports,dire,32,LOSE,63:46,Wraith King,Kunkka,Snapfire,Razor,Marci
+285,1,DPC 2022 Summer Tour - Southeast Asia Division 1,Talon Esports,radiant,42,WIN,63:46,Doom,Bane,Ember Spirit,Tiny,Death Prophet
+285,2,DPC 2022 Summer Tour - Southeast Asia Division 1,BOOM Esports,radiant,25,WIN,34:42,Bloodseeker,Mirana,Kunkka,Tiny,Winter Wyvern
+285,2,DPC 2022 Summer Tour - Southeast Asia Division 1,Talon Esports,dire,7,LOSE,34:42,Juggernaut,Snapfire,Lina,Marci,Enigma
+285,3,DPC 2022 Summer Tour - Southeast Asia Division 1,BOOM Esports,radiant,23,WIN,37:03,Void Spirit,Warlock,Terrorblade,Mirana,Mars
+285,3,DPC 2022 Summer Tour - Southeast Asia Division 1,Talon Esports,dire,9,LOSE,37:03,Morphling,Batrider,Razor,Tiny,Winter Wyvern
+286,1,DPC 2022 Summer Tour - South America Division 1,Infamous U.Esports,radiant,15,LOSE,42:17,Morphling,Keeper of the Light,Pangolier,Timbersaw,Viper
+286,1,DPC 2022 Summer Tour - South America Division 1,beastcoast,dire,38,WIN,42:17,Grimstroke,Luna,Batrider,Tusk,Snapfire
+286,2,DPC 2022 Summer Tour - South America Division 1,Infamous U.Esports,dire,10,LOSE,31:20,Terrorblade,Bristleback,Hoodwink,Dazzle,Beastmaster
+286,2,DPC 2022 Summer Tour - South America Division 1,beastcoast,radiant,34,WIN,31:20,Venomancer,Juggernaut,Chen,Dawnbreaker,Clockwerk
+287,1,DPC 2022 Summer Tour - Southeast Asia Division 1,Fnatic,radiant,20,LOSE,60:14,Sniper,Rubick,Beastmaster,Undying,Puck
+287,1,DPC 2022 Summer Tour - Southeast Asia Division 1,BOOM Esports,dire,35,WIN,60:14,Batrider,Terrorblade,Winter Wyvern,Death Prophet,Tiny
+287,2,DPC 2022 Summer Tour - Southeast Asia Division 1,Fnatic,dire,12,LOSE,34:47,Earth Spirit,Spectre,Enchantress,Mirana,Kunkka
+287,2,DPC 2022 Summer Tour - Southeast Asia Division 1,BOOM Esports,radiant,33,WIN,34:47,Pangolier,Winter Wyvern,Chaos Knight,Ember Spirit,Keeper of the Light
+288,1,DPC 2022 Summer Tour - North America Division 1,Quincy Crew,dire,26,WIN,38:01,Medusa,Dragon Knight,Snapfire,Viper,Marci
+288,1,DPC 2022 Summer Tour - North America Division 1,Wildcard Gaming,radiant,16,LOSE,38:01,Hoodwink,Grimstroke,Chaos Knight,Puck,Dawnbreaker
+288,2,DPC 2022 Summer Tour - North America Division 1,Quincy Crew,radiant,37,WIN,41:24,Death Prophet,Bane,Puck,Templar Assassin,Dawnbreaker
+288,2,DPC 2022 Summer Tour - North America Division 1,Wildcard Gaming,dire,19,LOSE,41:24,Faceless Void,Dragon Knight,Snapfire,Timbersaw,Nyx Assassin
+289,1,DPC 2022 Summer Tour - North America Division 1,Team SoloMid,radiant,20,LOSE,45:43,Nature's Prophet,Windranger,Tiny,Night Stalker,Clockwerk
+289,1,DPC 2022 Summer Tour - North America Division 1,Quincy Crew,dire,31,WIN,45:43,Centaur Warrunner,Wraith King,Zeus,Tusk,Puck
+289,2,DPC 2022 Summer Tour - North America Division 1,Team SoloMid,dire,12,LOSE,32:06,Sven,Underlord,Ancient Apparition,Mirana,Pudge
+289,2,DPC 2022 Summer Tour - North America Division 1,Quincy Crew,radiant,23,WIN,32:06,Ursa,Snapfire,Chaos Knight,Necrophos,Io
+290,1,DPC 2022 Summer Tour - North America Division 1,Evil Geniuses,dire,24,WIN,54:08,Dragon Knight,Terrorblade,Winter Wyvern,Tusk,Viper
+290,1,DPC 2022 Summer Tour - North America Division 1,Quincy Crew,radiant,13,LOSE,54:08,Keeper of the Light,Hoodwink,Juggernaut,Lycan,Dazzle
+291,1,DPC 2022 Summer Tour - North America Division 1,Team SoloMid,dire,21,WIN,28:29,Leshrac,Ember Spirit,Enchantress,Winter Wyvern,Beastmaster
+291,1,DPC 2022 Summer Tour - North America Division 1,Wildcard Gaming,radiant,16,LOSE,28:29,Alchemist,Mirana,Kunkka,Zeus,Tiny
+291,2,DPC 2022 Summer Tour - North America Division 1,Team SoloMid,dire,45,WIN,34:44,Chaos Knight,Storm Spirit,Phoenix,Nyx Assassin,Enigma
+291,2,DPC 2022 Summer Tour - North America Division 1,Wildcard Gaming,radiant,22,LOSE,34:44,Kunkka,Lina,Clockwerk,Dawnbreaker,Winter Wyvern
+292,1,DPC 2022 Summer Tour - North America Division 1,Team SoloMid,radiant,19,LOSE,46:30,Timbersaw,Alchemist,Snapfire,Chen,Tiny
+292,1,DPC 2022 Summer Tour - North America Division 1,Nouns,dire,30,WIN,46:30,Bloodseeker,Bristleback,Clockwerk,Beastmaster,Zeus
+292,2,DPC 2022 Summer Tour - North America Division 1,Team SoloMid,dire,6,LOSE,20:40,Kunkka,Morphling,Dawnbreaker,Viper,Tusk
+292,2,DPC 2022 Summer Tour - North America Division 1,Nouns,radiant,25,WIN,20:40,Tiny,Winter Wyvern,Lifestealer,Lycan,Zeus
+293,1,DPC 2022 Summer Tour - North America Division 1,Quincy Crew,radiant,29,WIN,43:46,Legion Commander,Templar Assassin,Death Prophet,Tiny,Winter Wyvern
+293,1,DPC 2022 Summer Tour - North America Division 1,Nouns,dire,17,LOSE,43:46,Sven,Doom,Nature's Prophet,Timbersaw,Dazzle
+294,1,DPC 2022 Summer Tour - North America Division 1,Evil Geniuses,dire,22,WIN,28:14,Sniper,Viper,Ember Spirit,Tiny,Dawnbreaker
+294,1,DPC 2022 Summer Tour - North America Division 1,Team SoloMid,radiant,6,LOSE,28:14,Legion Commander,Jakiro,Bristleback,Beastmaster,Zeus
+294,2,DPC 2022 Summer Tour - North America Division 1,Evil Geniuses,radiant,16,LOSE,32:36,Lone Druid,Lion,Chen,Dawnbreaker,Puck
+294,2,DPC 2022 Summer Tour - North America Division 1,Team SoloMid,dire,26,WIN,32:36,Death Prophet,Enchantress,Nyx Assassin,Tiny,Sniper
+294,3,DPC 2022 Summer Tour - North America Division 1,Evil Geniuses,dire,27,WIN,36:33,Troll Warlord,Razor,Shadow Shaman,Ember Spirit,Marci
+294,3,DPC 2022 Summer Tour - North America Division 1,Team SoloMid,radiant,25,LOSE,36:33,Chaos Knight,Monkey King,Chen,Dawnbreaker,Puck
+295,1,DPC 2022 Summer Tour - North America Division 1,Evil Geniuses,radiant,18,WIN,28:46,Luna,Lycan,Shadow Shaman,Dazzle,Ember Spirit
+295,1,DPC 2022 Summer Tour - North America Division 1,Quincy Crew,dire,3,LOSE,28:46,Troll Warlord,Razor,Sven,Dawnbreaker,Puck
+295,2,DPC 2022 Summer Tour - North America Division 1,Evil Geniuses,dire,29,WIN,46:51,Death Prophet,Dazzle,Mars,Nature's Prophet,Marci
+295,2,DPC 2022 Summer Tour - North America Division 1,Quincy Crew,radiant,27,LOSE,46:51,Zeus,Templar Assassin,Enchantress,Razor,Tiny
+296,1,DPC 2022 Summer Tour - North America Division 1,Evil Geniuses,radiant,31,WIN,35:30,Ember Spirit,Medusa,Dazzle,Mars,Zeus
+296,1,DPC 2022 Summer Tour - North America Division 1,Nouns,dire,8,LOSE,35:30,Dawnbreaker,Snapfire,Clockwerk,Visage,Marci
+297,1,DPC 2022 Summer Tour - North America Division 1,Evil Geniuses,dire,37,WIN,40:08,Terrorblade,Mars,Phoenix,Tusk,Puck
+297,1,DPC 2022 Summer Tour - North America Division 1,Wildcard Gaming,radiant,13,LOSE,40:08,Juggernaut,Grimstroke,Bloodseeker,Tiny,Enchantress
+297,2,DPC 2022 Summer Tour - North America Division 1,Evil Geniuses,dire,37,WIN,42:05,Doom,Terrorblade,Ancient Apparition,Tusk,Puck
+297,2,DPC 2022 Summer Tour - North America Division 1,Wildcard Gaming,radiant,31,LOSE,42:05,Spectre,Snapfire,Ember Spirit,Timbersaw,Enchantress
+298,1,DPC 2022 Summer Tour - North America Division 1,Wildcard Gaming,dire,31,WIN,61:04,Morphling,Lycan,Snapfire,Dawnbreaker,Enigma
+298,1,DPC 2022 Summer Tour - North America Division 1,Nouns,radiant,28,LOSE,61:04,Naga Siren,Earth Spirit,Warlock,Razor,Marci
+298,2,DPC 2022 Summer Tour - North America Division 1,Wildcard Gaming,radiant,22,LOSE,44:43,Chaos Knight,Mars,Zeus,Razor,Chen
+298,2,DPC 2022 Summer Tour - North America Division 1,Nouns,dire,32,WIN,44:43,Keeper of the Light,Juggernaut,Snapfire,Dragon Knight,Mirana
+298,3,DPC 2022 Summer Tour - North America Division 1,Wildcard Gaming,radiant,11,LOSE,32:23,Morphling,Tiny,Viper,Snapfire,Dawnbreaker
+298,3,DPC 2022 Summer Tour - North America Division 1,Nouns,dire,30,WIN,32:23,Invoker,Lifestealer,Winter Wyvern,Dragon Knight,Enigma
+299,1,DPC 2022 Summer Tour - North America Division 1,Quincy Crew,dire,27,WIN,47:18,Lifestealer,Weaver,Snapfire,Puck,Tiny
+299,1,DPC 2022 Summer Tour - North America Division 1,Nouns,radiant,18,LOSE,47:18,Underlord,Skywrath Mage,Clockwerk,Enchantress,Marci
+299,2,DPC 2022 Summer Tour - North America Division 1,Quincy Crew,dire,35,WIN,44:35,Ember Spirit,Medusa,Dawnbreaker,Snapfire,Marci
+299,2,DPC 2022 Summer Tour - North America Division 1,Nouns,radiant,22,LOSE,44:35,Winter Wyvern,Doom,Visage,Enchantress,Tiny
+300,1,DPC 2022 Summer Tour - North America Division 1,Evil Geniuses,radiant,18,LOSE,55:45,Windranger,Timbersaw,Puck,Io,Chaos Knight
+300,1,DPC 2022 Summer Tour - North America Division 1,Nouns,dire,37,WIN,55:45,Dragon Knight,Monkey King,Mirana,Crystal Maiden,Beastmaster
+300,2,DPC 2022 Summer Tour - North America Division 1,Evil Geniuses,dire,32,WIN,31:40,Razor,Kunkka,Bloodseeker,Chen,Doom
+300,2,DPC 2022 Summer Tour - North America Division 1,Nouns,radiant,8,LOSE,31:40,Medusa,Hoodwink,Tusk,Beastmaster,Enchantress
+300,3,DPC 2022 Summer Tour - North America Division 1,Evil Geniuses,dire,20,LOSE,47:35,Underlord,Monkey King,Razor,Doom,Enchantress
+300,3,DPC 2022 Summer Tour - North America Division 1,Nouns,radiant,27,WIN,47:35,Nature's Prophet,Crystal Maiden,Mirana,Dragon Knight,Enigma
