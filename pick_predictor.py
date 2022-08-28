@@ -56,6 +56,27 @@ def get_list_with_matched_heroes(hero):
     return list_with_matched_hero
 
 
+def get_heroes_synergy(pick_1, pick_2):
+    for hero in pick_1:
+        matched_list = get_list_with_matched_heroes(hero)
+        pick_list = []
+        for pick in matched_list:
+            if hero in pick[0]:
+                pick_list.append(pick[0])
+            elif hero in pick[1]:
+                pick_list.append(pick[1])
+
+        count_of_pairs_picked = 0
+        count_of_pairs_picked_win = 0
+        for i in pick_list:
+            if 'Marci' in i:
+                count_of_pairs_picked += 1
+                if i[-3:] == 'WIN':
+                    count_of_pairs_picked_win += 1
+        print(count_of_pairs_picked)
+        print(count_of_pairs_picked_win)
+
+
 def get_map_pick(ally_pick, list_enemy):
     pick1_score = 0
     pick2_score = 0
@@ -107,132 +128,160 @@ def get_prediction(pick_1, pick_2):
     print(str(pick_1) + ' ' + str(pick_1_score))
     print(str(pick_2) + ' ' + str(pick_2_score))
 
+# ############################################################################################################
+# # Alliance Entity Map 1 (799:901)
+# get_prediction(['Viper', 'Tiny', 'Warlock', 'Pudge', 'Windranger'],
+#                ['Sven', 'Chen', 'Enigma','Visage', 'Razor'])
+# # Secret Thunder Map 1 (1143:1057)
+# get_prediction(['Razor', 'Marci', 'Ogre Magi', 'Batrider', 'Void Spirit'],
+#                ['Winter Wyvern', 'Weaver','Snapfire', 'Timbersaw', 'Mars'])
+# # Talon Aster Map 1 (860:940)
+# get_prediction(['Io', 'Storm Spirit', 'Earth Spirit', 'Brewmaster', 'Sniper'],
+#                ['Tiny', 'Puck', 'Grimstroke', 'Viper', 'Bristleback'])
+# ############################################################################################################
+# # Alliance Entity Map 2 (558:842)
+# get_prediction(['Chen', 'Enigma', 'Sven', 'Invoker', 'Pudge'],
+#                ['Viper', 'Tiny', 'Warlock', 'Faceless Void', 'Death Prophet'])
+# # Thunder Secret Map 2 (770:830)
+# get_prediction(['Weaver', 'Monkey King', 'Abaddon', 'Alchemist'],
+#               ['Marci', 'Viper', 'Chen', 'Void Spirit', 'Templar Assassin'])
+# # Talon Aster Map 2 (764:1436)
+# get_prediction(['Snapfire', 'Dawnbreaker', 'Void Spirit', 'Faceless Void', 'Alchemist'],
+#                ['Tiny', 'Razor', 'Dazzle', 'Enigma', 'Bloodseeker'])
+# ############################################################################################################
+# # Entity Talon Map 1 (1184:1016)
+# get_prediction(['Bristleback', 'Puck', 'Bane', 'Visage', 'Zeus'],
+#                ['Razor', 'Void Spirit', 'Death Prophet', 'Tusk', 'Dazzle'])
+# # Aster Thunder Map 1 (994:906)
+# get_prediction(['Razor', 'Winter Wyvern', 'Clockwerk', 'Templar Assassin', 'Invoker'],
+#                ['Tiny', 'Queen of Pain', 'Dazzle', 'Bloodseeker', 'Timbersaw'])
+# # Secret Alliance Map 1 (944:856)
+# get_prediction(['Dazzle', 'Faceless Void', 'Puck', 'Snapfire', 'Timbersaw'],
+#               ['Razor', 'Marci', 'Omniknight', 'Kunkka', 'Beastmaster'])
+# ############################################################################################################
+# # Secret Alliance Map 2 ()
+# get_prediction(['Marci', 'Razor', 'Dark Willow','Timbersaw', 'Monkey King'],
+#                ['Earth Spirit', 'Keeper of the Light', 'Bristleback', 'Mars', 'Io'])
+# # Talon Entity Map 2 (625:575)
+# get_prediction(['Io', 'Bristleback', 'Keeper of the Light', 'Tusk', 'Timbersaw'],
+#                ['Chen', 'Viper', 'Sven', 'Invoker', 'Pudge'])
+# # Thunder Aster Map 2 (959:1041)
+# get_prediction(['Tiny', 'Batrider', 'Ogre Magi', 'Weaver', 'Monkey King'],
+#                ['Razor', 'Grimstroke', 'Earth Spirit', 'Faceless Void', 'Void Spirit'])
+# ############################################################################################################
+# # Liquid OG Map 1 (775:825)
+# get_prediction(['Tiny', 'Puck', 'Ancient Apparition', 'Lycan', 'Dawnbreaker'],
+#                ['Razor', 'Chen', 'Earthshaker', 'Templar Assassin', 'Ember Spirit'])
+# # TSM Nigma Map1 (784:816)
+# get_prediction(['Razor', 'Tiny', 'Jakiro', 'Doom', 'Phantom Assassin'],
+#                ['Enchantress', 'Puck', 'Tusk', 'Lone Druid', 'Death Prophet'])
+# # Fnatic Boom Map 1 (1138:962)
+# get_prediction(['Chen', 'Faceless Void', 'Marci', 'Batrider', 'Pudge'],
+#                ['Mars', 'Snapfire', 'Winter Wyvern', 'Juggernaut', 'Zeus'])
+# ############################################################################################################
+# # Liquid OG Map 2 (939:761)
+# get_prediction(['Chen', 'Lone Druid', 'Nyx Assassin', 'Enigma', 'Storm Spirit'],
+#                ['Razor', 'Elder Titan', 'Snapfire', 'Templar Assassin', 'Pangolier'])
+# # TSM Nigma Map 2 (766:734)
+# get_prediction(['Mirana', 'Puck', 'Witch Doctor', 'Brewmaster', 'Templar Assassin'],
+#                ['Enchantress', 'Lone Druid', 'Monkey King', 'Nyx Assassin', 'Enigma'])
+# # Fnatic Boom Map 2 (835:1065)
+# get_prediction(['Tiny', 'Batrider', 'Templar Assassin', 'Enchantress', 'Keeper of the Light'],
+#                ['Kunkka', 'Winter Wyvern', 'Mirana', 'Phantom Lancer', 'Venomancer'])
+# ############################################################################################################
+# # Liquid Nigma Map 1 (910:1090)
+# get_prediction(['Death Prophet', 'Tiny', 'Keeper of the Light', 'Night Stalker', 'Skywrath Mage'],
+#                ['Puck', 'Tusk', 'Bristleback', 'Snapfire', 'Visage'])
+# # TSM Boom Map 1 (1077:1223)
+# get_prediction(['Enchantress', 'Puck', 'Rubick', 'Faceless Void', 'Lycan'],
+#                ['Tiny', 'Death Prophet', 'Zeus', 'Clockwerk', 'Wraith King'])
+# # OG Fnatic Map 1 (851:849)
+# get_prediction(['Razor', 'Elder Titan', 'Winter Wyvern', 'Kunkka', 'Alchemist'],
+#                ['Chen', 'Faceless Void', 'Queen of Pain', 'Earth Spirit', 'Weaver'])
+# ############################################################################################################
+# # Liquid Nigma Map 2 (793:1007)
+# get_prediction(['Dazzle', 'Tiny', 'Batrider', 'Timbersaw', 'Ursa'],
+#                ['Winter Wyvern', 'Keeper of the Light', 'Chen', 'Faceless Void', 'Axe'])
+# # TSM Boom Map 2 (1061:1039)
+# get_prediction(['Enchantress', 'Enigma', 'Queen of Pain', 'Tusk', 'Monkey King'],
+#                ['Tiny', 'Dazzle', 'Pangolier', "Nature's Prophet", 'Weaver'])
+# # OG Fnatic Map 2 (802:598)
+# get_prediction(['Chen', 'Puck', 'Treant Protector', 'Arc Warden', 'Sand King'],
+#                ['Razor', 'Templar Assassin', 'Monkey King', 'Enchantress', 'Broodmother'])
+# ############################################################################################################
 
-# get_prediction(['Viper', 'Clockwerk', 'Winter Wyvern', 'Ember Spirit', 'Terrorblade'],
-#              ['Marci', "Nature's Prophet", 'Enchantress', 'Night Stalker', 'Storm Spirit'])
+# # Thunder Entity Map 1(588:812)
+# get_prediction(['Winter Wyvern', 'Mars', 'Rubick', 'Centaur Warrunner', 'Phantom Assassin'],
+#                 ['Tiny', 'Invoker', 'Abaddon','Faceless Void', 'Phoenix'])
+# # Secret Aster Map 1 (918:982)
+# get_prediction(['Ogre Magi', 'Monkey King', 'Dawnbreaker', 'Queen of Pain', 'Tusk'],
+#                ['Mars', 'Templar Assassin', 'Batrider', 'Mars', 'Enchantress'])
+# # Talon Alliance Map 1 (444:456)
+# get_prediction(['Ursa', 'Templar Assassin', 'Beastmaster', 'Hoodwink', 'Ogre Magi'],
+#                ['Phoenix', 'Enchantress', 'Centaur Warrunner', 'Huskar', 'Pudge'])
 
-# get_prediction(['Tiny', 'Abaddon', 'Keeper of the Light', 'Tidehunter', 'Morphling'],
-#               ['Marci', 'Batrider', 'Enchantress', 'Timbersaw', 'Beastmaster'])
-
-# get_prediction(['Dazzle', 'Puck', 'Clockwerk', 'Batrider', 'Pudge'],
-#               ['Tiny', "Night Stalker", "Winter Wyvern", 'Bane', 'Lycan'])
-
-# get_prediction(['Bristleback', 'Winter Wyvern', 'Skywrath Mage', 'Kunkka', 'Venomancer'],
-#             ['Chen', 'Puck', 'Nyx Assassin', 'Batrider', 'Templar Assassin'])
-
-# get_prediction(['Zeus', 'Dazzle', "Faceless Void", 'Snapfire', 'Underlord'],
-#               ['Tiny', 'Brewmaster', 'Enchantress', 'Wraith King', 'Death Prophet'])
-
-# get_prediction(['Dawnbreaker', 'Zeus', 'Elder Titan', 'Shadow Shaman', 'Weaver'],
-#               ['Winter Wyvern', 'Marci', 'Io', 'Bristleback', 'Dragon Knight'])
-
-# get_prediction(['Death Prophet', 'Tiny', 'Dazzle', 'Kunkka', 'Terrorblade'],
-#              ['Io', 'Bristleback', 'Void Spirit', 'Weaver', 'Dawnbreaker'])
-
-# get_prediction(['Dawnbreaker', 'Dragon Knight','Skywrath Mage', 'Brewmaster', 'Weaver'],
-#              ['Puck', 'Nyx Assassin','Crystal Maiden', 'Batrider', 'Pudge'])
-
-# get_prediction(['Zeus', 'Dawnbreaker', 'Viper', 'Clockwerk','Wraith King'],
-#               ['Dazzle', 'Alchemist', 'Tusk', 'Keeper of the Light', 'Enigma'])
-
-# get_prediction(['Winter Wyvern', 'Alchemist', 'Night Stalker', 'Windranger', 'Ogre Magi'],
-#              ['Puck', 'Dazzle', 'Phoenix', 'Bristleback', 'Mars'])
-
-# get_prediction(['Puck', 'Tiny', 'Ancient Apparition', 'Juggernaut', 'Beastmaster'],
-#             ['Dazzle', 'Alchemist', 'Dragon Knight', 'Skywrath Mage', 'Wraith King'])
-
-#get_prediction(['Marci', 'Night Stalker','Faceless Void','Skywrath Mage', 'Lina'],
-#             ['Chen', 'Queen of Pain', 'Jakiro', 'Wraith King', 'Slardar'])
-
-#get_prediction(['Tiny', 'Skywrath Mage', 'Winter Wyvern', 'Juggernaut', 'Doom'],
-#             ['Puck', 'Lycan', 'Snapfire', 'Jakiro', 'Terrorblade'])
-
-# get_prediction(['Marci', 'Timbersaw', 'Dragon Knight', 'Snapfire', 'Gyrocopter'],
-#               ['Chen', 'Puck', 'Bloodseeker', 'Batrider', 'Earthshaker'])
-
-# get_prediction(['Razor', 'Puck', 'Clockwerk', 'Viper', 'Ursa'],
-#               ['Timbersaw', 'Enchantress', 'Skywrath Mage', 'Ember Spirit', 'Juggernaut'])
-
-# get_prediction(['Chen', 'Mars', 'Winter Wyvern', 'Templar Assassin', 'Storm Spirit'],
-#               ['Tiny', 'Timbersaw', 'Dazzle', 'Keeper of the Light', 'Luna'])
-
-# get_prediction(['Tusk', 'Death Prophet', 'Winter Wyvern', 'Kunkka', 'Alchemist'],
-#               ['Earth Spirit', 'Puck', 'Snapfire', 'Viper', 'Medusa'])
-
-# get_prediction(['Marci', 'Puck', 'Dazzle', 'Lifestealer', 'Keeper of the Light'],
-#               ['Tiny','Viper', 'Night Stalker', 'Death Prophet', 'Phantom Assassin'])
-
-
-#get_prediction(['Wraith King', 'Puck', 'Brewmaster', 'Nyx Assassin', 'Dazzle'],
-#              ['Dragon Knight', 'Skywrath Mage', 'Dawnbreaker', 'Rubick', 'Ursa'])
-
-
-#get_prediction(['Chen', 'Lina', 'Night Stalker', 'Rubick', 'Wraith King'],
-#               ['Tiny', 'Winter Wyvern', 'Puck', 'Alchemist', 'Venomancer'])
-
-#get_prediction(['Chen', 'Puck', 'Phoenix', 'Mars', 'Templar Assassin'],
-#               ['Tiny', 'Winter Wyvern', 'Ursa', 'Snapfire', 'Doom'])
-
-
-# get_prediction(['Dawnbreaker', 'Winter Wyvern','Night Stalker', 'Templar Assassin', 'Storm Spirit'],
-#               ['Tiny', 'Puck','Phoenix', 'Mars', 'Terrorblade'])
-
-# get_prediction(['Death Prophet', 'Tiny', 'Kunkka', 'Juggernaut', 'Dazzle'],
-#                ['Puck', 'Phoenix', 'Marci', 'Shadow Demon', 'Faceless Void'])
-
-# get_prediction(['Marci', 'Visage', 'Dazzle', 'Storm Spirit', 'Doom'],
-#               ['Puck', 'Chen', 'Dawnbreaker', 'Templar Assassin', 'Razor'])
-
-# get_prediction(['Marci', 'Storm Spirit', 'Visage', 'Jakiro', 'Alchemist'],
-#               ['Viper', 'Dazzle', 'Doom', 'Ember Spirit', 'Ursa'])
-
-# get_prediction(['Tiny', 'Razor', 'Ogre Magi', 'Kunkka', 'Visage'],
-#               ['Dawnbreaker', 'Techies', 'Lina', 'Viper', 'Pangolier'])
-
-# get_prediction(['Dawnbreaker', 'Weaver', 'Tusk', 'Jakiro', 'Death Prophet'],
-#               ['Viper', 'Nyx Assassin', 'Dazzle', 'Bloodseeker', 'Windranger'])
-
-# get_prediction(['Marci', 'Razor', 'Zeus', 'Dazzle', 'Juggernaut'],
-#               ['Dawnbreaker', 'Crystal Maiden', 'Tiny', 'Void Spirit', 'Skywrath Mage'])
-
-# get_prediction(['Monkey King', 'Dawnbreaker', 'Tiny', 'Rubick', 'Batrider'],
-#               ['Clinkz', 'Enigma', 'Timbersaw', 'Winter Wyvern', 'Storm Spirit'])
-
-# get_prediction(['Puck', 'Beastmaster', 'Snapfire', 'Dazzle', 'Chaos Knight'],
-#               ['Alchemist', 'Skywrath Mage', 'Ogre Magi', 'Razor', 'Tidehunter'])
-
-# get_prediction(['Dawnbreaker', 'Viper', 'Warlock', 'Naga Siren', 'Clockwerk'],
-#               ['Tiny', 'Lycan', 'Nyx Assassin', 'Windranger', 'Sniper'])
-
-# get_prediction(['Tiny', 'Winter Wyvern', 'Dawnbreaker', 'Razor', 'Treant Protector'],
-#               ['Enchantress', 'Night Stalker', 'Alchemist', 'Dazzle', 'Puck'])
-
-# get_prediction(['Marci', 'Zeus', 'Faceless Void', 'Snapfire', 'Tidehunter'],
-#               ['Dawnbreaker', 'Tiny', 'Winter Wyvern','Beastmaster', 'Alchemist'])
-
-# get_prediction(['Marci', 'Viper', 'Nyx Assassin', 'Tidehunter', 'Void Spirit'],
-#               ['Tiny', 'Dawnbreaker', 'Crystal Maiden', 'Razor', 'Puck'])
-
-# get_prediction(['Tiny', "Nature's Prophet", 'Monkey King', 'Bounty Hunter', 'Keeper of the Light'],
-#                ['Chaos Knight', 'Io', 'Marci', 'Void Spirit', 'Bristleback'])
-
-# get_prediction(['Chen', 'Bristleback', 'Tusk', 'Visage', 'Void Spirit'],
-#               ['Winter Wyvern', 'Tiny', 'Bane', 'Templar Assassin', 'Pangolier'])
-
-# get_prediction(['Naga Siren','Razor', 'Marci', 'Necrophos', 'Lina'],
-#               ['Tiny', 'Viper', 'Alchemist', 'Dazzle', 'Storm Spirit'])
-
-# get_prediction(['Winter Wyvern', 'Puck', 'Snapfire', 'Templar Assassin', 'Slardar'],
-#               ['Tiny', 'Enchantress', 'Rubick', 'Earthshaker', 'Spectre'])
-
-# get_prediction(['Marci', 'Puck', 'Phoenix', 'Lifestealer', 'Necrophos'],
-#               ['Chen', 'Kunkka', 'Rubick', 'Dawnbreaker', 'Beastmaster'])
-
-get_prediction(['Earthshaker', 'Keeper of the Light', 'Bane', 'Monkey King', 'Timbersaw'],
-               ['Marci', 'Death Prophet', 'Dazzle', 'Kunkka', 'Lone Druid'])
+# # Secret Aster Map 2 (570:630)
+# get_prediction(['Ogre Magi', 'Queen of Pain', 'Bloodseeker', 'Dark Willow', 'Timbersaw'],
+#                ['Grimstroke', 'Monkey King', 'Dragon Knight', 'Enigma', 'Tiny'])
+# # Thunder Entity Map 2 (640:760)
+# get_prediction(['Mars', 'Kunkka', 'Dazzle', 'Enigma', 'Rubick'],
+#                ['Disruptor', 'Tiny', 'Queen of Pain', 'Visage', 'Lifestealer'])
 
 
-#def test_predictor():
+# # Entity Secret Map 1 (590:410)
+# get_prediction(['Sven', 'Visage', 'Bane', 'Pudge', 'Ember Spirit'],
+#                ['Ogre Magi', 'Templar Assassin', 'Techies', 'Tidehunter', 'Mars'])
+# # Thunder Talon Map 1 (800:600)
+# get_prediction(['Tiny', 'Templar Assassin', 'Snapfire', 'Ogre Magi', 'Tidehunter'],
+#                ['Enchantress', 'Centaur Warrunner', 'Phoenix', 'Pudge', 'Monkey King'])
+
+# # Entity Secret Map 2 (369:331)
+# get_prediction(['Techies', 'Sven', 'Tidehunter', 'Bristleback', 'Sniper'],
+#                ['Chen', 'Visage', 'Hoodwink', 'Lone Druid', 'Ember Spirit'])
+# # Thunder Talon Map 2 (904:996)
+# get_prediction(['Batrider', 'Winter Wyvern', 'Centaur Warrunner', 'Nyx Assassin', 'Wraith King'],
+#                ['Doom', 'Clockwerk', 'Puck', 'Visage', 'Bane'])
+
+# # Boom Nigma Map 1 ()
+# get_prediction(['Doom', 'Rubick'],
+#                ['Enchantress', 'Dawnbreaker', 'Earth Spirit'])
+# # OG TSM Map 1 ()
+# get_prediction(['Snapfire', 'Faceless Void', 'Legion Commander', 'Dazzle', 'Death Prophet'],
+#                ['Chen', 'Mars', 'Techies', 'Troll Warlord', 'Shadow Fiend'])
+# # Fnatic Liquid Map 1 ()
+# get_prediction(['Tiny', 'Puck', 'Bloodseeker', 'Shadow Demon'],
+#                ['Keeper of the Light', 'Bristleback', 'Nyx Assassin', 'Batrider'])
+
+# # Nigma Boom Map 2 (563:637)
+# get_prediction(['Io', 'Terrorblade', 'Lion', 'Queen of Pain', 'Pudge'],
+#                ['Death Prophet', 'Tusk', 'Snapfire', 'Faceless Void', 'Zeus'])
+
+# get_prediction(['Puck', 'Tusk', 'Enchantress', 'Pudge', 'Batrider'],
+#               ['Keeper of the Light', 'Night Stalker', 'Earthshaker', 'Razor'])
+
+# # Fnatic TSM Map 1 ()
+# get_prediction(['Keeper of the Light', 'Beastmaster', 'Rubick', 'Brewmaster', 'Luna'],
+#                    ['Queen of Pain', 'Nyx Assassin', 'Warlock', 'Phantom Assassin', 'Dark Seer'])
+#
+# get_prediction(['Chaos Knight', 'Dazzle', 'Rubick', 'Pangolier', 'Juggernaut'],
+#                ['Death Prophet', 'Brewmaster', 'Puck', 'Dark Willow', 'Alchemist'])
+
+# get_prediction(['Snapfire', 'Mars', 'Mirana', 'Ogre Magi', 'Medusa'],
+#                ['Tiny', 'Enchantress', 'Monkey King', 'Storm Spirit', 'Visage'])
+#
+# get_prediction(['Keeper of the Light', 'Bristleback', 'Nyx Assassin', 'Razor', 'Pangolier'],
+#                ['Batrider', 'Mars', 'Dark Willow', 'Dawnbreaker', 'Phantom Assassin'])
+
+# get_prediction(['Queen of Pain', 'Shadow Shaman', 'Undying', 'Beastmaster', 'Ursa'],
+#                ['Ogre Magi', 'Invoker', 'Monkey King', 'Techies', 'Axe'])
+#
+# get_prediction(['Chen', 'Tusk', 'Rubick', 'Pudge', 'Faceless Void'],
+#                ['Tiny', 'Puck', 'Templar Assassin', 'Elder Titan', 'Keeper of the Light'])
+
+# get_prediction(['Enigma', 'Batrider', 'Ancient Apparition', 'Nyx Assassin', 'Alchemist'],
+#               ['Dawnbreaker', 'Winter Wyvern', 'Puck', 'Phantom Assassin', 'Beastmaster'])
+
+# def test_predictor():
 #    picks_list = get_formatted_match_pick_list()
 #    for map in picks_list:
 #        str_to_list_pick1 = map[0].split('-')[:-1]
