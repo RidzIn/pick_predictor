@@ -1,0 +1,95 @@
+,MATCH_ID,MAP,TOURNAMENT,TEAM,SIDE,SCORE,RESULT,DURATION,HERO_1,HERO_2,HERO_3,HERO_4,HERO_5
+0,1,1,Dota 2 Champions League 2022 Season 14,Cybercats,dire,24,WIN,24:12,Void Spirit,Beastmaster,Hoodwink,Chen,Bristleback
+1,1,1,Dota 2 Champions League 2022 Season 14,SG e-sports,radiant,10,LOSE,24:12,Zeus,Mars,Juggernaut,Tiny,Winter Wyvern
+2,1,2,Dota 2 Champions League 2022 Season 14,Cybercats,dire,43,WIN,35:27,Necrophos,Faceless Void,Skywrath Mage,Viper,Marci
+3,1,2,Dota 2 Champions League 2022 Season 14,SG e-sports,radiant,18,LOSE,35:27,Lina,Phantom Lancer,Weaver,Tiny,Winter Wyvern
+4,2,1,Dota 2 Champions League 2022 Season 14,SG e-sports,radiant,34,LOSE,42:01,Pudge,Snapfire,Dawnbreaker,Juggernaut,Chen
+5,2,1,Dota 2 Champions League 2022 Season 14,Empire Hope,dire,30,WIN,42:01,Bristleback,Nyx Assassin,Razor,Tusk,Viper
+6,2,2,Dota 2 Champions League 2022 Season 14,SG e-sports,dire,28,LOSE,45:38,Zeus,Pudge,Crystal Maiden,Dawnbreaker,Skywrath Mage
+7,2,2,Dota 2 Champions League 2022 Season 14,Empire Hope,radiant,32,WIN,45:38,Bloodseeker,Razor,Rubick,Beastmaster,Winter Wyvern
+8,3,1,Dota 2 Champions League 2022 Season 14,11Monkeyz,radiant,13,LOSE,35:05,Zeus,Hoodwink,Templar Assassin,Dawnbreaker,Chen
+9,3,1,Dota 2 Champions League 2022 Season 14,Pari Parni,dire,35,WIN,35:05,Queen of Pain,Weaver,Timbersaw,Marci,Enchantress
+10,3,2,Dota 2 Champions League 2022 Season 14,11Monkeyz,radiant,16,LOSE,28:21,Storm Spirit,Chaos Knight,Dazzle,Dawnbreaker,Enigma
+11,3,2,Dota 2 Champions League 2022 Season 14,Pari Parni,dire,38,WIN,28:21,Kunkka,Visage,Rubick,Monkey King,Marci
+12,4,1,Dota 2 Champions League 2022 Season 14,Pari Parni,dire,10,LOSE,31:58,Sand King,Skywrath Mage,Faceless Void,Batrider,Chen
+13,4,1,Dota 2 Champions League 2022 Season 14,Empire Hope,radiant,39,WIN,31:58,Pudge,Storm Spirit,Tiny,Winter Wyvern,Timbersaw
+14,4,2,Dota 2 Champions League 2022 Season 14,Pari Parni,radiant,7,LOSE,19:11,Dark Seer,Zeus,Earth Spirit,Enchantress,Bristleback
+15,4,2,Dota 2 Champions League 2022 Season 14,Empire Hope,dire,25,WIN,19:11,Queen of Pain,Pudge,Io,Timbersaw,Tiny
+16,5,1,Dota 2 Champions League 2022 Season 14,Luna Gaming,radiant,19,LOSE,33:18,Phoenix,Faceless Void,Death Prophet,Winter Wyvern,Tiny
+17,5,1,Dota 2 Champions League 2022 Season 14,HF.esports,dire,29,WIN,33:18,Lina,Slardar,Bane,Bristleback,Marci
+18,5,2,Dota 2 Champions League 2022 Season 14,Luna Gaming,dire,50,WIN,51:06,Slark,Dawnbreaker,Razor,Batrider,Tiny
+19,5,2,Dota 2 Champions League 2022 Season 14,HF.esports,radiant,41,LOSE,51:06,Beastmaster,Storm Spirit,Shadow Shaman,Winter Wyvern,Bristleback
+20,5,3,Dota 2 Champions League 2022 Season 14,Luna Gaming,dire,35,WIN,33:08,Mars,Rubick,Kunkka,Juggernaut,Marci
+21,5,3,Dota 2 Champions League 2022 Season 14,HF.esports,radiant,22,LOSE,33:08,Terrorblade,Bane,Puck,Tiny,Viper
+22,6,1,Dota 2 Champions League 2022 Season 14,BetBoom Team,radiant,22,WIN,29:20,Zeus,Bloodseeker,Winter Wyvern,Earthshaker,Razor
+23,6,1,Dota 2 Champions League 2022 Season 14,meme squad,dire,7,LOSE,29:20,Rubick,Weaver,Dawnbreaker,Beastmaster,Tiny
+24,6,2,Dota 2 Champions League 2022 Season 14,BetBoom Team,radiant,25,WIN,33:36,Kunkka,Snapfire,Lycan,Nature&#039;s Prophet,Marci
+25,6,2,Dota 2 Champions League 2022 Season 14,meme squad,dire,21,LOSE,33:36,Doom,Keeper of the Light,Warlock,Monkey King,Viper
+26,7,1,Dota 2 Champions League 2022 Season 14,Pari Parni,radiant,23,LOSE,36:20,Dawnbreaker,Void Spirit,Winter Wyvern,Skywrath Mage,Doom
+27,7,1,Dota 2 Champions League 2022 Season 14,HF.esports,dire,30,WIN,36:20,Wraith King,Bane,Rubick,Beastmaster,Puck
+28,7,2,Dota 2 Champions League 2022 Season 14,Pari Parni,dire,8,LOSE,25:21,Templar Assassin,Void Spirit,Phoenix,Razor,Marci
+29,7,2,Dota 2 Champions League 2022 Season 14,HF.esports,radiant,26,WIN,25:21,Weaver,Timbersaw,Storm Spirit,Winter Wyvern,Tiny
+30,8,1,Dota 2 Champions League 2022 Season 14,Anime Enjoyers,radiant,33,WIN,38:31,Beastmaster,Troll Warlord,Tusk,Enigma,Puck
+31,8,1,Dota 2 Champions League 2022 Season 14,HF.esports,dire,20,LOSE,38:31,Tidehunter,Terrorblade,Warlock,Skywrath Mage,Tiny
+32,8,2,Dota 2 Champions League 2022 Season 14,Anime Enjoyers,radiant,33,WIN,27:13,Nature&#039;s Prophet,Winter Wyvern,Morphling,Ember Spirit,Marci
+33,8,2,Dota 2 Champions League 2022 Season 14,HF.esports,dire,8,LOSE,27:13,Juggernaut,Pangolier,Razor,Tiny,Chen
+34,9,1,Dota 2 Champions League 2022 Season 14,Anime Enjoyers,dire,35,WIN,29:26,Morphling,Enigma,Ember Spirit,Marci,Viper
+35,9,1,Dota 2 Champions League 2022 Season 14,Ooredoo Thunders,radiant,22,LOSE,29:26,Wraith King,Tusk,Abaddon,Dawnbreaker,Razor
+36,9,2,Dota 2 Champions League 2022 Season 14,Anime Enjoyers,radiant,56,WIN,41:55,Ursa,Keeper of the Light,Earth Spirit,Dawnbreaker,Dazzle
+37,9,2,Dota 2 Champions League 2022 Season 14,Ooredoo Thunders,dire,26,LOSE,41:55,Mars,Crystal Maiden,Alchemist,Zeus,Tiny
+38,10,1,Dota 2 Champions League 2022 Season 14,IVY,radiant,32,WIN,32:15,Void Spirit,Bristleback,Clockwerk,Chen,Viper
+39,10,1,Dota 2 Champions League 2022 Season 14,Empire Hope,dire,9,LOSE,32:15,Zeus,Enigma,Winter Wyvern,Razor,Tiny
+40,10,2,Dota 2 Champions League 2022 Season 14,IVY,dire,12,LOSE,31:44,Bristleback,Phoenix,Snapfire,Faceless Void,Puck
+41,10,2,Dota 2 Champions League 2022 Season 14,Empire Hope,radiant,30,WIN,31:44,Pudge,Shadow Shaman,Beastmaster,Io,Razor
+42,10,3,Dota 2 Champions League 2022 Season 14,IVY,dire,34,WIN,29:31,Queen of Pain,Templar Assassin,Winter Wyvern,Timbersaw,Tiny
+43,10,3,Dota 2 Champions League 2022 Season 14,Empire Hope,radiant,13,LOSE,29:31,Dragon Knight,Rubick,Juggernaut,Batrider,Chen
+44,11,1,Dota 2 Champions League 2022 Season 14,YNT,dire,17,LOSE,39:06,Arc Warden,Mars,Phoenix,Puck,Tiny
+45,11,1,Dota 2 Champions League 2022 Season 14,Luna Gaming,radiant,30,WIN,39:06,Batrider,Luna,Doom,Viper,Dazzle
+46,11,2,Dota 2 Champions League 2022 Season 14,YNT,dire,35,LOSE,45:25,Queen of Pain,Razor,Earth Spirit,Timbersaw,Dazzle
+47,11,2,Dota 2 Champions League 2022 Season 14,Luna Gaming,radiant,41,WIN,45:25,Death Prophet,Monkey King,Dawnbreaker,Keeper of the Light,Tiny
+48,12,1,Dota 2 Champions League 2022 Season 14,11Monkeyz,radiant,27,WIN,33:08,Winter Wyvern,Faceless Void,Phoenix,Visage,Tiny
+49,12,1,Dota 2 Champions League 2022 Season 14,EZ KATKA Esports,dire,13,LOSE,33:08,Storm Spirit,Wraith King,Night Stalker,Keeper of the Light,Clockwerk
+50,12,2,Dota 2 Champions League 2022 Season 14,11Monkeyz,dire,32,WIN,28:21,Weaver,Templar Assassin,Mars,Chen,Tiny
+51,12,2,Dota 2 Champions League 2022 Season 14,EZ KATKA Esports,radiant,13,LOSE,28:21,Dragon Knight,Juggernaut,Dawnbreaker,Razor,Marci
+52,13,1,Dota 2 Champions League 2022 Season 14,11Monkeyz,dire,25,LOSE,41:09,Storm Spirit,Bane,Bloodseeker,Death Prophet,Tiny
+53,13,1,Dota 2 Champions League 2022 Season 14,One Move,radiant,19,WIN,41:09,Ember Spirit,Beastmaster,Marci,Io,Bristleback
+54,13,2,Dota 2 Champions League 2022 Season 14,11Monkeyz,dire,17,LOSE,40:53,Phoenix,Timbersaw,Winter Wyvern,Faceless Void,Tiny
+55,13,2,Dota 2 Champions League 2022 Season 14,One Move,radiant,29,WIN,40:53,Storm Spirit,Ursa,Dazzle,Marci,Razor
+56,14,1,Dota 2 Champions League 2022 Season 14,One Move,dire,25,WIN,20:33,Enigma,Queen of Pain,Nyx Assassin,Io,Bristleback
+57,14,1,Dota 2 Champions League 2022 Season 14,GUBINA13,radiant,3,LOSE,20:33,Slark,Tiny,Death Prophet,Timbersaw,Dawnbreaker
+58,14,2,Dota 2 Champions League 2022 Season 14,One Move,radiant,29,WIN,26:31,Bloodseeker,Pangolier,Winter Wyvern,Razor,Marci
+59,14,2,Dota 2 Champions League 2022 Season 14,GUBINA13,dire,22,LOSE,26:31,Weaver,Enchantress,Void Spirit,Io,Bristleback
+60,15,1,Dota 2 Champions League 2022 Season 14,YNT,dire,15,LOSE,31:57,Death Prophet,Clockwerk,Razor,Puck,Tiny
+61,15,1,Dota 2 Champions League 2022 Season 14,Pari Parni,radiant,29,WIN,31:57,Dawnbreaker,Templar Assassin,Shadow Shaman,Doom,Winter Wyvern
+62,15,2,Dota 2 Champions League 2022 Season 14,YNT,dire,4,LOSE,14:01,Tiny,Alchemist,Dazzle,Dawnbreaker,Skywrath Mage
+63,15,2,Dota 2 Champions League 2022 Season 14,Pari Parni,radiant,27,WIN,14:01,Invoker,Marci,Visage,Bristleback,Winter Wyvern
+64,16,1,Dota 2 Champions League 2022 Season 14,HF.esports,dire,23,WIN,24:06,Storm Spirit,Nyx Assassin,Terrorblade,Lycan,Marci
+65,16,1,Dota 2 Champions League 2022 Season 14,EZ KATKA Esports,radiant,10,LOSE,24:06,Meepo,Monkey King,Io,Dawnbreaker,Viper
+66,16,2,Dota 2 Champions League 2022 Season 14,HF.esports,radiant,18,WIN,38:10,Dragon Knight,Skywrath Mage,Bloodseeker,Alchemist,Winter Wyvern
+67,16,2,Dota 2 Champions League 2022 Season 14,EZ KATKA Esports,dire,18,LOSE,38:10,Monkey King,Enigma,Gyrocopter,Clockwerk,Puck
+68,17,1,Dota 2 Champions League 2022 Season 14,Ooredoo Thunders,radiant,23,LOSE,42:23,Batrider,Visage,Dawnbreaker,Invoker,Marci
+69,17,1,Dota 2 Champions League 2022 Season 14,meme squad,dire,47,WIN,42:23,Winter Wyvern,Alchemist,Dazzle,Death Prophet,Tiny
+70,17,2,Dota 2 Champions League 2022 Season 14,Ooredoo Thunders,radiant,7,LOSE,22:17,Slardar,Ursa,Io,Tiny,Puck
+71,17,2,Dota 2 Champions League 2022 Season 14,meme squad,dire,20,WIN,22:17,Beastmaster,Alchemist,Dazzle,Death Prophet,Marci
+72,18,1,Dota 2 Champions League 2022 Season 14,Cybercats,radiant,38,WIN,29:39,Windranger,Juggernaut,Dazzle,Clockwerk,Visage
+73,18,1,Dota 2 Champions League 2022 Season 14,IVY,dire,9,LOSE,29:39,Mirana,Tusk,Weaver,Timbersaw,Viper
+74,18,2,Dota 2 Champions League 2022 Season 14,Cybercats,dire,28,LOSE,35:49,Brewmaster,Skywrath Mage,Faceless Void,Batrider,Marci
+75,18,2,Dota 2 Champions League 2022 Season 14,IVY,radiant,33,WIN,35:49,Alchemist,Dawnbreaker,Nyx Assassin,Timbersaw,Winter Wyvern
+76,18,3,Dota 2 Champions League 2022 Season 14,Cybercats,radiant,30,WIN,30:34,Lycan,Dazzle,Bloodseeker,Puck,Winter Wyvern
+77,18,3,Dota 2 Champions League 2022 Season 14,IVY,dire,8,LOSE,30:34,Templar Assassin,Nyx Assassin,Viper,Night Stalker,Dawnbreaker
+78,19,1,Dota 2 Champions League 2022 Season 14,IVY,dire,12,LOSE,32:22,Storm Spirit,Faceless Void,Dazzle,Razor,Tusk
+79,19,1,Dota 2 Champions League 2022 Season 14,Anime Enjoyers,radiant,27,WIN,32:22,Pangolier,Clockwerk,Enigma,Bristleback,Viper
+80,19,2,Dota 2 Champions League 2022 Season 14,IVY,radiant,20,LOSE,41:16,Beastmaster,Juggernaut,Earthshaker,Puck,Chen
+81,19,2,Dota 2 Champions League 2022 Season 14,Anime Enjoyers,dire,32,WIN,41:16,Morphling,Keeper of the Light,Rubick,Dawnbreaker,Viper
+82,20,1,Dota 2 Champions League 2022 Season 14,meme squad,dire,7,LOSE,29:10,Keeper of the Light,Bloodseeker,Dazzle,Viper,Marci
+83,20,1,Dota 2 Champions League 2022 Season 14,Empire Hope,radiant,29,WIN,29:10,Visage,Juggernaut,Earth Spirit,Winter Wyvern,Razor
+84,20,2,Dota 2 Champions League 2022 Season 14,meme squad,dire,44,WIN,40:58,Zeus,Phantom Lancer,Warlock,Dawnbreaker,Tiny
+85,20,2,Dota 2 Champions League 2022 Season 14,Empire Hope,radiant,26,LOSE,40:58,Storm Spirit,Alchemist,Enchantress,Viper,Marci
+86,20,3,Dota 2 Champions League 2022 Season 14,meme squad,radiant,18,LOSE,22:10,Invoker,Alchemist,Dazzle,Zeus,Dawnbreaker
+87,20,3,Dota 2 Champions League 2022 Season 14,Empire Hope,dire,40,WIN,22:10,Earth Spirit,Pudge,Io,Viper,Tiny
+88,21,1,Dota 2 Champions League 2022 Season 14,EZ KATKA Esports,dire,8,LOSE,29:38,Meepo,Night Stalker,Ogre Magi,Viper,Tiny
+89,21,1,Dota 2 Champions League 2022 Season 14,GUBINA13,radiant,34,WIN,29:38,Sniper,Hoodwink,Lycan,Void Spirit,Marci
+90,21,2,Dota 2 Champions League 2022 Season 14,EZ KATKA Esports,radiant,34,WIN,31:26,Monkey King,Bounty Hunter,Nature&#039;s Prophet,Keeper of the Light,Tiny
+91,21,2,Dota 2 Champions League 2022 Season 14,GUBINA13,dire,12,LOSE,31:26,Chaos Knight,Io,Void Spirit,Bristleback,Marci
+92,21,3,Dota 2 Champions League 2022 Season 14,EZ KATKA Esports,dire,27,WIN,40:48,Lina,Necrophos,Naga Siren,Razor,Marci
+93,21,3,Dota 2 Champions League 2022 Season 14,GUBINA13,radiant,26,LOSE,40:48,Storm Spirit,Alchemist,Dazzle,Viper,Tiny

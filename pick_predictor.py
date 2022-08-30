@@ -1,9 +1,11 @@
-import pandas as pd
 # Function takes row data and takes only picks and results
-from data_frames import *
-from helping_functions import *
+from analisys.data_frames import *
+from analisys.helping_functions import *
+import functools
 
-row_data = pd.read_csv('DOTA_DATA_MATCHES.csv')
+row_data = pd.read_csv('data/DOTA_DATA_MATCHES.csv')
+
+row_data_doubled = pd.read_csv('data/DOTA_DATA_MATCHES_DOUBLED.csv')
 
 print(row_data.head(20))
 
@@ -13,6 +15,9 @@ def reformat_data_for_overall_winrate():
     return hero_picks_win_rate_df(row_data)
 
 
+print(reformat_data_for_overall_winrate())
+
+
 # Function to format the output
 def add_spaces(my_len, for_what):
     if for_what == 'HERO':
@@ -20,9 +25,16 @@ def add_spaces(my_len, for_what):
     if for_what == 'TOTAL':
         return ' ' * (7 - my_len)
     if for_what == 'VS':
-        return ' ' * (30 - my_len)
+        return ' ' * (40 - my_len)
 
 
+# Takes raw data, and pick to return overall winrate of heroes in given pick
+# ===PICK 1
+# Viper               81     53.0%
+# Clockwerk           101    50.0%
+# Winter Wyvern       141    50.0%
+# Ember Spirit        132    48.0%
+# Terrorblade         67     48.0%
 def formatted_winrate_string(main_df, pick, pick_number):
     result_winrates_string = '===PICK ' + str(pick_number) + '\n'
     for hero in pick:
@@ -34,11 +46,17 @@ def formatted_winrate_string(main_df, pick, pick_number):
     return result_winrates_string
 
 
-def get_formatted_match_pick_list():
-    temp_data = row_data.copy()
+# Takes raw data and merge hero pick of one team with second into one row
+# Then returns 2d list with this structure
+# [[TEAM_1_PICK-RESULT, TEAM_2_PICK-RESULT], [TEAM_1_PICK, TEAM_2_PICK-RESULT]]
+def get_formatted_match_pick_list(data_file):
+    temp_data = data_file.copy()
     temp_data['PICK'] = every_pick_list(temp_data)
     temp_df = temp_data['PICK'].to_frame()
     temp_df = temp_df.groupby(temp_df.index // 2).agg(' | '.join).reset_index()
+    #    Temp DF has this structure
+    # 1  Lycan-Ogre Magi-Bloodseeker-Zeus-Tiny-WIN | Tiny, Io, ...
+    # 2  Spectre-Enigma-Dazzle-Razor-Tiny-WIN | Queen of Pain, ...
     my_list = temp_df['PICK'].to_list()
     for i in range(len(my_list)):
         my_list[i] = my_list[i].split(' | ')
@@ -46,9 +64,9 @@ def get_formatted_match_pick_list():
     return my_list
 
 
+# Takes hero and return list of every pick where this hero appeared
 def get_list_with_matched_heroes(hero):
-    match_pick = get_formatted_match_pick_list()
-
+    match_pick = get_formatted_match_pick_list(row_data_doubled)
     list_with_matched_hero = []
     for i in range(len(match_pick)):
         if hero in match_pick[i][0] or hero in match_pick[i][1]:
@@ -56,34 +74,55 @@ def get_list_with_matched_heroes(hero):
     return list_with_matched_hero
 
 
-def get_heroes_synergy(pick_1, pick_2):
+# In progress
+def get_heroes_synergy(pick_1):
+    pick_1_synergy = []
     for hero in pick_1:
         matched_list = get_list_with_matched_heroes(hero)
-        pick_list = []
+        pick_list = [] # List where hero append
         for pick in matched_list:
             if hero in pick[0]:
                 pick_list.append(pick[0])
             elif hero in pick[1]:
                 pick_list.append(pick[1])
 
-        count_of_pairs_picked = 0
-        count_of_pairs_picked_win = 0
-        for i in pick_list:
-            if 'Marci' in i:
-                count_of_pairs_picked += 1
-                if i[-3:] == 'WIN':
-                    count_of_pairs_picked_win += 1
-        print(count_of_pairs_picked)
-        print(count_of_pairs_picked_win)
+        for hero_to_match in pick_1:
+            count_of_pairs_picked = 0
+            count_of_pairs_picked_win = 0
+            for i in pick_list:
+                # print(i)
+                if hero_to_match in i:
+                    count_of_pairs_picked += 1
+                    if i[-3:] == 'WIN':
+                        count_of_pairs_picked_win += 1
+            if count_of_pairs_picked > 3:
+                try:
+                    pick_1_synergy.append(round(count_of_pairs_picked_win / count_of_pairs_picked, 2))
+                except ZeroDivisionError:
+                    pick_1_synergy.append(0)
+
+    return round(functools.reduce(lambda a, b: a + b, pick_1_synergy) / len(pick_1_synergy), 2)
 
 
-def get_map_pick(ally_pick, list_enemy):
+def get_synergy_odds(pick1, pick2):
+    return [get_heroes_synergy(pick1), get_heroes_synergy(pick2)]
+
+
+# Takes 2 picks and returns duel statistic in the end 2 pick_scores
+# ===Terrorblade DUELS STAT===
+# Terrorblade vs Marci                    6      66.67%
+# Terrorblade vs Nature's Prophet         2      50.0%
+# Terrorblade vs Enchantress              8      62.5%
+# Terrorblade vs Night Stalker            5      60.0%
+# Terrorblade vs Storm Spirit             2      0.0%
+# [750, 385]
+def get_duel_stats(pick_1, pick_2):
     pick1_score = 0
     pick2_score = 0
     result_outer_str = ''
-    for hero in ally_pick:
+    for hero in pick_1:
         result_inner_str = '===' + hero + ' DUELS STAT===\n'
-        for hero_to_duel in list_enemy:
+        for hero_to_duel in pick_2:
             matched_list = get_list_with_matched_heroes(hero)
             enemy_list = []
             for i in matched_list:
@@ -111,7 +150,8 @@ def get_map_pick(ally_pick, list_enemy):
         result_outer_str += result_inner_str
 
     print(result_outer_str)
-    return [round(pick1_score), round(pick2_score)]
+    pick_1_synergy, pick_2_synergy = get_synergy_odds(pick_1, pick_2)
+    return [round(pick1_score * pick_1_synergy), round(pick2_score * pick_2_synergy)]
 
 
 def get_prediction(pick_1, pick_2):
@@ -123,168 +163,18 @@ def get_prediction(pick_1, pick_2):
 
     print(result_string)
     print('\t\t========= DUEL WINRATES =======\n')
-    pick_1_score, pick_2_score = get_map_pick(pick_1, pick_2)
+    pick_1_score, pick_2_score = get_duel_stats(pick_1, pick_2)
+    pick_1_synergy, pick_2_synergy = get_synergy_odds(pick_1, pick_2)
+    print(str(pick_1_synergy) + " : " + str(pick_2_synergy) + '\n')
     print('\t\t========= PICK SCORES =======\n')
-    print(str(pick_1) + ' ' + str(pick_1_score))
-    print(str(pick_2) + ' ' + str(pick_2_score))
-
-# ############################################################################################################
-# # Alliance Entity Map 1 (799:901)
-# get_prediction(['Viper', 'Tiny', 'Warlock', 'Pudge', 'Windranger'],
-#                ['Sven', 'Chen', 'Enigma','Visage', 'Razor'])
-# # Secret Thunder Map 1 (1143:1057)
-# get_prediction(['Razor', 'Marci', 'Ogre Magi', 'Batrider', 'Void Spirit'],
-#                ['Winter Wyvern', 'Weaver','Snapfire', 'Timbersaw', 'Mars'])
-# # Talon Aster Map 1 (860:940)
-# get_prediction(['Io', 'Storm Spirit', 'Earth Spirit', 'Brewmaster', 'Sniper'],
-#                ['Tiny', 'Puck', 'Grimstroke', 'Viper', 'Bristleback'])
-# ############################################################################################################
-# # Alliance Entity Map 2 (558:842)
-# get_prediction(['Chen', 'Enigma', 'Sven', 'Invoker', 'Pudge'],
-#                ['Viper', 'Tiny', 'Warlock', 'Faceless Void', 'Death Prophet'])
-# # Thunder Secret Map 2 (770:830)
-# get_prediction(['Weaver', 'Monkey King', 'Abaddon', 'Alchemist'],
-#               ['Marci', 'Viper', 'Chen', 'Void Spirit', 'Templar Assassin'])
-# # Talon Aster Map 2 (764:1436)
-# get_prediction(['Snapfire', 'Dawnbreaker', 'Void Spirit', 'Faceless Void', 'Alchemist'],
-#                ['Tiny', 'Razor', 'Dazzle', 'Enigma', 'Bloodseeker'])
-# ############################################################################################################
-# # Entity Talon Map 1 (1184:1016)
-# get_prediction(['Bristleback', 'Puck', 'Bane', 'Visage', 'Zeus'],
-#                ['Razor', 'Void Spirit', 'Death Prophet', 'Tusk', 'Dazzle'])
-# # Aster Thunder Map 1 (994:906)
-# get_prediction(['Razor', 'Winter Wyvern', 'Clockwerk', 'Templar Assassin', 'Invoker'],
-#                ['Tiny', 'Queen of Pain', 'Dazzle', 'Bloodseeker', 'Timbersaw'])
-# # Secret Alliance Map 1 (944:856)
-# get_prediction(['Dazzle', 'Faceless Void', 'Puck', 'Snapfire', 'Timbersaw'],
-#               ['Razor', 'Marci', 'Omniknight', 'Kunkka', 'Beastmaster'])
-# ############################################################################################################
-# # Secret Alliance Map 2 ()
-# get_prediction(['Marci', 'Razor', 'Dark Willow','Timbersaw', 'Monkey King'],
-#                ['Earth Spirit', 'Keeper of the Light', 'Bristleback', 'Mars', 'Io'])
-# # Talon Entity Map 2 (625:575)
-# get_prediction(['Io', 'Bristleback', 'Keeper of the Light', 'Tusk', 'Timbersaw'],
-#                ['Chen', 'Viper', 'Sven', 'Invoker', 'Pudge'])
-# # Thunder Aster Map 2 (959:1041)
-# get_prediction(['Tiny', 'Batrider', 'Ogre Magi', 'Weaver', 'Monkey King'],
-#                ['Razor', 'Grimstroke', 'Earth Spirit', 'Faceless Void', 'Void Spirit'])
-# ############################################################################################################
-# # Liquid OG Map 1 (775:825)
-# get_prediction(['Tiny', 'Puck', 'Ancient Apparition', 'Lycan', 'Dawnbreaker'],
-#                ['Razor', 'Chen', 'Earthshaker', 'Templar Assassin', 'Ember Spirit'])
-# # TSM Nigma Map1 (784:816)
-# get_prediction(['Razor', 'Tiny', 'Jakiro', 'Doom', 'Phantom Assassin'],
-#                ['Enchantress', 'Puck', 'Tusk', 'Lone Druid', 'Death Prophet'])
-# # Fnatic Boom Map 1 (1138:962)
-# get_prediction(['Chen', 'Faceless Void', 'Marci', 'Batrider', 'Pudge'],
-#                ['Mars', 'Snapfire', 'Winter Wyvern', 'Juggernaut', 'Zeus'])
-# ############################################################################################################
-# # Liquid OG Map 2 (939:761)
-# get_prediction(['Chen', 'Lone Druid', 'Nyx Assassin', 'Enigma', 'Storm Spirit'],
-#                ['Razor', 'Elder Titan', 'Snapfire', 'Templar Assassin', 'Pangolier'])
-# # TSM Nigma Map 2 (766:734)
-# get_prediction(['Mirana', 'Puck', 'Witch Doctor', 'Brewmaster', 'Templar Assassin'],
-#                ['Enchantress', 'Lone Druid', 'Monkey King', 'Nyx Assassin', 'Enigma'])
-# # Fnatic Boom Map 2 (835:1065)
-# get_prediction(['Tiny', 'Batrider', 'Templar Assassin', 'Enchantress', 'Keeper of the Light'],
-#                ['Kunkka', 'Winter Wyvern', 'Mirana', 'Phantom Lancer', 'Venomancer'])
-# ############################################################################################################
-# # Liquid Nigma Map 1 (910:1090)
-# get_prediction(['Death Prophet', 'Tiny', 'Keeper of the Light', 'Night Stalker', 'Skywrath Mage'],
-#                ['Puck', 'Tusk', 'Bristleback', 'Snapfire', 'Visage'])
-# # TSM Boom Map 1 (1077:1223)
-# get_prediction(['Enchantress', 'Puck', 'Rubick', 'Faceless Void', 'Lycan'],
-#                ['Tiny', 'Death Prophet', 'Zeus', 'Clockwerk', 'Wraith King'])
-# # OG Fnatic Map 1 (851:849)
-# get_prediction(['Razor', 'Elder Titan', 'Winter Wyvern', 'Kunkka', 'Alchemist'],
-#                ['Chen', 'Faceless Void', 'Queen of Pain', 'Earth Spirit', 'Weaver'])
-# ############################################################################################################
-# # Liquid Nigma Map 2 (793:1007)
-# get_prediction(['Dazzle', 'Tiny', 'Batrider', 'Timbersaw', 'Ursa'],
-#                ['Winter Wyvern', 'Keeper of the Light', 'Chen', 'Faceless Void', 'Axe'])
-# # TSM Boom Map 2 (1061:1039)
-# get_prediction(['Enchantress', 'Enigma', 'Queen of Pain', 'Tusk', 'Monkey King'],
-#                ['Tiny', 'Dazzle', 'Pangolier', "Nature's Prophet", 'Weaver'])
-# # OG Fnatic Map 2 (802:598)
-# get_prediction(['Chen', 'Puck', 'Treant Protector', 'Arc Warden', 'Sand King'],
-#                ['Razor', 'Templar Assassin', 'Monkey King', 'Enchantress', 'Broodmother'])
-# ############################################################################################################
-
-# # Thunder Entity Map 1(588:812)
-# get_prediction(['Winter Wyvern', 'Mars', 'Rubick', 'Centaur Warrunner', 'Phantom Assassin'],
-#                 ['Tiny', 'Invoker', 'Abaddon','Faceless Void', 'Phoenix'])
-# # Secret Aster Map 1 (918:982)
-# get_prediction(['Ogre Magi', 'Monkey King', 'Dawnbreaker', 'Queen of Pain', 'Tusk'],
-#                ['Mars', 'Templar Assassin', 'Batrider', 'Mars', 'Enchantress'])
-# # Talon Alliance Map 1 (444:456)
-# get_prediction(['Ursa', 'Templar Assassin', 'Beastmaster', 'Hoodwink', 'Ogre Magi'],
-#                ['Phoenix', 'Enchantress', 'Centaur Warrunner', 'Huskar', 'Pudge'])
-
-# # Secret Aster Map 2 (570:630)
-# get_prediction(['Ogre Magi', 'Queen of Pain', 'Bloodseeker', 'Dark Willow', 'Timbersaw'],
-#                ['Grimstroke', 'Monkey King', 'Dragon Knight', 'Enigma', 'Tiny'])
-# # Thunder Entity Map 2 (640:760)
-# get_prediction(['Mars', 'Kunkka', 'Dazzle', 'Enigma', 'Rubick'],
-#                ['Disruptor', 'Tiny', 'Queen of Pain', 'Visage', 'Lifestealer'])
+    print(str(pick_1) + ' ' + str(pick_1_score ))
+    print(str(pick_2) + ' ' + str(pick_2_score ))
 
 
-# # Entity Secret Map 1 (590:410)
-# get_prediction(['Sven', 'Visage', 'Bane', 'Pudge', 'Ember Spirit'],
-#                ['Ogre Magi', 'Templar Assassin', 'Techies', 'Tidehunter', 'Mars'])
-# # Thunder Talon Map 1 (800:600)
-# get_prediction(['Tiny', 'Templar Assassin', 'Snapfire', 'Ogre Magi', 'Tidehunter'],
-#                ['Enchantress', 'Centaur Warrunner', 'Phoenix', 'Pudge', 'Monkey King'])
-
-# # Entity Secret Map 2 (369:331)
-# get_prediction(['Techies', 'Sven', 'Tidehunter', 'Bristleback', 'Sniper'],
-#                ['Chen', 'Visage', 'Hoodwink', 'Lone Druid', 'Ember Spirit'])
-# # Thunder Talon Map 2 (904:996)
-# get_prediction(['Batrider', 'Winter Wyvern', 'Centaur Warrunner', 'Nyx Assassin', 'Wraith King'],
-#                ['Doom', 'Clockwerk', 'Puck', 'Visage', 'Bane'])
-
-# # Boom Nigma Map 1 ()
-# get_prediction(['Doom', 'Rubick'],
-#                ['Enchantress', 'Dawnbreaker', 'Earth Spirit'])
-# # OG TSM Map 1 ()
-# get_prediction(['Snapfire', 'Faceless Void', 'Legion Commander', 'Dazzle', 'Death Prophet'],
-#                ['Chen', 'Mars', 'Techies', 'Troll Warlord', 'Shadow Fiend'])
-# # Fnatic Liquid Map 1 ()
-# get_prediction(['Tiny', 'Puck', 'Bloodseeker', 'Shadow Demon'],
-#                ['Keeper of the Light', 'Bristleback', 'Nyx Assassin', 'Batrider'])
-
-# # Nigma Boom Map 2 (563:637)
-# get_prediction(['Io', 'Terrorblade', 'Lion', 'Queen of Pain', 'Pudge'],
-#                ['Death Prophet', 'Tusk', 'Snapfire', 'Faceless Void', 'Zeus'])
-
-# get_prediction(['Puck', 'Tusk', 'Enchantress', 'Pudge', 'Batrider'],
-#               ['Keeper of the Light', 'Night Stalker', 'Earthshaker', 'Razor'])
-
-# # Fnatic TSM Map 1 ()
-# get_prediction(['Keeper of the Light', 'Beastmaster', 'Rubick', 'Brewmaster', 'Luna'],
-#                    ['Queen of Pain', 'Nyx Assassin', 'Warlock', 'Phantom Assassin', 'Dark Seer'])
+# print(get_synergy_odds(['Razor', 'Elder Titan', 'Snapfire', 'Templar Assassin', 'Pangolier'],
+#                    ['Chen', 'Lone Druid', 'Nyx assassin', 'Enigma', 'Storm Spirit']) )
 #
-# get_prediction(['Chaos Knight', 'Dazzle', 'Rubick', 'Pangolier', 'Juggernaut'],
-#                ['Death Prophet', 'Brewmaster', 'Puck', 'Dark Willow', 'Alchemist'])
+# get_prediction(['Razor', 'Elder Titan', 'Snapfire', 'Templar Assassin', 'Pangolier'],
+#                 ['Chen', 'Lone Druid', 'Nyx Assassin', 'Enigma', 'Storm Spirit'])
 
-# get_prediction(['Snapfire', 'Mars', 'Mirana', 'Ogre Magi', 'Medusa'],
-#                ['Tiny', 'Enchantress', 'Monkey King', 'Storm Spirit', 'Visage'])
-#
-# get_prediction(['Keeper of the Light', 'Bristleback', 'Nyx Assassin', 'Razor', 'Pangolier'],
-#                ['Batrider', 'Mars', 'Dark Willow', 'Dawnbreaker', 'Phantom Assassin'])
 
-# get_prediction(['Queen of Pain', 'Shadow Shaman', 'Undying', 'Beastmaster', 'Ursa'],
-#                ['Ogre Magi', 'Invoker', 'Monkey King', 'Techies', 'Axe'])
-#
-# get_prediction(['Chen', 'Tusk', 'Rubick', 'Pudge', 'Faceless Void'],
-#                ['Tiny', 'Puck', 'Templar Assassin', 'Elder Titan', 'Keeper of the Light'])
-
-# get_prediction(['Enigma', 'Batrider', 'Ancient Apparition', 'Nyx Assassin', 'Alchemist'],
-#               ['Dawnbreaker', 'Winter Wyvern', 'Puck', 'Phantom Assassin', 'Beastmaster'])
-
-# def test_predictor():
-#    picks_list = get_formatted_match_pick_list()
-#    for map in picks_list:
-#        str_to_list_pick1 = map[0].split('-')[:-1]
-#        str_to_list_pick2 = map[1].split('-')[:-1]
-#        print(str(get_map_pick(str_to_list_pick1, str_to_list_pick2)) + ' : '
-#              + str([map[0][-4:], map[1][-4:]]))

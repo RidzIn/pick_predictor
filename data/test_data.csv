@@ -1,0 +1,133 @@
+,MATCH_ID,MAP,TOURNAMENT,TEAM,SIDE,SCORE,RESULT,DURATION,HERO_1,HERO_2,HERO_3,HERO_4,HERO_5
+0,1,1,ESL One Malaysia 2022,Nigma Galaxy,radiant,25,WIN,31:42,Death Prophet,Lone Druid,Tusk,Puck,Enchantress
+1,1,1,ESL One Malaysia 2022,Team SoloMid,dire,9,LOSE,31:42,Phantom Assassin,Doom,Jakiro,Tiny,Razor
+2,1,2,ESL One Malaysia 2022,Nigma Galaxy,dire,15,LOSE,33:22,Enigma,Nyx Assassin,Monkey King,Lone Druid,Enchantress
+3,1,2,ESL One Malaysia 2022,Team SoloMid,radiant,27,WIN,33:22,Templar Assassin,Brewmaster,Witch Doctor,Mirana,Puck
+4,2,1,ESL One Malaysia 2022,Team Aster,radiant,12,LOSE,31:01,Sven,Dawnbreaker,Spirit Breaker,Grimstroke,Puck
+5,2,1,ESL One Malaysia 2022,Entity Gaming,dire,40,WIN,31:01,Lycan,Bloodseeker,Bane,Tiny,Batrider
+6,2,2,ESL One Malaysia 2022,Team Aster,radiant,40,WIN,52:45,Mars,Troll Warlord,Oracle,Queen of Pain,Tiny
+7,2,2,ESL One Malaysia 2022,Entity Gaming,dire,25,LOSE,52:45,Leshrac,Omniknight,Enigma,Sven,Batrider
+8,3,1,ESL One Malaysia 2022,OG,dire,31,WIN,37:16,Shadow Fiend,Troll Warlord,Techies,Mars,Chen
+9,3,1,ESL One Malaysia 2022,Team SoloMid,radiant,23,LOSE,37:16,Death Prophet,Dazzle,Legion Commander,Faceless Void,Snapfire
+10,3,2,ESL One Malaysia 2022,OG,dire,27,LOSE,35:37,Troll Warlord,Lion,Timbersaw,Lina,Io
+11,3,2,ESL One Malaysia 2022,Team SoloMid,radiant,47,WIN,35:37,Axe,Templar Assassin,Clockwerk,Phoenix,Queen of Pain
+12,4,1,ESL One Malaysia 2022,Team Secret,radiant,26,LOSE,42:27,Dawnbreaker,Invoker,Shadow Shaman,Razor,Tusk
+13,4,1,ESL One Malaysia 2022,OG,dire,39,WIN,42:27,Alchemist,Dark Willow,Phoenix,Queen of Pain,Mars
+14,4,2,ESL One Malaysia 2022,Team Secret,radiant,11,LOSE,27:08,Enigma,Tidehunter,Skywrath Mage,Ogre Magi,Razor
+15,4,2,ESL One Malaysia 2022,OG,dire,31,WIN,27:08,Slark,Dark Willow,Bloodseeker,Puck,Chen
+16,5,1,ESL One Malaysia 2022,Fnatic,radiant,12,LOSE,33:00,Luna,Brewmaster,Rubick,Beastmaster,Keeper of the Light
+17,5,1,ESL One Malaysia 2022,Team SoloMid,dire,31,WIN,33:00,Dark Seer,Phantom Assassin,Warlock,Nyx Assassin,Queen of Pain
+18,5,2,ESL One Malaysia 2022,Fnatic,dire,44,WIN,44:36,Visage,Storm Spirit,Monkey King,Enchantress,Tiny
+19,5,2,ESL One Malaysia 2022,Team SoloMid,radiant,21,LOSE,44:36,Medusa,Ogre Magi,Mirana,Mars,Snapfire
+20,6,1,ESL One Malaysia 2022,Team Liquid,dire,36,LOSE,58:05,Axe,Techies,Monkey King,Invoker,Ogre Magi
+21,6,1,ESL One Malaysia 2022,Team SoloMid,radiant,40,WIN,58:05,Ursa,Beastmaster,Undying,Shadow Shaman,Queen of Pain
+22,6,2,ESL One Malaysia 2022,Team Liquid,dire,29,WIN,32:52,Elder Titan,Slark,Abaddon,Dawnbreaker,Tiny
+23,6,2,ESL One Malaysia 2022,Team SoloMid,radiant,5,LOSE,32:52,Morphling,Centaur Warrunner,Rubick,Batrider,Warlock
+24,7,1,ESL One Malaysia 2022,OG,dire,29,WIN,25:37,Alchemist,Kunkka,Winter Wyvern,Elder Titan,Razor
+25,7,1,ESL One Malaysia 2022,Fnatic,radiant,8,LOSE,25:37,Weaver,Earth Spirit,Queen of Pain,Faceless Void,Chen
+26,7,2,ESL One Malaysia 2022,OG,radiant,28,WIN,27:15,Sand King,Arc Warden,Treant Protector,Puck,Chen
+27,7,2,ESL One Malaysia 2022,Fnatic,dire,13,LOSE,27:15,Broodmother,Enchantress,Monkey King,Templar Assassin,Razor
+28,8,1,ESL One Malaysia 2022,Talon Esports,dire,14,LOSE,28:34,Monkey King,Pudge,Phoenix,Centaur Warrunner,Enchantress
+29,8,1,ESL One Malaysia 2022,Thunder Awaken,radiant,34,WIN,28:34,Tidehunter,Ogre Magi,Snapfire,Templar Assassin,Tiny
+30,8,2,ESL One Malaysia 2022,Talon Esports,dire,37,WIN,32:50,Visage,Bane,Clockwerk,Puck,Doom
+31,8,2,ESL One Malaysia 2022,Thunder Awaken,radiant,13,LOSE,32:50,Wraith King,Batrider,Nyx Assassin,Centaur Warrunner,Winter Wyvern
+32,9,1,ESL One Malaysia 2022,OG,dire,17,LOSE,36:19,Sand King,Shadow Demon,Invoker,Faceless Void,Enchantress
+33,9,1,ESL One Malaysia 2022,BOOM Esports,radiant,45,WIN,36:19,Chaos Knight,Mars,Dark Willow,Clockwerk,Batrider
+34,9,2,ESL One Malaysia 2022,OG,radiant,5,LOSE,24:13,Slardar,Templar Assassin,Io,Techies,Mars
+35,9,2,ESL One Malaysia 2022,BOOM Esports,dire,33,WIN,24:13,Pudge,Kunkka,Dark Willow,Pangolier,Chen
+36,10,1,ESL One Malaysia 2022,Fnatic,radiant,38,WIN,34:52,Pudge,Batrider,Marci,Faceless Void,Chen
+37,10,1,ESL One Malaysia 2022,BOOM Esports,dire,17,LOSE,34:52,Zeus,Juggernaut,Winter Wyvern,Snapfire,Mars
+38,10,2,ESL One Malaysia 2022,Fnatic,dire,42,WIN,49:21,Keeper of the Light,Enchantress,Templar Assassin,Batrider,Tiny
+39,10,2,ESL One Malaysia 2022,BOOM Esports,radiant,28,LOSE,49:21,Venomancer,Phantom Lancer,Mirana,Winter Wyvern,Kunkka
+40,11,1,ESL One Malaysia 2022,Nigma Galaxy,dire,46,WIN,49:29,Night Stalker,Bloodseeker,Earth Spirit,Dawnbreaker,Enchantress
+41,11,1,ESL One Malaysia 2022,BOOM Esports,radiant,24,LOSE,49:29,Keeper of the Light,Weaver,Clockwerk,Rubick,Doom
+42,11,2,ESL One Malaysia 2022,Nigma Galaxy,radiant,43,WIN,44:23,Pudge,Queen of Pain,Lion,Terrorblade,Io
+43,11,2,ESL One Malaysia 2022,BOOM Esports,dire,30,LOSE,44:23,Zeus,Faceless Void,Snapfire,Tusk,Death Prophet
+44,12,1,ESL One Malaysia 2022,Team Liquid,dire,28,WIN,38:47,Alchemist,Dark Willow,Brewmaster,Puck,Death Prophet
+45,12,1,ESL One Malaysia 2022,BOOM Esports,radiant,18,LOSE,38:47,Juggernaut,Pangolier,Rubick,Dazzle,Chaos Knight
+46,12,2,ESL One Malaysia 2022,Team Liquid,radiant,18,LOSE,42:40,Pangolier,Razor,Nyx Assassin,Bristleback,Keeper of the Light
+47,12,2,ESL One Malaysia 2022,BOOM Esports,dire,39,WIN,42:40,Phantom Assassin,Dark Willow,Mars,Batrider,Dawnbreaker
+48,13,1,ESL One Malaysia 2022,OG,dire,21,WIN,33:17,Ember Spirit,Templar Assassin,Earthshaker,Chen,Razor
+49,13,1,ESL One Malaysia 2022,Team Liquid,radiant,21,LOSE,33:17,Dawnbreaker,Lycan,Ancient Apparition,Puck,Tiny
+50,13,2,ESL One Malaysia 2022,OG,radiant,34,WIN,36:20,Pangolier,Templar Assassin,Snapfire,Elder Titan,Razor
+51,13,2,ESL One Malaysia 2022,Team Liquid,dire,25,LOSE,36:20,Storm Spirit,Enigma,Nyx Assassin,Lone Druid,Chen
+52,14,1,ESL One Malaysia 2022,Entity Gaming,dire,24,WIN,21:44,Alchemist,Nyx Assassin,Ancient Apparition,Batrider,Enigma
+53,14,1,ESL One Malaysia 2022,Team SoloMid,radiant,5,LOSE,21:44,Beastmaster,Phantom Assassin,Puck,Winter Wyvern,Dawnbreaker
+54,14,2,ESL One Malaysia 2022,Entity Gaming,radiant,35,WIN,29:45,Lina,Pangolier,Pudge,Sven,Ancient Apparition
+55,14,2,ESL One Malaysia 2022,Team SoloMid,dire,10,LOSE,29:45,Grimstroke,Ursa,Doom,Tiny,Chen
+56,15,1,ESL One Malaysia 2022,Thunder Awaken,radiant,44,WIN,48:31,Phantom Assassin,Centaur Warrunner,Rubick,Mars,Winter Wyvern
+57,15,1,ESL One Malaysia 2022,Entity Gaming,dire,26,LOSE,48:31,Phoenix,Faceless Void,Abaddon,Invoker,Tiny
+58,15,2,ESL One Malaysia 2022,Thunder Awaken,radiant,24,WIN,26:31,Enigma,Kunkka,Dazzle,Mars,Rubick
+59,15,2,ESL One Malaysia 2022,Entity Gaming,dire,10,LOSE,26:31,Lifestealer,Disruptor,Queen of Pain,Visage,Tiny
+60,16,1,ESL One Malaysia 2022,OG,dire,39,WIN,43:45,Mars,Outworld Devourer,Rubick,Monkey King,Viper
+61,16,1,ESL One Malaysia 2022,Thunder Awaken,radiant,22,LOSE,43:45,Nature&#039;s Prophet,Ogre Magi,Hoodwink,Tiny,Timbersaw
+62,16,2,ESL One Malaysia 2022,OG,radiant,32,LOSE,44:30,Templar Assassin,Clockwerk,Storm Spirit,Razor,Io
+63,16,2,ESL One Malaysia 2022,Thunder Awaken,dire,38,WIN,44:30,Morphling,Tiny,Ancient Apparition,Snapfire,Kunkka
+64,16,3,ESL One Malaysia 2022,OG,dire,42,WIN,51:58,Ember Spirit,Huskar,Undying,Earthshaker,Queen of Pain
+65,16,3,ESL One Malaysia 2022,Thunder Awaken,radiant,25,LOSE,51:58,Terrorblade,Rubick,Dazzle,Kunkka,Mars
+66,17,1,ESL One Malaysia 2022,Team Liquid,dire,43,WIN,36:38,Skywrath Mage,Keeper of the Light,Night Stalker,Tiny,Death Prophet
+67,17,1,ESL One Malaysia 2022,Nigma Galaxy,radiant,13,LOSE,36:38,Visage,Snapfire,Bristleback,Tusk,Puck
+68,17,2,ESL One Malaysia 2022,Team Liquid,radiant,29,LOSE,41:53,Ursa,Timbersaw,Batrider,Tiny,Dazzle
+69,17,2,ESL One Malaysia 2022,Nigma Galaxy,dire,38,WIN,41:53,Axe,Faceless Void,Chen,Keeper of the Light,Winter Wyvern
+70,18,1,ESL One Malaysia 2022,Thunder Awaken,radiant,16,LOSE,29:58,Invoker,Templar Assassin,Clockwerk,Winter Wyvern,Razor
+71,18,1,ESL One Malaysia 2022,Team Aster,dire,43,WIN,29:58,Timbersaw,Bloodseeker,Queen of Pain,Dazzle,Tiny
+72,18,2,ESL One Malaysia 2022,Thunder Awaken,radiant,27,LOSE,33:58,Monkey King,Weaver,Ogre Magi,Batrider,Tiny
+73,18,2,ESL One Malaysia 2022,Team Aster,dire,53,WIN,33:58,Void Spirit,Faceless Void,Earth Spirit,Grimstroke,Razor
+74,19,1,ESL One Malaysia 2022,Team Aster,radiant,25,WIN,30:34,Luna,Abaddon,Enigma,Storm Spirit,Tiny
+75,19,1,ESL One Malaysia 2022,Team Secret,dire,18,LOSE,30:34,Ember Spirit,Monkey King,Dark Willow,Earthshaker,Batrider
+76,19,2,ESL One Malaysia 2022,Team Aster,dire,40,WIN,40:46,Mars,Phantom Assassin,Hoodwink,Winter Wyvern,Puck
+77,19,2,ESL One Malaysia 2022,Team Secret,radiant,15,LOSE,40:46,Terrorblade,Kunkka,Crystal Maiden,Enigma,Tusk
+78,20,1,ESL One Malaysia 2022,Fnatic,dire,17,LOSE,36:38,Sniper,Mars,Omniknight,Storm Spirit,Hoodwink
+79,20,1,ESL One Malaysia 2022,Entity Gaming,radiant,24,WIN,36:38,Lycan,Faceless Void,Skywrath Mage,Sven,Batrider
+80,20,2,ESL One Malaysia 2022,Fnatic,radiant,29,WIN,31:46,Razor,Alchemist,Nyx Assassin,Undying,Batrider
+81,20,2,ESL One Malaysia 2022,Entity Gaming,dire,15,LOSE,31:46,Pudge,Oracle,Pangolier,Invoker,Tiny
+82,20,3,ESL One Malaysia 2022,Fnatic,radiant,32,WIN,32:07,Alchemist,Razor,Nyx Assassin,Undying,Batrider
+83,20,3,ESL One Malaysia 2022,Entity Gaming,dire,22,LOSE,32:07,Ursa,Pangolier,Oracle,Skywrath Mage,Legion Commander
+84,21,1,ESL One Malaysia 2022,Fnatic,dire,19,LOSE,45:04,Keeper of the Light,Elder Titan,Templar Assassin,Puck,Tiny
+85,21,1,ESL One Malaysia 2022,Nigma Galaxy,radiant,37,WIN,45:04,Faceless Void,Pudge,Rubick,Tusk,Chen
+86,21,2,ESL One Malaysia 2022,Fnatic,radiant,29,WIN,38:37,Tidehunter,Ursa,Kunkka,Tiny,Enchantress
+87,21,2,ESL One Malaysia 2022,Nigma Galaxy,dire,12,LOSE,38:37,Zeus,Earthshaker,Phoenix,Pudge,Queen of Pain
+88,22,1,ESL One Malaysia 2022,OG,radiant,50,WIN,35:31,Monkey King,Huskar,Earthshaker,Elder Titan,Queen of Pain
+89,22,1,ESL One Malaysia 2022,Nigma Galaxy,dire,18,LOSE,35:31,Visage,Earth Spirit,Nature&#039;s Prophet,Faceless Void,Chen
+90,22,2,ESL One Malaysia 2022,OG,dire,23,WIN,33:14,Alchemist,Pangolier,Viper,Monkey King,Chen
+91,22,2,ESL One Malaysia 2022,Nigma Galaxy,radiant,26,LOSE,33:14,Bloodseeker,Keeper of the Light,Primal Beast,Enchantress,Elder Titan
+92,23,1,ESL One Malaysia 2022,BOOM Esports,dire,6,LOSE,29:58,Wraith King,Clockwerk,Zeus,Death Prophet,Tiny
+93,23,1,ESL One Malaysia 2022,Team SoloMid,radiant,25,WIN,29:58,Lycan,Faceless Void,Rubick,Puck,Enchantress
+94,23,2,ESL One Malaysia 2022,BOOM Esports,radiant,28,WIN,39:06,Weaver,Nature&#039;s Prophet,Pangolier,Dazzle,Tiny
+95,23,2,ESL One Malaysia 2022,Team SoloMid,dire,15,LOSE,39:06,Monkey King,Tusk,Queen of Pain,Enigma,Enchantress
+96,24,1,ESL One Malaysia 2022,Team Secret,radiant,58,WIN,46:48,Ember Spirit,Razor,Clockwerk,Batrider,Tusk
+97,24,1,ESL One Malaysia 2022,Talon Esports,dire,23,LOSE,46:48,Enigma,Pangolier,Bane,Enchantress,Dawnbreaker
+98,24,2,ESL One Malaysia 2022,Team Secret,radiant,12,LOSE,34:00,Weaver,Lycan,Techies,Sven,Lina
+99,24,2,ESL One Malaysia 2022,Talon Esports,dire,49,WIN,34:00,Primal Beast,Invoker,Dawnbreaker,Clockwerk,Queen of Pain
+100,25,1,ESL One Malaysia 2022,Team Secret,radiant,55,WIN,39:07,Dawnbreaker,Queen of Pain,Tusk,Monkey King,Ogre Magi
+101,25,1,ESL One Malaysia 2022,Team Aster,dire,24,LOSE,39:07,Templar Assassin,Phoenix,Mars,Batrider,Enchantress
+102,25,2,ESL One Malaysia 2022,Team Secret,radiant,14,LOSE,39:37,Timbersaw,Dark Willow,Bloodseeker,Queen of Pain,Ogre Magi
+103,25,2,ESL One Malaysia 2022,Team Aster,dire,33,WIN,39:37,Tiny,Enigma,Dragon Knight,Monkey King,Grimstroke
+104,26,1,ESL One Malaysia 2022,Team Aster,radiant,16,LOSE,46:16,Enigma,Troll Warlord,Dazzle,Queen of Pain,Tiny
+105,26,1,ESL One Malaysia 2022,OG,dire,20,WIN,46:16,Bristleback,Shadow Fiend,Omniknight,Dark Willow,Mars
+106,26,2,ESL One Malaysia 2022,Team Aster,radiant,33,LOSE,49:56,Visage,Phantom Assassin,Winter Wyvern,Puck,Tiny
+107,26,2,ESL One Malaysia 2022,OG,dire,44,WIN,49:56,Terrorblade,Nyx Assassin,Techies,Ember Spirit,Mars
+108,26,3,ESL One Malaysia 2022,Team Aster,dire,18,LOSE,40:55,Bloodseeker,Grimstroke,Tiny,Hoodwink,Mars
+109,26,3,ESL One Malaysia 2022,OG,radiant,36,WIN,40:55,Underlord,Phantom Assassin,Shadow Demon,Dark Willow,Puck
+110,27,1,ESL One Malaysia 2022,Fnatic,dire,28,WIN,37:32,Beastmaster,Alchemist,Dark Willow,Puck,Tiny
+111,27,1,ESL One Malaysia 2022,OG,radiant,14,LOSE,37:32,Monkey King,Rubick,Dragon Knight,Templar Assassin,Undying
+112,27,2,ESL One Malaysia 2022,Fnatic,radiant,25,LOSE,45:19,Visage,Bloodseeker,Crystal Maiden,Queen of Pain,Tiny
+113,27,2,ESL One Malaysia 2022,OG,dire,38,WIN,45:19,Ember Spirit,Invoker,Dark Willow,Earthshaker,Razor
+114,27,3,ESL One Malaysia 2022,Fnatic,radiant,8,LOSE,32:11,Chaos Knight,Puck,Hoodwink,Razor,Nyx Assassin
+115,27,3,ESL One Malaysia 2022,OG,dire,25,WIN,32:11,Tiny,Shadow Demon,Terrorblade,Viper,Earthshaker
+116,28,1,ESL One Malaysia 2022,Team Secret,radiant,45,LOSE,40:38,Mars,Tidehunter,Techies,Templar Assassin,Ogre Magi
+117,28,1,ESL One Malaysia 2022,Entity Gaming,dire,38,WIN,40:38,Ember Spirit,Pudge,Bane,Visage,Sven
+118,28,2,ESL One Malaysia 2022,Team Secret,radiant,20,WIN,25:40,Sniper,Bristleback,Tidehunter,Sven,Techies
+119,28,2,ESL One Malaysia 2022,Entity Gaming,dire,6,LOSE,25:40,Ember Spirit,Lone Druid,Hoodwink,Visage,Chen
+120,29,1,ESL One Malaysia 2022,Team Secret,radiant,43,WIN,35:32,Void Spirit,Batrider,Ogre Magi,Marci,Razor
+121,29,1,ESL One Malaysia 2022,Thunder Awaken,dire,26,LOSE,35:32,Mars,Snapfire,Weaver,Timbersaw,Winter Wyvern
+122,29,2,ESL One Malaysia 2022,Team Secret,dire,32,WIN,26:18,Templar Assassin,Void Spirit,Chen,Viper,Marci
+123,29,2,ESL One Malaysia 2022,Thunder Awaken,radiant,5,LOSE,26:18,Chaos Knight,Alchemist,Abaddon,Monkey King,Weaver
+124,30,1,ESL One Malaysia 2022,Nigma Galaxy,dire,9,LOSE,36:33,Pangolier,Morphling,Rubick,Dawnbreaker,Enchantress
+125,30,1,ESL One Malaysia 2022,Thunder Awaken,radiant,36,WIN,36:33,Monkey King,Snapfire,Mars,Timbersaw,Winter Wyvern
+126,30,2,ESL One Malaysia 2022,Nigma Galaxy,dire,18,LOSE,40:55,Necrophos,Faceless Void,Rubick,Elder Titan,Queen of Pain
+127,30,2,ESL One Malaysia 2022,Thunder Awaken,radiant,35,WIN,40:55,Sven,Hoodwink,Ember Spirit,Timbersaw,Winter Wyvern
+128,31,1,ESL One Malaysia 2022,Fnatic,radiant,48,WIN,58:10,Venomancer,Shadow Demon,Bloodseeker,Puck,Tiny
+129,31,1,ESL One Malaysia 2022,Team Liquid,dire,31,LOSE,58:10,Pudge,Batrider,Nyx Assassin,Bristleback,Keeper of the Light
+130,31,2,ESL One Malaysia 2022,Fnatic,radiant,30,LOSE,44:28,Batrider,Pudge,Enchantress,Tusk,Puck
+131,31,2,ESL One Malaysia 2022,Team Liquid,dire,43,WIN,44:28,Queen of Pain,Razor,Earthshaker,Night Stalker,Keeper of the Light

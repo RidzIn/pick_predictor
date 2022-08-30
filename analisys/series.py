@@ -1,4 +1,4 @@
-from mapping_fuctions import *
+from analisys.mapping_fuctions import *
 import pandas as pd
 
 

@@ -1,5 +1,5 @@
-from helping_functions import *
-from series import *
+from analisys.helping_functions import *
+from analisys.series import *
 
 
 #   TEAM	          MATCHES	WINS    LOSES	WINRATE
@@ -189,11 +189,11 @@ def unpicked_heroes_df(main_df):
     return result_df
 
 
-def get_overall_info(main_df):
+def get_overall_info(main_df, winner):
     return {'MAPS': len(main_df) // 2,
             'AVG Duration': duration_in_sec_to_duration_in_minutes(main_df['DURATION IN SEC'].mean()),
             'AVG Kills': int(main_df['SCORE'].mean() * 2),
             'Fastest Game': duration_in_sec_to_duration_in_minutes(main_df['DURATION IN SEC'].min()),
             'Longest Game': duration_in_sec_to_duration_in_minutes(main_df['DURATION IN SEC'].max()),
-            'WINNER': 'OG',
+            'WINNER': winner,
             'Unpicked Heroes': unpicked_heroes_list(main_df)}
